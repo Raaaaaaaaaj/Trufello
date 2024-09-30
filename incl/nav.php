@@ -10,7 +10,7 @@
 	        	<li class="nav-item active"><a href="index.php" class="nav-link">Home</a></li>
 	        	<li class="nav-item"><a href="about.php" class="nav-link">About us</a></li>
 				<li class="nav-item dropdown">
-					<a href="services.php" class="nav-link">
+					<a href="#" class="nav-link">
 					  Services <i class="fas fa-chevron-down ml-1"></i> <!-- Down arrow icon -->
 					</a>
 					<ul class="dropdown-menu">

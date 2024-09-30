@@ -147,8 +147,8 @@
     </section>
 
 
-
-	<section class="ftco-section ftco-no-pt ftco-no-pb bg-light mt-2 mt-lg-4"></section>
+	
+	<section class="ftco-section ftco-no-pt ftco-no-pb bg-light mt-2 mt-lg-4">
     	<div class="container">
     		<div class="row d-flex">
     			<div class="col-lg-12 col-md-12 col-sm-12 pl-md-5">
@@ -161,7 +161,6 @@
 		        </div>
 	        </div>
         </div>
-
 		<div class="row pt-md-3">
 			<div class="col-md-4 d-flex align-items-stretch">
 				<div class="services text-center">
@@ -205,6 +204,19 @@
 			</div>
 		</div>
     	</div>
+    </section>
+
+	
+
+	<section class="container pt-5">
+		<div class="row bg-light d-flex align-items-center justify-content-around p-5 icon-section">
+			<img src="images/vector_images/fifa.png" alt="">
+			<img src="images/vector_images/maintanance.png" alt="">
+			<img src="images/vector_images/experience.png" alt="">
+			<img src="images/vector_images/field.png" alt="">
+			<img src="images/vector_images/trophy.png" alt="">
+		</div>
+		
     </section>
 
 

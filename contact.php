@@ -25,7 +25,7 @@
 				        			<span class="fa fa-map-marker"></span>
 				        		</div>
 				        		<div class="text">
-					            <p><span>Address:</span> 198 West 21th Street, Suite 721 New York NY 10016</p>
+					            <p><span>Address:</span> Barrackpore, Kolkata-121</p>
 					          </div>
 				          </div>
 								</div>
@@ -45,7 +45,7 @@
 				        			<span class="fa fa-paper-plane"></span>
 				        		</div>
 				        		<div class="text">
-					            <p><span>Email:</span> <a href="mailto:info@yoursite.com">info@yoursite.com</a></p>
+					            <p><span>Email:</span> <a href="mailto:info@yoursite.com">info@turfelo.com</a></p>
 					          </div>
 				          </div>
 								</div>
@@ -55,7 +55,7 @@
 				        			<span class="fa fa-globe"></span>
 				        		</div>
 				        		<div class="text">
-					            <p><span>Website</span> <a href="#">yoursite.com</a></p>
+					            <p><span>Website</span> <a href="#">turfelo.com</a></p>
 					          </div>
 				          </div>
 								</div>

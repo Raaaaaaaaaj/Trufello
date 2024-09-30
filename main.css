@@ -45,3 +45,7 @@
   .nav-item.dropdown:hover .fas {
     transform: rotate(180deg); /* Rotate the arrow on hover */
   }
+
+.icon-section{
+  box-shadow: 5px 10px;
+}
