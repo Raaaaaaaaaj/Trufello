@@ -13,8 +13,8 @@
       </div>
     </section>
    	
-		<section class="ftco-section ftco-no-pt ftco-no-pb">
-		  <div class="container-fluid px-md-0">
+		<section class="ftco-section">
+		  <div class="container px-md-0">
         <div class="row no-gutters">
           <div class="col-md-4 ftco-animate">
             <div class="gallery img d-flex align-items-end" style="background-image: url(images/gallery-1.jpg);">
