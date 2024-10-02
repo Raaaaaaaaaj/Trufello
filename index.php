@@ -304,50 +304,80 @@
 				<h3 class="mb-2 mb-lg-5">
 					FAQ's
 				</h3>
-				<div id="accordion" class="myaccordion mb-4 mb-lg-0">
+				<div id="accordion" class="myaccordion mb-4 mb-lg-0"> 
 					<div class="card border-0">
 						<div class="card-header" id="headingOne">
 							<h2 class="mb-0">
-								<button class="d-flex align-items-center justify-content-between btn btn-link collapsed" data-toggle="collapse" data-target="#collapseOne" aria-expanded="false" aria-controls="collapseOne">
-									Undergraduate Studies
+								<button class="d-flex align-items-center justify-content-between btn btn-link collapsed text-left" data-toggle="collapse" data-target="#collapseOne" aria-expanded="false" aria-controls="collapseOne">
+								     What sports facilities are available at Trufello?
 									<i class="fa-solid fa-angle-down float-right" style="color: #4e9525;"></i>
 								</button>
 							</h2>
 						</div>
 						<div id="collapseOne" class="collapse" aria-labelledby="headingOne" data-parent="#accordion">
 							<div class="card-body">
-								<p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Minima, esse. Doloribus reiciendis nihil error quisquam modi libero, provident illum in earum ducimus? Animi itaque ipsum sunt velit ad, quos omnis facere, consequuntur veritatis illo illum? Quas cum porro quaerat incidunt. Natus voluptatum consectetur quos voluptas ducimus, atque nemo voluptates quisquam.</p>
+								<p>At Trufello, we offer a variety of sports facilities including football turf, badminton court, swimming pool, volleyball court, basketball turf, tennis court, and multisport turf. Whether you are looking for a place to play with friends or host a tournament, our premium turfs are designed to cater to all your needs.</p>
 							</div>
 						</div>
 					</div>
 					<div class="card border-0">
 						<div class="card-header" id="headingTwo">
 							<h2 class="mb-0">
-								<button class="d-flex align-items-center justify-content-between btn btn-link collapsed" data-toggle="collapse" data-target="#collapseTwo" aria-expanded="false" aria-controls="collapseTwo">
-									Postgraduate Studies
+								<button class="d-flex align-items-center justify-content-between btn btn-link collapsed text-left" data-toggle="collapse" data-target="#collapseTwo" aria-expanded="false" aria-controls="collapseTwo">
+								    How can I book a football turf or badminton court?
 									<i class="fa-solid fa-angle-down float-right" style="color: #4e9525;"></i>
-
 								</button>
 							</h2>
 						</div>
 						<div id="collapseTwo" class="collapse" aria-labelledby="headingTwo" data-parent="#accordion">
 							<div class="card-body">
-								<p>Lorem ipsum dolor sit amet consectetur adipisicing elit. At, ab voluptatibus! Deserunt animi odio maxime voluptas sunt natus soluta, ducimus fugiat, ratione nisi tempore velit quaerat eum nulla quasi atque.</p>
+								<p>Booking a football turf, badminton court, or any other facility is easy. You can book online through our website or call us directly. We provide flexible slots for your convenience. Be sure to book in advance to secure your preferred time.</p>
 							</div>
 						</div>
 					</div>
 					<div class="card border-0">
 						<div class="card-header" id="headingThree">
 							<h2 class="mb-0">
-								<button class="d-flex align-items-center justify-content-between btn btn-link collapsed" data-toggle="collapse" data-target="#collapseThree" aria-expanded="false" aria-controls="collapseThree">
-									Research
+								<button class="d-flex align-items-center justify-content-between btn btn-link collapsed text-left" data-toggle="collapse" data-target="#collapseThree" aria-expanded="false" aria-controls="collapseThree">
+								Is the turf suitable for both professional and casual players?
 									<i class="fa-solid fa-angle-down float-right" style="color: #4e9525;"></i>
 								</button>
 							</h2>
 						</div>
 						<div id="collapseThree" class="collapse" aria-labelledby="headingThree" data-parent="#accordion">
 							<div class="card-body">
-								<p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Dicta non distinctio unde deserunt totam odit necessitatibus nostrum assumenda voluptates ipsum, laboriosam ea delectus atque at nulla consectetur ipsam magnam laborum beatae maiores excepturi? Praesentium temporibus, aliquid fugit soluta totam magni.</p>
+								<p>Yes, our football turf, tennis court, and multisport turfs are designed to cater to both professional and casual players. We ensure high-quality, well-maintained facilities so you can enjoy the best experience whether you are training professionally or just having fun with friends.</p>
+							</div>
+						</div>
+					</div>
+
+					<div class="card border-0">
+						<div class="card-header" id="headingFour">
+							<h2 class="mb-0">
+								<button class="d-flex align-items-center justify-content-between btn btn-link collapsed text-left" data-toggle="collapse" data-target="#collapseFour" aria-expanded="false" aria-controls="collapseFour">
+								What are the charges for using the swimming pool and other facilities?
+									<i class="fa-solid fa-angle-down float-right" style="color: #4e9525;"></i>
+								</button>
+							</h2>
+						</div>
+						<div id="collapseFour" class="collapse" aria-labelledby="headingFour" data-parent="#accordion">
+							<div class="card-body">
+								<p>The charges for our facilities like swimming pool, football turf, badminton court, and others vary depending on the duration and time of booking. Please visit our pricing page or contact us directly for detailed information about our affordable rates.</p>
+							</div>
+						</div>
+					</div>
+					<div class="card border-0">
+						<div class="card-header" id="headingFive">
+							<h2 class="mb-0">
+								<button class="d-flex align-items-center justify-content-between btn btn-link collapsed text-left" data-toggle="collapse" data-target="#collapseFive" aria-expanded="false" aria-controls="collapseFive">
+								Do you provide landscape grass services for personal or commercial use?
+									<i class="fa-solid fa-angle-down float-right" style="color: #4e9525;"></i>
+								</button>
+							</h2>
+						</div>
+						<div id="collapseFive" class="collapse" aria-labelledby="headingFive" data-parent="#accordion">
+							<div class="card-body">
+								<p> Yes, apart from our sports facilities, we also offer landscape grass services for personal lawns or commercial spaces. Our team ensures high-quality, eco-friendly grass installation that enhances the beauty of your space.</p>
 							</div>
 						</div>
 					</div>
