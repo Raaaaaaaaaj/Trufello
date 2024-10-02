@@ -1,6 +1,7 @@
 
 #navbar{
     border-radius: 17px;
+    margin-top: 20px;
 }
 .nav-item .dropdown-menu {
     display: none;
@@ -45,6 +46,17 @@
   .nav-item.dropdown:hover .fas {
     transform: rotate(180deg); /* Rotate the arrow on hover */
   }
+
+  #navbar.full-width {
+    width: 100%; /* Full width */
+    margin: 0; /* Remove margins */
+    top: 0; /* Fixed to the top */
+    left: 0; /* Align to the left */
+    position: fixed; /* Fix position when scrolled */
+    z-index: 9999; /* Ensure navbar stays above other content */
+    border-radius: 0;
+}
+
 
 .icon-section{
   box-shadow: 5px 10px;

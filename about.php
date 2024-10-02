@@ -15,36 +15,20 @@
    	
     <section class="ftco-section ftco-no-pt ftco-no-pb bg-light">
     	<div class="container">
-    		<div class="row d-flex">
+    		<div class="row d-flex py-5">
     			<div class="col-md-6 d-flex">
-    				<div class="img img-video d-flex align-self-stretch align-items-center justify-content-center justify-content-md-end" style="background-image:url(images/about.jpg);">
-    					<a href="https://vimeo.com/45830194" class="icon-video popup-vimeo d-flex justify-content-center align-items-center">
-    						<span class="icon-play"></span>
-    					</a>
+    				<div class="img img-video d-flex align-self-stretch align-items-center justify-content-center justify-content-md-end 70vh" style="background-image:url(images/about.jpg);">
+    					
     				</div>
     			</div>
     			<div class="col-md-6 pl-md-5">
     				<div class="row justify-content-start py-5">
 		          <div class="col-md-12 heading-section ftco-animate">
-		          	<span class="subheading">Welcome to Lawn Care</span>
-		            <h2 class="mb-4">Welcome to Lawn Care Company</h2>
+		          	<span class="subheading">About Our Company</span>
+		            <h2 class="mb-4">Welcome to Turfello</h2>
 		            <p>Far far away, behind the word mountains, far from the countries Vokalia and Consonantia</p>
-		            <div class="services-wrap">
-		            	<a href="#" class="services-list">Gutter cleaning
-		            		<div class="btn-custom d-flex align-items-center justify-content-center"><span class="ion-ios-arrow-round-forward"></span></div>
-		            	</a>
-		            	<a href="#" class="services-list">Organinc fertilization and weed control
-		            		<div class="btn-custom d-flex align-items-center justify-content-center"><span class="ion-ios-arrow-round-forward"></span></div>
-		            	</a>
-		            	<a href="#" class="services-list">Compost top dressing &amp; compost tea application
-		            		<div class="btn-custom d-flex align-items-center justify-content-center"><span class="ion-ios-arrow-round-forward"></span></div>
-		            	</a>
-		            	<a href="#" class="services-list">New lawn installation
-		            		<div class="btn-custom d-flex align-items-center justify-content-center"><span class="ion-ios-arrow-round-forward"></span></div>
-		            	</a>
-		            	<a href="#" class="services-list">Mulch and other services available
-		            		<div class="btn-custom d-flex align-items-center justify-content-center"><span class="ion-ios-arrow-round-forward"></span></div>
-		            	</a>
+		            <div class="about-text">
+		            	Lorem ipsum, dolor sit amet consectetur adipisicing elit. Mollitia perferendis dignissimos eaque accusantium, ad fuga nemo ducimus reprehenderit voluptatum enim ut quia aliquid illo officia aliquam amet temporibus. Saepe esse accusantium architecto, doloribus soluta doloremque assumenda. Dignissimos hic corporis eius laudantium provident, aperiam, cupiditate, odio quibusdam quo culpa commodi. Eaque quisquam fugiat harum eligendi fuga. Ipsum sapiente mollitia incidunt excepturi.
 		            </div>
 		          </div>
 		        </div>
@@ -53,7 +37,7 @@
     	</div>
     </section>
 
-    <section class="ftco-intro bg-primary py-5">
+    <!-- <section class="ftco-intro bg-primary py-5">
 			<div class="container">
 				<div class="row justify-content-between align-items-center">
 					<div class="col-md-6">
@@ -65,7 +49,7 @@
 					</div>
 				</div>
 			</div>
-		</section>
+		</section> -->
 		
 
     <section class="ftco-section testimony-section">
@@ -156,7 +140,7 @@
     </section>
 
 
-    <section class="ftco-section ftco-no-pt ftco-no-pb bg-primary">
+    <!-- <section class="ftco-section ftco-no-pt ftco-no-pb bg-primary">
       <div class="container">
         <div class="row d-flex justify-content-center">
         	<div class="col-lg-8 py-4">
@@ -176,7 +160,9 @@
           </div>
         </div>
       </div>
-    </section>
+    </section> -->
+	<?php include "incl/cta.php"; ?>
+
 
 <?php include 'incl/footer.php'?>
     

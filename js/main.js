@@ -180,3 +180,28 @@
 
 })(jQuery);
 
+// window.addEventListener('scroll', function() {
+//     const navbar = document.getElementById('navbar');
+    
+//     // Check if the page has been scrolled more than 50px
+//     if (window.scrollY > 50) {
+//         navbar.classList.add('full-width'); // Add full-width class when scrolled
+//     } else {
+//         navbar.classList.remove('full-width'); // Remove class when at the top
+//     }
+// });
+window.addEventListener('scroll', function() {
+    const navbar = document.getElementById('navbar');
+    //const navbarContainer = navbar.querySelector('.container-fluid'); // Select inner container-fluid
+    
+    // Check if the page has been scrolled more than 50px
+    if (window.scrollY > 50) {
+        navbar.classList.add('full-width'); // Add full-width class when scrolled
+        navbar.classList.remove('container'); // Remove container class
+        navbar.classList.add('container-fluid'); // Add container-fluid class
+    } else {
+        navbar.classList.remove('full-width'); // Remove full-width class when at the top
+        navbar.classList.remove('container-fluid'); // Remove container-fluid class
+        navbar.classList.add('container'); // Add container class
+    }
+});
