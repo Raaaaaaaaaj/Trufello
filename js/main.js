@@ -191,4 +191,22 @@ $("#accordion").on("hide.bs.collapse show.bs.collapse", e => {
 	  .find("i:last-child")
 	  .toggleClass("fa-minus fa-plus");
   });
+
+
+  // Annwesha
+window.addEventListener('scroll', function() {
+    const navbar = document.getElementById('navbar');
+    //const navbarContainer = navbar.querySelector('.container-fluid'); // Select inner container-fluid
+    
+    // Check if the page has been scrolled more than 50px
+    if (window.scrollY > 50) {
+        navbar.classList.add('full-width'); // Add full-width class when scrolled
+        navbar.classList.remove('container'); // Remove container class
+        navbar.classList.add('container-fluid'); // Add container-fluid class
+    } else {
+        navbar.classList.remove('full-width'); // Remove full-width class when at the top
+        navbar.classList.remove('container-fluid'); // Remove container-fluid class
+        navbar.classList.add('container'); // Add container class
+    }
+});
   

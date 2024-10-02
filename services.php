@@ -1,3 +1,4 @@
+<?php include 'incl/config.php'; ?>
 <?php include 'incl/header.php'?>
 <?php include 'incl/nav.php'?>
     

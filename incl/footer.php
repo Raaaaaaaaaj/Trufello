@@ -1,3 +1,4 @@
+<?php include 'config.php'; ?>
 <footer class="ftco-footer ftco-bg-dark ftco-section">
       <div class="container">
         <div class="row mb-5">
@@ -67,19 +68,19 @@
   <div id="ftco-loader" class="show fullscreen"><svg class="circular" width="48px" height="48px"><circle class="path-bg" cx="24" cy="24" r="22" fill="none" stroke-width="4" stroke="#eeeeee"/><circle class="path" cx="24" cy="24" r="22" fill="none" stroke-width="4" stroke-miterlimit="10" stroke="#F96D00"/></svg></div>
 
  
-  <script src="js/jquery.min.js"></script>
-  <script src="js/jquery-migrate-3.0.1.min.js"></script>
-  <script src="js/popper.min.js"></script>
-  <script src="js/bootstrap.min.js"></script>
-  <script src="js/jquery.easing.1.3.js"></script>
-  <script src="js/jquery.waypoints.min.js"></script>
-  <script src="js/jquery.stellar.min.js"></script>
-  <script src="js/owl.carousel.min.js"></script>
-  <script src="js/jquery.magnific-popup.min.js"></script>
-  <script src="js/scrollax.min.js"></script>
+  <script src="<?php echo BASE_URL; ?>/js/jquery.min.js"></script>
+  <script src="<?php echo BASE_URL; ?>/js/jquery-migrate-3.0.1.min.js"></script>
+  <script src="<?php echo BASE_URL; ?>/js/popper.min.js"></script>
+  <script src="<?php echo BASE_URL; ?>/js/bootstrap.min.js"></script>
+  <script src="<?php echo BASE_URL; ?>/js/jquery.easing.1.3.js"></script>
+  <script src="<?php echo BASE_URL; ?>/js/jquery.waypoints.min.js"></script>
+  <script src="<?php echo BASE_URL; ?>/js/jquery.stellar.min.js"></script>
+  <script src="<?php echo BASE_URL; ?>/js/owl.carousel.min.js"></script>
+  <script src="<?php echo BASE_URL; ?>/js/jquery.magnific-popup.min.js"></script>
+  <script src="<?php echo BASE_URL; ?>/js/scrollax.min.js"></script>
   <script src="https://maps.googleapis.com/maps/api/js?key=AIzaSyBVWaKrjvy3MaE7SQ74_uJiULgl1JY0H2s&sensor=false"></script>
-  <script src="js/google-map.js"></script>
-  <script src="js/main.js"></script>
+  <script src="<?php echo BASE_URL; ?>/js/google-map.js"></script>
+  <script src="<?php echo BASE_URL; ?>/js/main.js"></script>
 
    <!-- Global site tag (gtag.js) - Google Analytics -->
 <script async src="https://www.googletagmanager.com/gtag/js?id=UA-23581568-13"></script>

@@ -1,3 +1,4 @@
+<?php include 'incl/config.php'; ?>
 <?php include 'incl/header.php'?>
 <?php include 'incl/nav.php'?>
     <section class="hero-wrap hero-wrap-2" style="background-image: url('images/bg_2.jpg');" data-stellar-background-ratio="0.5">
@@ -129,26 +130,5 @@
       </div>
     </section>
 
-    <section class="ftco-section ftco-no-pt ftco-no-pb bg-primary">
-      <div class="container">
-        <div class="row d-flex justify-content-center">
-        	<div class="col-lg-8 py-4">
-        		<div class="row">
-		          <div class="col-md-6 ftco-animate d-flex align-items-center">
-		            <h2 class="mb-0" style="color:white; font-size: 24px;">Subcribe to our Newsletter</h2>
-		          </div>
-		          <div class="col-md-6 d-flex align-items-center">
-		            <form action="#" class="subscribe-form">
-		              <div class="form-group d-flex">
-		                <input type="text" class="form-control" placeholder="Enter email address">
-		                <input type="submit" value="Subscribe" class="submit px-3">
-		              </div>
-		            </form>
-		          </div>
-	          </div>
-          </div>
-        </div>
-      </div>
-    </section>
-
+    <?php include 'incl/cta.php'?>
     <?php include 'incl/footer.php'?>
