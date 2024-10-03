@@ -236,9 +236,9 @@
 			</div>
 		</div>
 		<div class="row">
-			<div class="col-md-12">
-				<div class="ftco-owl">
-					<div class="item">
+			<!-- <div class="col-md-12"> -->
+				<!-- <div class="ftco-owl"> -->
+					<div class="col-lg-6 col-md-12 col-sm-12">
 						<div class="wrap">
 							<div class="seasonal img d-flex align-items-center justify-content-center" style="background-image: url(images/seasonal-1.jpg);">
 							</div>
@@ -248,7 +248,7 @@
 							</div>
 						</div>
 					</div>
-					<div class="item">
+					<div class="col-lg-6 col-md-12 col-sm-12">
 						<div class="wrap">
 							<div class="seasonal img d-flex align-items-center justify-content-center" style="background-image: url(images/seasonal-2.jpg);">
 							</div>
@@ -258,7 +258,7 @@
 							</div>
 						</div>
 					</div>
-					<div class="item">
+					<div class="col-lg-6 col-md-12 col-sm-12">
 						<div class="wrap">
 							<div class="seasonal img d-flex align-items-center justify-content-center" style="background-image: url(images/seasonal-3.jpg);">
 							</div>
@@ -268,7 +268,7 @@
 							</div>
 						</div>
 					</div>
-					<div class="item">
+					<div class="col-lg-6 col-md-12 col-sm-12">
 						<div class="wrap">
 							<div class="seasonal img d-flex align-items-center justify-content-center" style="background-image: url(images/seasonal-4.jpg);">
 							</div>
@@ -278,8 +278,8 @@
 							</div>
 						</div>
 					</div>
-				</div>
-			</div>
+				<!-- </div> -->
+			<!-- </div> -->
 		</div>
 	</div>
 </section>
