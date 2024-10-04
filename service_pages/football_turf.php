@@ -7,64 +7,10 @@
         <div class="row no-gutters slider-text align-items-end justify-content-center">
             <div class="col-md-9 ftco-animate pb-5 text-center">
                 <h1 class="mb-3 bread">Football Turf</h1>
-                <p class="breadcrumbs"><span class="mr-2"><a href="index.html">Home <i class="ion-ios-arrow-forward"></i></a></span> <span>About us <i class="ion-ios-arrow-forward"></i></span></p>
+                <p class="breadcrumbs"><span class="mr-2"><a href="index.html">Services <i class="ion-ios-arrow-forward"></i></a></span> <span>Football Turf</span></p>
             </div>
         </div>
     </div>
-</section>
-<section class="ftco-section ftco-no-pt">
-	<div class="container">
-		<div class="row">
-			<div class="col-lg-3 py-5 order-md-last">
-				<div class="heading-section ftco-animate">
-					<span class="subheading">Our way</span>
-					<h2 class="mb-4">Footbal Turf</h2>
-					<p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Animi illo fuga veritatis? Nesciunt, rem dolore ratione tenetur tempora iste. Nam esse sint fuga distinctio suscipit?</p>
-					<p><a href="#" class="btn btn-primary py-3 px-4">Get a Quote</a></p>
-				</div>
-			</div>
-			<div class="col-lg-9 services-wrap px-4 pt-5">
-				<div class="row pt-md-3">
-					<div class="col-md-4 d-flex align-items-stretch">
-						<div class="services text-center">
-							<div class="icon d-flex justify-content-center align-items-center">
-								<span class="flaticon-fence"></span>
-							</div>
-							<div class="text">
-								<h3>Garden Care</h3>
-								<p>Seeking justice in the world is a sed significant emotional and investment when we follow this call.</p>
-							</div>
-							<a href="#" class="btn-custom d-flex align-items-center justify-content-center"><span class="ion-ios-arrow-round-forward"></span></a>
-						</div>
-					</div>
-					<div class="col-md-4 d-flex align-items-stretch">
-						<div class="services text-center">
-							<div class="icon d-flex justify-content-center align-items-center">
-								<span class="flaticon-lawn-mower"></span>
-							</div>
-							<div class="text">
-								<h3>Lawn mowing</h3>
-								<p>Seeking justice in the world is a sed significant emotional and investment when we follow this call.</p>
-							</div>
-							<a href="#" class="btn-custom d-flex align-items-center justify-content-center"><span class="ion-ios-arrow-round-forward"></span></a>
-						</div>
-					</div>
-					<div class="col-md-4 d-flex align-items-stretch">
-						<div class="services text-center">
-							<div class="icon d-flex justify-content-center align-items-center">
-								<span class="flaticon-natural-resources"></span>
-							</div>
-							<div class="text">
-								<h3>Lawn care</h3>
-								<p>Seeking justice in the world is a sed significant emotional and investment when we follow this call.</p>
-							</div>
-							<a href="#" class="btn-custom d-flex align-items-center justify-content-center"><span class="ion-ios-arrow-round-forward"></span></a>
-						</div>
-					</div>
-				</div>
-			</div>
-		</div>
-	</div>
 </section>
 <section class="ftco-section ftco-no-pt ftco-no-pb bg-light">
     	<div class="container">
@@ -88,7 +34,8 @@
 	        </div>
         </div>
     	</div>
-    </section>
+</section>
+<?php include '../incl/best_offerings.php' ?>
 <?php include '../incl/recent_projects.php' ?>
 <?php include '../incl/cta.php' ?>
 <?php include '../incl/footer.php' ?>

@@ -2,7 +2,7 @@
 <?php include 'incl/header.php'?>
 <?php include 'incl/nav.php'?>
     
-    <section class="hero-wrap hero-wrap-2" style="background-image: url('images/bg_2.jpg');" data-stellar-background-ratio="0.5">
+<section class="hero-wrap hero-wrap-2" style="background-image: url('images/bg_2.jpg');" data-stellar-background-ratio="0.5">
       <div class="overlay"></div>
       <div class="container">
         <div class="row no-gutters slider-text align-items-end justify-content-center">
@@ -12,34 +12,58 @@
           </div>
         </div>
       </div>
-    </section>
-   	
-    <section class="ftco-section ftco-no-pt ftco-no-pb bg-light">
+</section>
+<section class="ftco-section ftco-no-pt ftco-no-pb bg-light">
+    	<div class="container">
+    		<div class="row d-flex py-5">
+    			<div class="col-md-6 pl-md-5">
+    				<div class="row justify-content-start py-5">
+		          <div class="col-md-12 heading-section ftco-animate">
+		          	<span class="subheading">Who are we</span>
+		            <h2 class="mb-4">Welcome to Turfello</h2>
+		            <p>Meckavo Sports Infrastructure is among the best manufacturers and suppliers of artificial turf grass in India. We are dedicated to providing you with the best artificial turf grass for both athletic and landscape purposes. With an in-house engineering and project team comprising experts in the field of Sports construction and management, we have a long list of satisfied clientele. </p>
+		            <p>
+                We are experts in constructing both indoor and outdoor facilities for all conditions, across land terrain, soil condition and project location. We offer services in consultation, construction, installation, and maintenance of all types of artificial turf sports fields throughout India.
+		            </p>
+					      <p>
+                  <a href="contact.php" class="btn btn-primary mr-md-4 py-2 px-4">Contact us<span class="ion-ios-arrow-forward"></span></a>
+                </p>
+		          </div>
+		        </div>
+	        </div>
+    			<div class="col-md-6 d-flex">
+    				<div class="img img-video d-flex align-self-stretch align-items-center justify-content-center justify-content-md-end 70vh" style="background-image:url(<?php echo BASE_URL; ?>/images/about.jpg);">
+    					
+    				</div>
+    			</div>
+        </div>
+    	</div>
+</section>
+<section class="ftco-section ftco-no-pt ftco-no-pb bg-light">
     	<div class="container">
     		<div class="row d-flex py-5">
     			<div class="col-md-6 d-flex">
-    				<div class="img img-video d-flex align-self-stretch align-items-center justify-content-center justify-content-md-end 70vh" style="background-image:url(images/about.jpg);">
+    				<div class="img img-video d-flex align-self-stretch align-items-center justify-content-center justify-content-md-end 70vh" style="background-image:url(<?php echo BASE_URL; ?>/images/about.jpg);">
     					
     				</div>
     			</div>
     			<div class="col-md-6 pl-md-5">
     				<div class="row justify-content-start py-5">
 		          <div class="col-md-12 heading-section ftco-animate">
-		          	<span class="subheading">About Our Company</span>
-		            <h2 class="mb-4">Welcome to Turfello</h2>
-		            <p>Far far away, behind the word mountains, far from the countries Vokalia and Consonantia</p>
-		            <div class="about-text">
-		            	Lorem ipsum, dolor sit amet consectetur adipisicing elit. Mollitia perferendis dignissimos eaque accusantium, ad fuga nemo ducimus reprehenderit voluptatum enim ut quia aliquid illo officia aliquam amet temporibus. Saepe esse accusantium architecto, doloribus soluta doloremque assumenda. Dignissimos hic corporis eius laudantium provident, aperiam, cupiditate, odio quibusdam quo culpa commodi. Eaque quisquam fugiat harum eligendi fuga. Ipsum sapiente mollitia incidunt excepturi.
-		            </div>
+		            <p>We will be developing sports with the best quality which every player can experience. As a part of the vision to make the nation fit by redefining sports infrastructure we are concentrating on the north Indian belts such as Delhi, Panjab, Haryana, Rajasthan, Uttar Pradesh, Bihar, etc. Also, we will be focusing on northeastern states such as Manipur, Assam, Nagaland, Arunachal Pradesh, Meghalaya, Sikkim, and Tripura as well as Kolkata.</p>
+		            <p>
+                Meckavo sport is an amalgamation of highly qualified engineers and professional workers. Meckavo aims to build high-quality sports grounds by following proper professional methods. we will follow all instructions from different sports federations such as FIFA etc…Best also has the vision to develop health.
+		            </p>
+                <p>
+                  <a href="contact.php" class="btn btn-primary mr-md-4 py-2 px-4">Get in touch <span class="ion-ios-arrow-forward"></span></a>
+                </p>
 		          </div>
 		        </div>
 	        </div>
         </div>
     	</div>
-    </section>
-
-
-    <section class="ftco-section testimony-section">
+</section>
+<section class="ftco-section testimony-section">
       <div class="container">
         <div class="row justify-content-center mb-5">
           <div class="col-md-7 text-center heading-section ftco-animate">
@@ -124,7 +148,8 @@
           </div>
         </div>
       </div>
-    </section>
-<?php include "incl/cta.php"; ?>
+</section>
+<?php include 'incl/best_offerings.php' ?>
+<?php include 'incl/cta.php' ?>
 <?php include 'incl/footer.php'?>
     

@@ -44,7 +44,7 @@
 						<h2 class="subheading">Welcome to Turfelo</h2>
 						<h1>Changing the Definition of Sports Infrastructure</h1>
 						<p class="mb-4">Let us work on your yard</p>
-						<p><a href="#" class="btn btn-primary mr-md-4 py-2 px-4">Learn more <span class="ion-ios-arrow-forward"></span></a></p>
+						<p><a href="about.php" class="btn btn-primary mr-md-4 py-2 px-4">Learn more<span class="ion-ios-arrow-forward"></span></a></p>
 					</div>
 				</div>
 			</div>
@@ -58,7 +58,7 @@
 						<h2 class="subheading">Professional Lawn Services</h2>
 						<h1>Transform your outdoor space</h1>
 						<p class="mb-4">Trust us with your lawn care needs</p>
-						<p><a href="#" class="btn btn-primary mr-md-4 py-2 px-4">Get started <span class="ion-ios-arrow-forward"></span></a></p>
+						<p><a href="#" class="btn btn-primary mr-md-4 py-2 px-4"><span class="ion-ios-arrow-forward"></span></a></p>
 					</div>
 				</div>
 			</div>
@@ -72,7 +72,7 @@
 						<h2 class="subheading">Expert Lawn Care</h2>
 						<h1>Get the lawn you’ve always wanted</h1>
 						<p class="mb-4">Affordable services just for you</p>
-						<p><a href="#" class="btn btn-primary mr-md-4 py-2 px-4">Contact us <span class="ion-ios-arrow-forward"></span></a></p>
+						<p><a href="#" class="btn btn-primary mr-md-4 py-2 px-4">Contact us<span class="ion-ios-arrow-forward"></span></a></p>
 					</div>
 				</div>
 			</div>
@@ -96,7 +96,7 @@
 					<span class="subheading">Services</span>
 					<h2 class="mb-4">Lawn Services</h2>
 					<p>A small river named Duden flows by their place and supplies it with the necessary regelialia. It is a paradisematic country, in which roasted parts of sentences fly into your.</p>
-					<p><a href="#" class="btn btn-primary py-3 px-4">Get a Quote</a></p>
+					<p><a href="contact.php" class="btn btn-primary py-3 px-4">Get a Quote</a></p>
 				</div>
 			</div>
 			<div class="col-lg-9 services-wrap px-4 pt-5">
@@ -157,7 +157,7 @@
 					<span class="subheading">Who are we</span>
 					<h2 class="mb-4">We are the best solution to your problem</h2>
 					<p>Far far away, behind the word mountains, far from the countries Vokalia and Consonantia</p>
-					<p><a href="#" class="btn btn-primary mr-md-4 py-2 px-4">Learn more <span class="ion-ios-arrow-forward"></span></a></p>
+					<p><a href="#" class="btn btn-primary mr-md-4 py-2 px-4">Get in touch<span class="ion-ios-arrow-forward"></span></a></p>
 				</div>
 			</div>
 		</div>

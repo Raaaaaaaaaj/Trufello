@@ -19,7 +19,7 @@
 					<ul class="dropdown-menu">
 					  <li><a href="<?php echo BASE_URL; ?>/service_pages/football_turf.php" class="dropdown-item">Football Turf</a></li>
 					  <li><a href="<?php echo BASE_URL; ?>/service_pages/swimming_pool.php" class="dropdown-item">Swimmng Pool</a></li>
-					  <li><a href="<?php echo BASE_URL; ?>/service_pages/cricket_turf.php" class="dropdown-item">Cricket Truf</a></li>
+					  <li><a href="<?php echo BASE_URL; ?>/service_pages/cricket_turf.php" class="dropdown-item">Cricket Turf</a></li>
 					  <li><a href="<?php echo BASE_URL; ?>/service_pages/tennis.php" class="dropdown-item">Tennis</a></li>
 					  <li><a href="<?php echo BASE_URL; ?>/service_pages/volleyball.php" class="dropdown-item">Volleyball</a></li>
 					  <li><a href="<?php echo BASE_URL; ?>/service_pages/multisport.php" class="dropdown-item">Multi Sport Turf</a></li>
