@@ -12,6 +12,7 @@
         </div>
     </div>
 </section>
+
 <?php include '../incl/recent_projects.php' ?>
 <?php include '../incl/cta.php'; ?>
 <?php include '../incl/footer.php' ?>

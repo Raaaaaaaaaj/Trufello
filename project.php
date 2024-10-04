@@ -16,6 +16,7 @@
 		<section class="ftco-section bg-light">
       <div class="container">
         <div class="row d-flex">
+          
           <div class="col-md-4 d-flex ftco-animate">
           	<div class="blog-entry justify-content-end">
               <a href="blog-single.html" class="block-20" style="background-image: url('images/image_1.jpg');">
@@ -32,7 +33,6 @@
               </a>
               <div class="text p-4 float-right d-block">            
               	<h3 class="heading mb-0"><a href="#">All you want to know about industrial laws</a></h3>
-                <!-- <p>A small river named Duden flows by their place and supplies it with the necessary regelialia.</p> -->
                 <p><a href="#" class="btn btn-primary d-none">Read more</a></p>
               </div>
             </div>
