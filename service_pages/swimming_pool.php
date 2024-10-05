@@ -15,11 +15,9 @@
 <section class="ftco-section ftco-no-pt ftco-no-pb bg-light">
 	<div class="container">
 		<div class="row d-flex py-5">
-			<div class="col-md-6 d-flex">
-				<div class="img img-video d-flex align-self-stretch align-items-center justify-content-center justify-content-md-end 70vh" style="background-image:url(<?php echo BASE_URL; ?>/images/about.jpg);">
-
-				</div>
-			</div>
+		<div class="col-md-6 d-flex">
+					<img class="img-fluid d-flex align-items-center justify-content-center justify-content-md-end 70vh" src="<?php echo BASE_URL; ?>/images/service/swm2.jpg" alt="">
+    		</div>
 			<div class="col-md-6 pl-md-5">
 				<div class="row justify-content-start py-5">
 					<div class="col-md-12 heading-section ftco-animate">
@@ -44,21 +42,17 @@
 				</div>
 			</div>
 			<div class="col-md-6 d-flex">
-				<div class="img img-video d-flex align-self-stretch align-items-center justify-content-center justify-content-md-end 70vh" style="background-image:url(<?php echo BASE_URL; ?>/images/about.jpg);">
-
-				</div>
-			</div>
+					<img class="img-fluid d-flex align-items-center justify-content-center justify-content-md-end 70vh" src="<?php echo BASE_URL; ?>/images/service/swm_const1.jpg" alt="">
+    		</div>
 		</div>
 	</div>
 </section>
 <section class="ftco-section ftco-no-pt ftco-no-pb bg-light">
 	<div class="container">
 		<div class="row d-flex py-5">
-			<div class="col-md-6 d-flex">
-				<div class="img img-video d-flex align-self-stretch align-items-center justify-content-center justify-content-md-end 70vh" style="background-image:url(<?php echo BASE_URL; ?>/images/about.jpg);">
-
-				</div>
-			</div>
+		<div class="col-md-6 d-flex">
+					<img class="img-fluid d-flex align-items-center justify-content-center justify-content-md-end 70vh" src="<?php echo BASE_URL; ?>/images/service/swm_const2.jpg" alt="">
+    		</div>
 			<div class="col-md-6 pl-md-5">
 				<div class="row justify-content-start py-5">
 					<div class="col-md-12 heading-section ftco-animate">
@@ -84,9 +78,8 @@
 				</div>
 			</div>
 			<div class="col-md-6 d-flex">
-				<div class="img img-video d-flex align-self-stretch align-items-center justify-content-center justify-content-md-end 70vh" style="background-image:url(<?php echo BASE_URL; ?>/images/about.jpg);">
-				</div>
-			</div>
+					<img class="img-fluid d-flex align-items-center justify-content-center justify-content-md-end 70vh" src="<?php echo BASE_URL; ?>/images/service/swm_repair.webp" alt="">
+    		</div>
 		</div>
 	</div>
 </section>
@@ -94,9 +87,8 @@
 	<div class="container">
 		<div class="row d-flex py-5">
 		<div class="col-md-6 d-flex">
-				<div class="img img-video d-flex align-self-stretch align-items-center justify-content-center justify-content-md-end 70vh" style="background-image:url(<?php echo BASE_URL; ?>/images/about.jpg);">
-				</div>
-			</div>
+					<img class="img-fluid d-flex align-items-center justify-content-center justify-content-md-end 70vh" src="<?php echo BASE_URL; ?>/images/service/bdmntn1.jpg" alt="">
+    		</div>
 			<div class="col-md-6 pl-md-5">
 				<div class="row justify-content-start py-5">
 					<div class="col-md-12 heading-section ftco-animate">
@@ -122,9 +114,8 @@
 				</div>
 			</div>
 			<div class="col-md-6 d-flex">
-				<div class="img img-video d-flex align-self-stretch align-items-center justify-content-center justify-content-md-end 70vh" style="background-image:url(<?php echo BASE_URL; ?>/images/about.jpg);">
-				</div>
-			</div>
+					<img class="img-fluid d-flex align-items-center justify-content-center justify-content-md-end 70vh" src="<?php echo BASE_URL; ?>/images/service/bdmntn1.jpg" alt="">
+    		</div>
 		</div>
 	</div>
 </section>
@@ -132,9 +123,8 @@
 	<div class="container">
 		<div class="row d-flex py-5">
 		<div class="col-md-6 d-flex">
-				<div class="img img-video d-flex align-self-stretch align-items-center justify-content-center justify-content-md-end 70vh" style="background-image:url(<?php echo BASE_URL; ?>/images/about.jpg);">
-				</div>
-			</div>
+					<img class="img-fluid d-flex align-items-center justify-content-center justify-content-md-end 70vh" src="<?php echo BASE_URL; ?>/images/service/swm1.jpg" alt="">
+    		</div>
 			<div class="col-md-6 pl-md-5">
 				<div class="row justify-content-start py-5">
 					<div class="col-md-12 heading-section ftco-animate">

@@ -1,8 +1,7 @@
 <?php include 'incl/config.php'; ?>
 <?php include 'incl/header.php'?>
 <?php include 'incl/nav.php'?>
-    
-<section class="hero-wrap hero-wrap-2" style="background-image: url('images/bg_2.jpg');" data-stellar-background-ratio="0.5">
+ <section class="hero-wrap hero-wrap-2" style="background-image: url('images/banners/football_banner1.jpg');" data-stellar-background-ratio="0.5">
       <div class="overlay"></div>
       <div class="container">
         <div class="row no-gutters slider-text align-items-end justify-content-center">
@@ -12,7 +11,8 @@
           </div>
         </div>
       </div>
-</section>
+</section>  
+
 <section class="ftco-section ftco-no-pt ftco-no-pb bg-light">
     	<div class="container">
     		<div class="row d-flex py-5">
@@ -32,10 +32,8 @@
 		        </div>
 	        </div>
     			<div class="col-md-6 d-flex">
-    				<div class="img img-video d-flex align-self-stretch align-items-center justify-content-center justify-content-md-end 70vh" style="background-image:url(<?php echo BASE_URL; ?>/images/about.jpg);">
-    					
-    				</div>
-    			</div>
+					<img class="img-fluid d-flex align-items-center justify-content-center justify-content-md-end 70vh" src="<?php echo BASE_URL; ?>/images/service/bdmntn1.jpg" alt="">
+    		</div>
         </div>
     	</div>
 </section>
@@ -43,10 +41,8 @@
     	<div class="container">
     		<div class="row d-flex py-5">
     			<div class="col-md-6 d-flex">
-    				<div class="img img-video d-flex align-self-stretch align-items-center justify-content-center justify-content-md-end 70vh" style="background-image:url(<?php echo BASE_URL; ?>/images/about.jpg);">
-    					
-    				</div>
-    			</div>
+					<img class="img-fluid d-flex align-items-center justify-content-center justify-content-md-end 70vh" src="<?php echo BASE_URL; ?>/images/service/bdmntn1.jpg" alt="">
+    		</div>
     			<div class="col-md-6 pl-md-5">
     				<div class="row justify-content-start py-5">
 		          <div class="col-md-12 heading-section ftco-animate">
