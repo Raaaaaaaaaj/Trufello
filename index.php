@@ -240,7 +240,7 @@
 				<!-- <div class="ftco-owl"> -->
 					<div class="col-lg-6 col-md-12 col-sm-12">
 						<div class="wrap">
-							<div class="seasonal img d-flex align-items-center justify-content-center" style="background-image: url(images/seasonal-1.jpg);">
+							<div class="seasonal img d-flex align-items-center justify-content-center hoverEffect" style="background-image: url(images/seasonal-1.jpg);">
 							</div>
 							<div class="text text-center px-4">
 								<h3><a href="#">Spring</a></h3>

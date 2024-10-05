@@ -14,7 +14,7 @@
       </div>
     </section>
    	
-		<section class="ftco-section">
+	<section class="ftco-section">
 		  <div class="container px-md-0">
         <div class="row no-gutters">
           <div class="col-md-4 ftco-animate">
@@ -138,6 +138,6 @@
           </div>
         </div>
       </div> 
-		</section>
+	</section>
 <?php include 'incl/cta.php'?>
 <?php include 'incl/footer.php'?>

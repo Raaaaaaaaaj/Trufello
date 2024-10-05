@@ -72,13 +72,20 @@
 												<div class="col-md-6">
 													<div class="form-group">
 														<label class="label" for="name">Full Name</label>
-														<input type="text" class="form-control" name="name" id="name" placeholder="Name">
+														<input type="text" class="form-control" name="name" id="name" placeholder="Name" oninput="removeNumbers(this)">
 													</div>
 												</div>
-												<div class="col-md-6"> 
+												<div class="col-md-6">
+													<div class="form-group">
+														<label class="label" for="phone">Phone Number</label>
+														<input type="tel" class="form-control" id="phone" name="phone" placeholder="Phone" maxlength="10" onkeyup="numberOnly(this)">
+													</div>
+												</div>
+												<div class="col-md-12"> 
 													<div class="form-group">
 														<label class="label" for="email">Email Address</label>
 														<input type="email" class="form-control" name="email" id="email" placeholder="Email">
+														<span id="emailError" style="color: red; display: none;">Please enter a valid email address.</span>
 													</div>
 												</div>
 												<div class="col-md-12">
@@ -90,7 +97,7 @@
 												<div class="col-md-12">
 													<div class="form-group">
 														<label class="label" for="#">Message</label>
-														<textarea name="message" class="form-control" id="message" cols="30" rows="4" placeholder="Message"></textarea>
+														<textarea name="message" class="form-control" id="message" cols="30" rows="4" placeholder="Message" maxlength="300"></textarea>
 													</div>
 												</div>
 												<div class="col-md-12">
@@ -101,6 +108,7 @@
 												</div>
 											</div>
 										</form>
+								
 									</div>
 								</div>
 								<div class="col-md-5 d-flex align-items-stretch">
@@ -113,4 +121,27 @@
 				</div>
 			</div>
 </section>
+
+<script>
+  function numberOnly(input) {
+    input.value = input.value.replace(/\D/g, "");
+  }
+
+  function removeNumbers(input) {
+     input.value = input.value.replace(/[0-9]/g, '');
+  }
+
+  document.getElementById('email').addEventListener('input', function (e) {
+    var emailField = e.target;
+    var emailError = document.getElementById('emailError');
+    
+    var emailPattern = /^[a-zA-Z0-9._-]+@[a-zA-Z0-9.-]+\.[a-zA-Z]{2,}$/;
+
+    if (emailPattern.test(emailField.value)) {
+      emailError.style.display = 'none'; 
+    } else {
+      emailError.style.display = 'block'; 
+    }
+  });
+</script>
 <?php include 'incl/footer.php'?>

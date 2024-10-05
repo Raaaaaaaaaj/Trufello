@@ -100,3 +100,14 @@
 }
 
 
+.hoverEffect {
+  box-shadow: 0 0 0 0 #878787;
+  transition: .5s all;
+  
+}
+.hoverEffect:hover {
+  z-index: 1;
+  box-shadow: 0 10px 50px rgb(133, 7, 7);
+  transition: scale(1.5);
+  cursor: pointer;
+}
