@@ -1,100 +1,121 @@
-<!DOCTYPE html>
+<!doctype html>
 <html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Document</title>
-    
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>Bootstrap demo</title>
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-QWTKZyjpPEjISv5WaRU9OFeRpok6YctnYmDr5pNlyT2bRjXh0JMhjY6hW+ALEwIH" crossorigin="anonymous">
     <style>
-        html {
-	overflow-y: scroll;
-	height: 100%;
-	-webkit-overflow-scrolling: touch;
-	overflow-scrolling: touch;
+      .carousel-caption {
+    top: 33%;
 }
-body {
-	overflow-y: visible;
-	position: relative;
-  height: unset;
+.carousel-item {
+    position: relative;
 }
-html, body {
-	overflow-x: hidden;
-	margin: 0;
+.carousel-item img {
+    z-index: 2;
 }
-
-.container {
-	width: 400%;
-	height: 100vh;
-	display: flex;
-	flex-wrap: nowrap;
+.btn {
+	padding: 14px 26px;
+	font-weight: 700;
+	font-size: 13px;
+	letter-spacing: 1px;
+	text-transform: uppercase;
 }
-
-.firstContainer {
-  display: flex;
-  flex-direction: column;
-  justify-content: center;
-  align-items: center;
-  height: 100vh;
-  background: yellow;
+.btn-danger {
+	background-color: #e34c43;
+	border-color: #e34c43;
 }
-
-.lastContainer {
-  display: flex;
-  height: 100vh;
-  background: yellow;
+.background-overlay {
+    position: absolute;
+    z-index: 3;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    background-color: rgba(0, 0, 0, 0.2);
+}
+.carousel-control-next, .carousel-control-prev{
+z-index: 4;	
+}
+@media(max-width:1180px) {
+  .carousel-caption h5 {
+    font-size: 2.5rem !important;
+	margin-bottom:15px !important;
+  }
+  .carousel-caption p {
+    font-size: 1.5rem !important;
+	margin-bottom:20px !important;
+  }
+  .carousel-caption {
+    top:25%;
+    }
+}
+@media(max-width:980px) {
+	.carousel-caption {
+    top: 20%;
+    }
+  .carousel-caption h5 {
+    font-size: 1.5rem !important;
+  }
+   .carousel-caption p {
+    font-size: 1rem !important;
+  }
+  .carousel-caption .btn {
+    display:none;
+  }
 }
     </style>
-</head>
-<body>
-    <div class="firstContainer">
-        <h1>Testing horizontal scrolling w/ three sections</h1>
-        <h2>First Container</h2>
-      </div>
-      <div class="container">
-        <div class="description panel blue">
-          <div>
-            SCROLL DOWN
-            <div class="scroll-down"><div class="arrow"></div></div>
-          </div>
+  </head>
+  <body>
+    <nav class="navbar navbar-expand-lg fixed-top navbar-dark py-3">
+      <div class="container"> <a class="navbar-brand font-weight-bold text-uppercase" href="#">BRAND NAME</a>
+        <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation"> <span class="navbar-toggler-icon"></span> </button>
+        <div class="collapse navbar-collapse" id="navbarSupportedContent">
+          <ul class="navbar-nav ml-auto font-weight-bold">
+            <li class="nav-item"> <a class="nav-link" href="#">Home</a> </li>
+            <li class="nav-item"> <a class="nav-link" href="#">About</a> </li>
+            <li class="nav-item"> <a class="nav-link" href="#">Portfolio</a> </li>
+            <li class="nav-item"> <a class="nav-link" href="#">Services</a> </li>
+            <li class="nav-item"> <a class="nav-link" href="#">Testimonials</a> </li>
+            <li class="nav-item"> <a class="nav-link" href="#">Contact</a> </li>
+          </ul>
         </div>
-      
-        <section class="panel red">
-          ONE
-        </section>
-        <section class="panel orange">
-          TWO
-        </section>
-        <section class="panel purple">
-          THREE
-        </section>
       </div>
-      <div class="lastContainer">
-        Last Container
+    </nav>
+    <div id="carouselExampleCaptions" class="carousel slide carousel-fade" data-ride="carousel">
+      <ol class="carousel-indicators">
+        <li data-target="#carouselExampleCaptions" data-slide-to="0" class="active"></li>
+        <li data-target="#carouselExampleCaptions" data-slide-to="1"></li>
+        <li data-target="#carouselExampleCaptions" data-slide-to="2"></li>
+      </ol>
+      <div class="carousel-inner">
+        <div class="carousel-item active"> <img src="http://bootstraplily.com/demo/detto-ui-kit/img/intro-one/slider-one.jpg" class="d-block w-100" alt="...">
+          <div class="background-overlay"></div>
+          <div class="carousel-caption">
+            <h5 class="display-4 h4-md mb-4 font-weight-bold">A modular UI Kit for Bootstrap</h5>
+            <p class="h4 mb-5 pb-3 text-white-50">Nulla vitae elit libero, a pharetra augue mollis interdum.</p>
+            <a href="" class="btn btn-lg btn-danger">View More</a> </div>
+        </div>
+        <div class="carousel-item"> <img src="http://bootstraplily.com/demo/detto-ui-kit/img/intro-one/slider-two.jpg" class="d-block w-100" alt="...">
+          <div class="background-overlay"></div>
+          <div class="carousel-caption">
+            <h5 class="display-4 mb-4 font-weight-bold">A modular UI Kit for Startups</h5>
+            <p class="h4 mb-5 pb-3 text-white-50">Lorem ipsum dolor sit amet, consectetur adipiscing elit.</p>
+            <a href="" class="btn btn-lg btn-danger">View More</a> </div>
+        </div>
+        <div class="carousel-item"> <img src="http://bootstraplily.com/demo/detto-ui-kit/img/intro-one/slider-three.jpg" class="d-block w-100" alt="...">
+          <div class="background-overlay"></div>
+          <div class="carousel-caption">
+            <h5 class="display-4 mb-4 font-weight-bold">A modular UI Kit for Development</h5>
+            <p class="h4 mb-5 pb-3 text-white-50">Praesent commodo cursus magna, vel scelerisque nisl consectetur.</p>
+            <a href="" class="btn btn-lg btn-danger">View More</a> </div>
+        </div>
       </div>
-
-
-
-
-      <script src="https://cdnjs.cloudflare.com/ajax/libs/gsap/3.12.5/gsap.min.js" integrity="sha512-7eHRwcbYkK4d9g/6tD/mhkf++eoTHwpNM9woBxtPUBWm67zeAfFC+HrdoE2GanKeocly/VxeLvIqwvCdk7qScg==" crossorigin="anonymous" referrerpolicy="no-referrer"></script>
-<script src="https://cdnjs.cloudflare.com/ajax/libs/gsap/3.12.5/ScrollTrigger.min.js" integrity="sha512-onMTRKJBKz8M1TnqqDuGBlowlH0ohFzMXYRNebz+yOcc5TQr/zAKsthzhuv0hiyUKEiQEQXEynnXCvNTOk50dg==" crossorigin="anonymous" referrerpolicy="no-referrer"></script>
-
-      <script>
-        gsap.registerPlugin(ScrollTrigger);
-
-            let sections = gsap.utils.toArray(".panel");
-
-            gsap.to(sections, {
-                xPercent: -100 * (sections.length - 1),
-                ease: "none",
-                scrollTrigger: {
-                    trigger: ".container",
-                    pin: true,
-                    scrub: 1,
-                    snap: 1 / (sections.length - 1),
-                    end: () => "+=" + document.querySelector(".container").offsetWidth
-                }
-            });
-
-      </script>
-</body>
+      <a class="carousel-control-prev" href="#carouselExampleCaptions" role="button" data-slide="prev"> <span class="carousel-control-prev-icon" aria-hidden="true"></span> <span class="sr-only">Previous</span> </a> <a class="carousel-control-next" href="#carouselExampleCaptions" role="button" data-slide="next"> <span class="carousel-control-next-icon" aria-hidden="true"></span> <span class="sr-only">Next</span> </a> </div>
+    
+    <div class="p-5 text-center font-weight-bold h3"> More bootstrap snipp on <a href="https://bootstraplily.com/" target="_blank">www.bootstraplily.com</a></div>
+     
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/js/bootstrap.bundle.min.js" integrity="sha384-YvpcrYf0tY3lHB60NNkmXc5s9fDVZLESaAA55NDzOxhy9GkcIdslK1eN7N6jIeHz" crossorigin="anonymous"></script>
+  </body>
 </html>

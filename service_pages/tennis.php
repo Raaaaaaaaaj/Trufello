@@ -19,39 +19,17 @@
 		          <div class="col-md-12 heading-section ftco-animate">
 		            <h2 class="mb-4">
 					TENNIS</h2>
-		            <p>Meckavo Sports & infra is one of the best suppliers of artificial turf grass for Tennis court construction in India. We are dedicated to providing the best artificial grass for Tennis court for both athletic and landscape purposes. We have an in-house engineering and project team comprising experts in the field of Sports construction and management especially Tennis court construction. We offer consultation, construction, installation, service and maintenance of all types of artificial grass for Tennis court</p>
+		            <p>Trufello stands out as a leading supplier of artificial turf for tennis court construction in India. Our commitment lies in delivering high-quality artificial grass suitable for both athletic and landscaping applications. Our in-house engineering and project team consists of specialists in sports construction and management, with a particular focus on tennis court development. We provide comprehensive services, including consultation, construction, installation, and maintenance of various types of artificial grass for tennis courts.</p>
 		            <ul>
-						<li>All weather surface for year around usage</li>
-						<li>Low maintenance</li>
-						<li>High-performance and consistent</li>
-						<li>Long Lasting</li>
+						<li>Versatile surface designed for year-round application</li>
+						<li>Minimal maintenance required</li>
+						<li>Exceptional performance with consistent results</li>
+						<li>Durable and long-lasting</li>
 					</ul>
+					<p class="mt-4 "><a href="#" class="btn btn-primary mr-md-4 py-2 px-4">Contact Us</a></p>
 		          </div>
 		        </div>
 	        </div>
-        </div>
-    	</div>
-</section>
-<section class="ftco-section ftco-no-pt ftco-no-pb bg-light">
-    	<div class="container">
-    		<div class="row d-flex py-5">
-    			<div class="col-md-6 pl-md-5">
-    				<div class="row justify-content-start py-5">
-		          <div class="col-md-12 heading-section ftco-animate">
-		            <h2 class="mb-4">Tennis Court Flooring & Construction</h2>
-		            <p>Meckavo Sports & infra is one of the best suppliers of artificial turf grass for Tennis court construction in India. We are dedicated to providing the best artificial grass for Tennis court for both athletic and landscape purposes. We have an in-house engineering and project team comprising experts in the field of Sports construction and management especially Tennis court construction. We offer consultation, construction, installation, service and maintenance of all types of artificial grass for Tennis court</p>
-		            <ul>
-						<li>All weather surface for year around usage</li>
-						<li>Low maintenance</li>
-						<li>High-performance and consistent</li>
-						<li>Long Lasting</li>
-					</ul>
-		          </div>
-		        </div>
-	        </div>
-			<div class="col-md-6 d-flex">
-					<img class="img-fluid d-flex align-items-center justify-content-center justify-content-md-end 70vh" src="<?php echo BASE_URL; ?>/images/service/bdmntn1.jpg" alt="">
-    		</div>
         </div>
     	</div>
 </section>
@@ -59,3 +37,6 @@
 <?php include '../incl/recent_projects.php' ?>
 <?php include '../incl/cta.php' ?>
 <?php include '../incl/footer.php' ?>
+
+
+

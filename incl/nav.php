@@ -10,9 +10,9 @@
 	      </button>
 	      <div class="collapse navbar-collapse" id="ftco-nav">
 	        <ul class="navbar-nav mx-auto">
-	        	<li class="nav-item active"><a href="<?php echo BASE_URL; ?>/index.php" class="nav-link">Home</a></li>
-	        	<li class="nav-item" onclick="activeOption()"><a href="<?php echo BASE_URL; ?>/about.php" class="nav-link">About us</a></li>
-				<li class="nav-item dropdown">
+	        	<li class="nav-item active" id="nav-home"><a href="<?php echo BASE_URL; ?>/index.php" class="nav-link">Home</a></li>
+	        	<li class="nav-item" id="nav-about"><a href="<?php echo BASE_URL; ?>/about.php" class="nav-link">About us</a></li>
+				<li class="nav-item dropdown" id="nav-services">
 					<a href="#" class="nav-link">
 					  Services <i class="fas fa-chevron-down ml-1"></i> <!-- Down arrow icon -->
 					</a>
@@ -30,8 +30,8 @@
 					</ul>
 				  </li>
 				<!-- As we dont have any portfolio page we will use the blog page as portfolio page -->
-				<li class="nav-item"><a href="<?php echo BASE_URL; ?>/project.php" class="nav-link">Projects</a></li>
-	        	<li class="nav-item"><a href="<?php echo BASE_URL; ?>/gallery.php" class="nav-link">Gallery</a></li>
+				<li class="nav-item" id="nav-projects"><a href="<?php echo BASE_URL; ?>/project.php" class="nav-link">Projects</a></li>
+	        	<li class="nav-item" id="nav-gallery"><a href="<?php echo BASE_URL; ?>/gallery.php" class="nav-link">Gallery</a></li>
 	        </ul>
 
 			<!-- Button on the right side -->
@@ -42,3 +42,27 @@
 	      </div>
 	    </div>
 	  </nav>
+
+
+	  <script>
+		function setActiveClass(clickedElement) {
+    // Get all nav items
+    const navItems = document.querySelectorAll('.navbar-nav .nav-item');
+
+    // Remove the 'active' class from all items
+    navItems.forEach(item => {
+        item.classList.remove('active');
+    });
+
+    // Add the 'active' class to the clicked item
+    clickedElement.classList.add('active');
+}
+
+// Add event listeners to each nav link
+document.querySelectorAll('.navbar-nav .nav-item a').forEach(link => {
+    link.addEventListener('click', function() {
+        // Find the parent <li> of the clicked <a> and pass it to setActiveClass
+        setActiveClass(this.parentElement);
+    });
+});
+	  </script>

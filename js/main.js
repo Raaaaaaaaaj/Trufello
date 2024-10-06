@@ -203,14 +203,13 @@ window.addEventListener('scroll', function() {
         navbar.classList.add('full-width'); // Add full-width class when scrolled
         navbar.classList.remove('container'); // Remove container class
         navbar.classList.add('container-fluid'); // Add container-fluid class
+
+
     } else {
-        navbar.classList.remove('full-width'); // Remove full-width class when at the top
         navbar.classList.remove('container-fluid'); // Remove container-fluid class
         navbar.classList.add('container'); // Add container class
+        navbar.classList.remove('full-width'); // Remove full-width class when at the top
+
     }
 });
   
-// Navbar active class
-function activeOption(){
-	$(".nav-item").addClass("active");
-}

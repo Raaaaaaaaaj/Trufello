@@ -17,11 +17,32 @@
 			<div class="col-md-6 pl-md-5">
 				<div class="row justify-content-start">
 					<div class="col-md-12 heading-section ftco-animate">
-						<h2 class="mb-4">Multisport Turf</h2>
-						<p>Far far away, behind the word mountains, far from the countries Vokalia and Consonantia</p>
+					<h2 class="mb-4">Multisport Turf</h2>
+						<p>At Trufello, we are dedicated to delivering top-notch sports infrastructure solutions to our clients. With extensive experience in the industry, we have positioned ourselves as a premier provider of sports turf products and a leading construction company in India.</p>
 						<div class="about-text">
-							Lorem ipsum, dolor sit amet consectetur adipisicing elit. Mollitia perferendis dignissimos eaque accusantium, ad fuga nemo ducimus reprehenderit voluptatum enim ut quia aliquid illo officia aliquam amet temporibus. Saepe esse accusantium architecto, doloribus soluta doloremque assumenda. Dignissimos hic corporis eius laudantium provident, aperiam, cupiditate, odio quibusdam quo culpa commodi. Eaque quisquam fugiat harum eligendi fuga. Ipsum sapiente mollitia incidunt excepturi.
+						Our multi-sport turf ground stands out as one of our most sought-after offerings. We recognize that each client has distinct needs, which is why we provide fully customizable solutions. By collaborating closely with our clients, we gain a comprehensive understanding of their requirements and limitations, allowing us to tailor our offerings accordingly. Whether you are working with a tight budget or limited space, we can design a multi-sport turf ground that fulfills your needs for both indoor and outdoor use.
+						<br>
+						<span style="color: #4e9525; font-weight: 600;">Key features of our multi-sport turf ground include:</span>
+						<ul>
+						<li>
+						Resilience against all weather conditions
+						</li>
+						<li>
+						Exceptional durability and longevity
+						</li>
+						<li>
+						Minimal maintenance requirements
+						</li>
+						<li>
+						Engineered for optimal performance
+						</li>
+						<li>
+						Customizable to fit your specific needs
+						</li>
+						</ul>
+						These attributes make our multi-sport turf ground an excellent investment for anyone seeking a dependable and enduring sports infrastructure solution.
 						</div>
+					<p class="mt-4 "><a href="#" class="btn btn-primary mr-md-4 py-2 px-4">Contact Us</a></p>
 					</div>
 				</div>
 			</div>
@@ -34,13 +55,14 @@
 			<div class="col-md-6 pl-md-5">
 				<div class="row justify-content-start py-5">
 					<div class="col-md-12 heading-section ftco-animate">
-						<h2 class="mb-4">Multisport Turf</h2>
-						<p>Far far away, behind the word mountains, far from the countries Vokalia and Consonantia</p>
-						<div class="about-text">
-							At Meckavo Sports and Infra, we are committed to providing our clients with the highest quality sports infrastructure solutions. With over years of experience in the industry, we have established ourselves as a leading provider of sports turf products as well as a best construction company in India.
-
-							Our multi-sport turf ground is one of our most popular offerings, and for good reason. We understand that every client has unique requirements, which is why we offer a completely customizable solution. We work closely with our clients to understand their needs and constraints, and tailor our solutions accordingly. Whether you have a limited budget or a small space, we can create a multi-sport turf ground that meets your needs both Indoor and Outdoor.
+					<h2 class="mb-4"> We specialize in two different forms of multi-sport turf construction</h2>
+					<p> At Trufello, our mission is to provide clients with superior sports infrastructure solutions. With a wealth of experience in the field, we have established ourselves as a leading supplier of sports turf products and a top construction firm in India.
+					</p>
+					<div class="about-text">
+						Among our flagship offerings is the multi-sport turf ground, which has gained immense popularity due to its versatility and adaptability. We recognize that each client has unique specifications and requirements, prompting us to provide entirely customizable solutions that align with their vision. By engaging closely with our clients throughout the process, we are able to identify their specific needs and constraints, enabling us to adapt our solutions accordingly. Regardless of budget limitations or spatial constraints, we have the capability to develop a multi-sport turf ground that caters to your requirements for both indoor and outdoor use. Our focus on delivering high-quality products and services ensures that our clients receive the best possible outcomes for their sports infrastructure projects.
 						</div>
+					   
+					<p class="mt-4 "><a href="#" class="btn btn-primary mr-md-4 py-2 px-4">Contact Us</a></p>
 					</div>
 				</div>
 			</div>

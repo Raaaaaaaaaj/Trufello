@@ -18,10 +18,11 @@
 				<div class="row justify-content-start py-5">
 					<div class="col-md-12 heading-section ftco-animate">
 						<h2 class="mb-4">VOLLEY BALL</h2>
-						<p>Far far away, behind the word mountains, far from the countries Vokalia and Consonantia</p>
+						<p>Trufello is a leading provider of synthetic grass specifically engineered for volleyball courts, designed to deliver consistent performance regardless of environmental conditions. Our products are suitable for a variety of settings, including international and national volleyball competitions, as well as for clubs, schools, and residential courts.</p>
 						<div class="about-text">
-							Meckavo Sports & infra supply synthetic volley ball court grass, which play consistently in all conditions for international and national volley ball games, clubs, school and home courts. From the global to the national level, our volleyball court turf systems will be a suitable choice. We are dedicated to providing the best Volleyball court turf . We have an in-house engineering and project team comprising experts in the field of Volleyball court construction and management. We offer consultation, construction, installation, service and maintenance of all types of Volleyball court turf sports fields all over India.
+						Our volleyball court turf systems cater to a diverse range of applications, making them suitable for users at both global and national levels. We are committed to providing superior volleyball court turf solutions that enhance the playing experience. Our dedicated in-house engineering and project team consists of professionals with specialized knowledge in the construction and management of volleyball courts. We offer a full suite of services, including detailed consultation, expert construction, precise installation, and comprehensive maintenance of various volleyball court turf sports fields across India, ensuring that every aspect of your court is expertly handled.
 						</div>
+					<p class="mt-4 "><a href="#" class="btn btn-primary mr-md-4 py-2 px-4">Contact Us</a></p>
 					</div>
 				</div>
 			</div>

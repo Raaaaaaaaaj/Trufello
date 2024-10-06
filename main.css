@@ -1,6 +1,7 @@
 #navbar{
   border-radius: 17px;
   margin-top: 20px;
+  transition: 0.3s ease-in-out;
 }
 .nav-item .dropdown-menu {
   display: none;
