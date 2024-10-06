@@ -93,8 +93,8 @@
 		<div class="row">
 			<div class="col-lg-3 py-5 order-md-last">
 				<div class="heading-section ftco-animate">
-					<span class="subheading">Services</span>
-					<h2 class="mb-4">Lawn Services</h2>
+					<span class="subheading">What are we best at</span>
+					<h2 class="mb-4">Our services</h2>
 					<p>A small river named Duden flows by their place and supplies it with the necessary regelialia. It is a paradisematic country, in which roasted parts of sentences fly into your.</p>
 					<p><a href="contact.php" class="btn btn-primary py-3 px-4">Get a Quote</a></p>
 				</div>
@@ -154,7 +154,7 @@
 					<span class="subheading">Who are we</span>
 					<h2 class="mb-4">We are the best solution to your problem</h2>
 					<p>Far far away, behind the word mountains, far from the countries Vokalia and Consonantia</p>
-					<p><a href="#" class="btn btn-primary mr-md-4 py-2 px-4">Get in touch<span class="ion-ios-arrow-forward"></span></a></p>
+					<p><a href="<?php echo BASE_URL; ?>/about.php" class="btn btn-primary mr-md-4 py-2 px-4">Get in touch<span class="ion-ios-arrow-forward"></span></a></p>
 				</div>
 			</div>
 		</div>
@@ -247,7 +247,7 @@
 					</div>
 					<div class="col-lg-6 col-md-12 col-sm-12">
 						<div class="wrap">
-							<div class="seasonal img d-flex align-items-center justify-content-center" style="background-image: url(images/seasonal-2.jpg);">
+							<div class="seasonal img d-flex align-items-center justify-content-center hoverEffect" style="background-image: url(images/seasonal-2.jpg);">
 							</div>
 							<div class="text text-center px-4">
 								<h3><a href="#">Summer</a></h3>
@@ -257,7 +257,7 @@
 					</div>
 					<div class="col-lg-6 col-md-12 col-sm-12">
 						<div class="wrap">
-							<div class="seasonal img d-flex align-items-center justify-content-center" style="background-image: url(images/seasonal-3.jpg);">
+							<div class="seasonal img d-flex align-items-center justify-content-center hoverEffect" style="background-image: url(images/seasonal-3.jpg);">
 							</div>
 							<div class="text text-center px-4">
 								<h3><a href="#">Winter</a></h3>
@@ -267,7 +267,7 @@
 					</div>
 					<div class="col-lg-6 col-md-12 col-sm-12">
 						<div class="wrap">
-							<div class="seasonal img d-flex align-items-center justify-content-center" style="background-image: url(images/seasonal-4.jpg);">
+							<div class="seasonal img d-flex align-items-center justify-content-center hoverEffect" style="background-image: url(images/seasonal-4.jpg);">
 							</div>
 							<div class="text text-center px-4">
 								<h3><a href="#">Fall</a></h3>

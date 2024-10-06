@@ -210,3 +210,7 @@ window.addEventListener('scroll', function() {
     }
 });
   
+// Navbar active class
+function activeOption(){
+	$(".nav-item").addClass("active");
+}
