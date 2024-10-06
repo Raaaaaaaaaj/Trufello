@@ -27,6 +27,9 @@
   padding: 20px;
   border-radius: 10px;
 }
+.card-header {
+    padding: 25px !important;
+}
 </style>
 <div id="carouselExampleIndicators" class="carousel slide hero-wrap js-fullheight" data-ride="carousel">
 	<ol class="carousel-indicators">
@@ -44,7 +47,7 @@
 						<h2 class="subheading">Welcome to Turfelo</h2>
 						<h1>Changing the Definition of Sports Infrastructure</h1>
 						<p class="mb-4">Let us work on your yard</p>
-						<p><a href="about.php" class="btn btn-primary mr-md-4 py-2 px-4">Learn more<span class="ion-ios-arrow-forward"></span></a></p>
+						<p><a href="about.php" class="btn btn-primary mr-md-4 py-2 px-4">Learn more</a></p>
 					</div>
 				</div>
 			</div>
@@ -58,7 +61,7 @@
 						<h2 class="subheading">Professional Lawn Services</h2>
 						<h1>Transform your outdoor space</h1>
 						<p class="mb-4">Trust us with your lawn care needs</p>
-						<p><a href="#" class="btn btn-primary mr-md-4 py-2 px-4"><span class="ion-ios-arrow-forward"></span></a></p>
+						<p><a href="#" class="btn btn-primary mr-md-4 py-2 px-4">Know more</a></p>
 					</div>
 				</div>
 			</div>
@@ -72,7 +75,7 @@
 						<h2 class="subheading">Expert Lawn Care</h2>
 						<h1>Get the lawn you’ve always wanted</h1>
 						<p class="mb-4">Affordable services just for you</p>
-						<p><a href="#" class="btn btn-primary mr-md-4 py-2 px-4">Contact us<span class="ion-ios-arrow-forward"></span></a></p>
+						<p><a href="#" class="btn btn-primary mr-md-4 py-2 px-4">Contact us</a></p>
 					</div>
 				</div>
 			</div>
@@ -154,7 +157,7 @@
 					<span class="subheading">Who are we</span>
 					<h2 class="mb-4">We are the best solution to your problem</h2>
 					<p>Far far away, behind the word mountains, far from the countries Vokalia and Consonantia</p>
-					<p><a href="<?php echo BASE_URL; ?>/about.php" class="btn btn-primary mr-md-4 py-2 px-4">Get in touch<span class="ion-ios-arrow-forward"></span></a></p>
+					<p><a href="<?php echo BASE_URL; ?>/about.php" class="btn btn-primary mr-md-4 py-2 px-4">Get in touch</a></p>
 				</div>
 			</div>
 		</div>
@@ -209,7 +212,7 @@
 				</div>
 			</div>
 			<div class="col-lg-12 col-md-12 col-sm-12 d-flex justify-content-center mt-2 mt-lg-5">
-				<p><a href="#" class="btn btn-primary mr-md-4 py-2 px-4">Learn more <span class="ion-ios-arrow-forward"></span></a></p>
+				<p><a href="#" class="btn btn-primary mr-md-4 py-2 px-4">Learn more</a></p>
 			</div>
 		</div>
 	</div>
@@ -298,7 +301,7 @@
                <div id="form-message-success" class="mb-4">
                    Your message was sent, thank you!
                </div> -->
-				<h3 class="mb-2 mb-lg-5">
+				<h3 class="mb-2 mb-lg-2">
 					FAQ's
 				</h3>
 				<div id="accordion" class="myaccordion mb-4 mb-lg-0"> 

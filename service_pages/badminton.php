@@ -18,11 +18,14 @@
     				<div class="row justify-content-start py-5">
 		          <div class="col-md-12 heading-section ftco-animate">
 		            <h2 class="mb-4">BADMINTON COURT</h2>
-		            <p>Meckavo Sports & infra is a leading supplier of high-quality badminton court flooring material. Our commitment to excellence is reflected in the superior quality of our indoor and outdoor badminton courts, which offer an exceptional playing experience and excellent grip for players. Our all-weather surfaces are designed for year-round usage and require minimal maintenance, making them a reliable choice for badminton enthusiasts.</p>
+		            <p>Trufello Sports is a top provider of high-quality badminton court flooring materials. Our dedication to perfection is evident in the high quality of our indoor and outdoor badminton courts, which provide an unparalleled playing experience and good grip for players. Our all-weather surfaces are intended for year-round use and need no maintenance, making them a dependable option for badminton players.</p>
+		            
 		            <p><span style="color: #75ac56; font-weight: 700;">What we do?</span>
 						<br>
-						At Meckavo Sports & Infrastructure, we have a diverse team of engineers and project managers who specialize in delivering innovative designs that are built to last. We take pride in understanding the unique needs and aspirations of our clients and work to provide customized solutions driven by a depth of design and detailing. Our badminton court installations are equipped with the latest and most up-to-date flooring materials, ensuring the best playing surface for your needs.
+						At Trufello Sports, our team comprises a wide range of engineers and project managers dedicated to creating innovative and durable designs. We are committed to comprehending the distinct requirements and goals of our clients, allowing us to offer tailored solutions that reflect our expertise in design and detailing. Our badminton court installations feature the latest flooring materials, guaranteeing an optimal playing surface to meet your specifications.
 					</p>
+					<p class="mt-4 "><a href="#" class="btn btn-primary mr-md-4 py-2 px-4">Contact Us</a></p>
+
 		          </div>
 		        </div>
 	        </div>

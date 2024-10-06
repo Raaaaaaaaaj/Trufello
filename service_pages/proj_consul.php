@@ -18,9 +18,9 @@
     				<div class="row justify-content-start py-5">
 		          <div class="col-md-12 heading-section ftco-animate">
 		            <h2 class="mb-4">PROJECT CONSULTANCY</h2>
-		            <p>Far far away, behind the word mountains, far from the countries Vokalia and Consonantia</p>
+		            <p>Trufello Sports stands as a premier provider of high-quality Artificial Turf Grass throughout India.With a significant presence nationwide, we take pride in offering thorough consultation services for all forms of artificial turf installations.</p>
 		            <div class="about-text">
-					Meckavo Sports & infra is one of the leading suppliers of Artificial Turf Grass across India. We offer consultation for all types of artificial turf across India. Our company have experts that provides our clients each and every service related to consultation after proper discussions.
+					 Our experienced team is equipped to assist clients with residential, commercial, or sports facility needs, guiding them through every step of the artificial turf process. We emphasize personalized consultations, engaging in detailed discussions to fully understand the specific requirements of each project. Our commitment to quality means that clients benefit from superior products and exceptional support, from the initial selection through installation and beyond.Trufello Sports is committed to delivering reliable and customized solutions that cater to the diverse requirements of our clientele nationwide.
 		            </div>
 		          </div>
 		        </div>
