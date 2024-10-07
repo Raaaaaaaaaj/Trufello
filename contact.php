@@ -6,7 +6,7 @@
         <div class="overlay"></div>
         <div class="banner-text">
         <h1 class="mb-3 bread">Contact</h1>
-		<p class="text-left"></p>
+		<p>Home >> Contact Us</p>
         </div>
 </div> 
 <section class="ftco-section bg-light">

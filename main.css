@@ -60,7 +60,9 @@
 .icon-section{
   box-shadow: 5px 10px;
 }
-
+.con-btn{
+  border-radius: 10px;
+}
 
 /* FAQ */
 
@@ -161,7 +163,7 @@ background: #000000;
 }
 .banner-text p:hover{
 /* font-size: 1.5em; */
-color: #fff !important;
+color: #ffc107!important;
 font-weight: 400;
 }
 @media(max-width:1030px){

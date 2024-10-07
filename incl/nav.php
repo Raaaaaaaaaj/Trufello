@@ -36,7 +36,7 @@
 
 			<!-- Button on the right side -->
 			<!-- <a href="your-button-link.php" class="btn btn-primary ">Your Button</a> -->
-			<button class="btn btn-warning px-4 py-2 text-white"><a href="<?php echo BASE_URL; ?>/contact.php">Contact Us</a></button>
+			<button class="btn btn-warning px-4 py-2 text-white con-btn"><a href="<?php echo BASE_URL; ?>/contact.php">Contact Us</a></button>
 
 
 	      </div>

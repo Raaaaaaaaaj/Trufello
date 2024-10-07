@@ -5,7 +5,9 @@
         <img src="<?php echo BASE_URL; ?>/images/banners/tennis_banner2.jpg" alt="Banner Image" class="img-fluid">
         <div class="overlay"></div>
         <div class="banner-text">
-        <h1 class="mb-3 bread">Tennis</h1>
+        <h1 class="mb-3 bread">Tennis Turf</h1>
+		<p>Services >> Tennis Turf</p>
+
         </div>
 </div> 
 <section class="ftco-section ftco-no-pt ftco-no-pb bg-light">

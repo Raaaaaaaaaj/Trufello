@@ -7,6 +7,8 @@
         <div class="overlay"></div>
         <div class="banner-text">
         <h1 class="mb-3 bread">Gallery</h1>
+		<p>Home >> Gallary</p>
+		
         </div>
 </div> 
    	

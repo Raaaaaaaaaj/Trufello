@@ -6,6 +6,8 @@
         <div class="overlay"></div>
         <div class="banner-text">
         <h1 class="mb-3 bread">Project Consultancy</h1>
+		<p>Services >> Project Consultancy</p>
+
         </div>
 </div> 
 <section class="ftco-section ftco-no-pt ftco-no-pb bg-light">
