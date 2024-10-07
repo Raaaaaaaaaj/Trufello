@@ -5,7 +5,7 @@
         <img src="<?php echo BASE_URL; ?>/images/banners/swm_pool_banner3.jpg" alt="Banner Image" class="img-fluid">
         <div class="overlay"></div>
         <div class="banner-text">
-        <h1 class="mb-3 bread">Simming Pool</h1>
+        <h1 class="mb-3 bread">Swimming Pool</h1>
         </div>
 </div> 
 <section class="ftco-section ftco-no-pt ftco-no-pb bg-light">
