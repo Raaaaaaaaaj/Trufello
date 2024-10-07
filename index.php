@@ -30,6 +30,11 @@
 .card-header {
     padding: 25px !important;
 }
+@media(max-width:576px){
+	.homeIcons{
+		width: 50% !important;
+	}
+}
 </style>
 <div id="carouselExampleIndicators" class="carousel slide hero-wrap js-fullheight" data-ride="carousel">
 	<ol class="carousel-indicators">
@@ -71,7 +76,7 @@
 			<div class="overlay"></div>
 			<div class="container">
 				<div class="row no-gutters slider-text js-fullheight align-items-center justify-content-start" data-scrollax-parent="true">
-					<div class="col-md-6 ftco-animate">
+					<div class="col-md-12 ftco-animate">
 						<h2 class="subheading">Expert Lawn Care</h2>
 						<h1>Get the lawn you’ve always wanted</h1>
 						<p class="mb-4">Affordable services just for you</p>
@@ -91,60 +96,44 @@
 		<span class="sr-only">Next</span>
 	</a> -->
 </div>
-<section class="ftco-section ftco-no-pt">
+<section class="ftco-section ftco-no-pt mt-5">
 	<div class="container">
 		<div class="row">
-			<div class="col-lg-3 py-5 order-md-last">
-				<div class="heading-section ftco-animate">
-				<div class="text-left p-3 py-lg-0">
-					<span class="subheading">What are we best at</span>
-					<h2 class="mb-2">Our Expertise</h2>
-					<p>Our strength lies in offering high-quality artificial turf paired with professional installation services. We ensure seamless execution, durability, and performance across all types of projects, both indoor and outdoor.</p>
-					<p><a href="contact.php" class="btn btn-primary py-3 px-4 ">Get a Quote</a></p>
-				</div>
-				</div>
-			</div>
-			<div class="col-lg-9 services-wrap px-4 pt-5">
-				<div class="row pt-md-3">
-					<div class="col-md-4 d-flex align-items-stretch">
-						<div class="services text-center">
+					<div class="col-md-12 services d-flex justify-content-around align-items-center">
+						<div class="text-center homeIcons">
 							<div class="icon d-flex justify-content-center align-items-center">
 								<span class="flaticon-fence"></span>
 							</div>
 							<div class="text">
 								<h3>Garden Care</h3>
-								<p>Seeking justice in the world is a sed significant emotional and investment when we follow this call.</p>
 							</div>
-							<a href="#" class="btn-custom d-flex align-items-center justify-content-center"><span class="ion-ios-arrow-round-forward"></span></a>
 						</div>
-					</div>
-					<div class="col-md-4 d-flex align-items-stretch">
-						<div class="services text-center">
+						<div class="text-center homeIcons">
 							<div class="icon d-flex justify-content-center align-items-center">
 								<span class="flaticon-lawn-mower"></span>
 							</div>
 							<div class="text">
 								<h3>Lawn mowing</h3>
-								<p>Seeking justice in the world is a sed significant emotional and investment when we follow this call.</p>
 							</div>
-							<a href="#" class="btn-custom d-flex align-items-center justify-content-center"><span class="ion-ios-arrow-round-forward"></span></a>
 						</div>
-					</div>
-					<div class="col-md-4 d-flex align-items-stretch">
-						<div class="services text-center">
+						<div class="text-center homeIcons">
 							<div class="icon d-flex justify-content-center align-items-center">
 								<span class="flaticon-natural-resources"></span>
 							</div>
 							<div class="text">
 								<h3>Lawn care</h3>
-								<p>Seeking justice in the world is a sed significant emotional and investment when we follow this call.</p>
 							</div>
-							<a href="#" class="btn-custom d-flex align-items-center justify-content-center"><span class="ion-ios-arrow-round-forward"></span></a>
 						</div>
-					</div>
-				</div>
-			</div>
+						<div class="text-center homeIcons">
+							<div class="icon d-flex justify-content-center align-items-center">
+								<span class="flaticon-natural-resources"></span>
+							</div>
+							<div class="text">
+								<h3>Lawn care</h3>
+							</div>
+						</div>
 		</div>
+	</div>
 	</div>
 </section>
 <section class="ftco-section ftco-no-pt ftco-no-pb bg-light"></section>

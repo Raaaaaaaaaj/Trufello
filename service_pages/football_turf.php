@@ -1,6 +1,11 @@
 <?php include '../incl/config.php' ?>
 <?php include '../incl/header.php' ?>
 <?php include '../incl/nav.php' ?>
+<style>
+	.text-success{
+		color: #4e9525 !important;
+	}
+</style>
 <div class="banner">
         <img src="<?php echo BASE_URL; ?>/images/banners/football_banner1.jpg" alt="Banner Image" class="img-fluid">
         <div class="overlay"></div>
@@ -30,6 +35,22 @@
 	        </div>
         </div>
     	</div>
+</section>
+<section class="ftco-section ftco-no-pt ftco-no-pb mt-2 mt-lg-4">
+	<div class="container">
+		<div class="row d-flex">
+			<div class="col-lg-12 col-md-12 col-sm-12 pl-md-5">
+				<div class="row justify-content-start py-5">
+					<div class="col-md-12 heading-section ftco-animate text-center">
+					<span class="subheading">The ideal turf size</span>
+						<h2 class="mb-4">DIMENSIONS OF FOOTBALL TURF BY FIFA</h2>
+						<p class="text-center p-3 py-lg-0">The size of a football pitch should be determined by the game's laws. The playing field needs to be rectangular. The touchline's length needs to be longer than the goal line's. The FIFA recommends that professional football fields be <span class="text-success">100-130 yards (90-120 meters)</span> long and <span class="text-success">50-100 yards (45-90 meters)</span> wide for 11-a-side game. Regardless of the overall field size, the penalty area should be <span class="text-success">18 yards (16.45m)</span> from the centre of the goal line, and the penalty spot should be <span class="text-success">12 yards (10.9m)</span> from the goal.</p>
+					</div>
+				</div>
+			</div>
+		</div>
+	</div>
+	</div>
 </section>
 <?php include '../incl/best_offerings.php' ?>
 <?php include '../incl/recent_projects.php' ?>

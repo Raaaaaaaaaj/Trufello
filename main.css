@@ -189,3 +189,7 @@ font-weight: 400;
 .img-fluid{
   object-fit: contain;
 }
+
+.text-success{
+  color: #4e9525 !important;
+}
