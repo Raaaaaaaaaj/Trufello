@@ -1,5 +1,5 @@
 <?php include 'config.php'; ?>
-<section class="testimony-section">
+<section class="testimony-section mt-2">
     <div class="container">
         <div class="row justify-content-center">
             <div class="col-md-7 text-center heading-section ftco-animate">

@@ -27,6 +27,9 @@
   padding: 20px;
   border-radius: 10px;
 }
+.card-header {
+    padding: 25px !important;
+}
 </style>
 <div id="carouselExampleIndicators" class="carousel slide hero-wrap js-fullheight" data-ride="carousel">
 	<ol class="carousel-indicators">
@@ -36,35 +39,35 @@
 	</ol>
 	<div class="carousel-inner">
 		<!-- First slide -->
-		<div class="carousel-item active js-fullheight" style="background-image: url('images/bg_1.jpg');" data-stellar-background-ratio="0.5">
+		<div class="carousel-item active js-fullheight" style="background-image: url('images/banners/tennis_banner2.jpg'); background-size: cover; background-repeat: no-repeat;" data-stellar-background-ratio="0.5">
 			<div class="overlay"></div>
 			<div class="container">
 				<div class="row no-gutters slider-text js-fullheight align-items-center justify-content-start" data-scrollax-parent="true">
-					<div class="col-md-6 ftco-animate">
+					<div class="col-md-12 col-lg-12 ftco-animate">
 						<h2 class="subheading">Welcome to Turfelo</h2>
-						<h1>Lawn care for everyone</h1>
+						<h1>Changing the Definition of Sports Infrastructure</h1>
 						<p class="mb-4">Let us work on your yard</p>
-						<p><a href="#" class="btn btn-primary mr-md-4 py-2 px-4">Learn more <span class="ion-ios-arrow-forward"></span></a></p>
+						<p><a href="about.php" class="btn btn-primary mr-md-4 py-2 px-4">Learn more</a></p>
 					</div>
 				</div>
 			</div>
 		</div>
 		<!-- Second slide -->
-		<div class="carousel-item js-fullheight" style="background-image: url('images/bg_2.jpg');" data-stellar-background-ratio="0.5">
+		<div class="carousel-item js-fullheight" style="background-image: url('images/banners/bdmntn_banner1.jpg'); background-size: cover;  background-repeat: no-repeat;" data-stellar-background-ratio="0.5">
 			<div class="overlay"></div>
 			<div class="container">
 				<div class="row no-gutters slider-text js-fullheight align-items-center justify-content-start" data-scrollax-parent="true">
-					<div class="col-md-6 ftco-animate">
+					<div class="col-md-12 col-lg-12 ftco-animate">
 						<h2 class="subheading">Professional Lawn Services</h2>
 						<h1>Transform your outdoor space</h1>
 						<p class="mb-4">Trust us with your lawn care needs</p>
-						<p><a href="#" class="btn btn-primary mr-md-4 py-2 px-4">Get started <span class="ion-ios-arrow-forward"></span></a></p>
+						<p><a href="#" class="btn btn-primary mr-md-4 py-2 px-4">Know more</a></p>
 					</div>
 				</div>
 			</div>
 		</div>
 		<!-- Third slide -->
-		<div class="carousel-item js-fullheight" style="background-image: url('https://images.pexels.com/photos/19842796/pexels-photo-19842796/free-photo-of-sweet-cake-on-white-plate.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1');" data-stellar-background-ratio="0.5">
+		<div class="carousel-item js-fullheight" style="background-image: url('images/banners/football_banner4.jpg'); background-size: cover; background-repeat: no-repeat;" data-stellar-background-ratio="0.5">
 			<div class="overlay"></div>
 			<div class="container">
 				<div class="row no-gutters slider-text js-fullheight align-items-center justify-content-start" data-scrollax-parent="true">
@@ -72,31 +75,33 @@
 						<h2 class="subheading">Expert Lawn Care</h2>
 						<h1>Get the lawn you’ve always wanted</h1>
 						<p class="mb-4">Affordable services just for you</p>
-						<p><a href="#" class="btn btn-primary mr-md-4 py-2 px-4">Contact us <span class="ion-ios-arrow-forward"></span></a></p>
+						<p><a href="#" class="btn btn-primary mr-md-4 py-2 px-4">Contact us</a></p>
 					</div>
 				</div>
 			</div>
 		</div>
 	</div>
 	<!-- Carousel controls -->
-	<a class="carousel-control-prev controllers" href="#carouselExampleIndicators" role="button" data-slide="prev">
+	<!-- <a class="carousel-control-prev controllers" href="#carouselExampleIndicators" role="button" data-slide="prev">
 		<span class="carousel-control-prev-icon" aria-hidden="true"></span>
 		<span class="sr-only">Previous</span>
 	</a>
 	<a class="carousel-control-next controllers" href="#carouselExampleIndicators" role="button" data-slide="next">
 		<span class="carousel-control-next-icon" aria-hidden="true"></span>
 		<span class="sr-only">Next</span>
-	</a>
+	</a> -->
 </div>
 <section class="ftco-section ftco-no-pt">
 	<div class="container">
 		<div class="row">
 			<div class="col-lg-3 py-5 order-md-last">
 				<div class="heading-section ftco-animate">
-					<span class="subheading">Services</span>
-					<h2 class="mb-4">Lawn Services</h2>
-					<p>A small river named Duden flows by their place and supplies it with the necessary regelialia. It is a paradisematic country, in which roasted parts of sentences fly into your.</p>
-					<p><a href="#" class="btn btn-primary py-3 px-4">Get a Quote</a></p>
+				<div class="text-left p-3 py-lg-0">
+					<span class="subheading">What are we best at</span>
+					<h2 class="mb-2">Our Expertise</h2>
+					<p>Our strength lies in offering high-quality artificial turf paired with professional installation services. We ensure seamless execution, durability, and performance across all types of projects, both indoor and outdoor.</p>
+					<p><a href="contact.php" class="btn btn-primary py-3 px-4 ">Get a Quote</a></p>
+				</div>
 				</div>
 			</div>
 			<div class="col-lg-9 services-wrap px-4 pt-5">
@@ -145,19 +150,18 @@
 <section class="ftco-section ftco-no-pt ftco-no-pb bg-light"></section>
 <div class="container">
 	<div class="row d-flex">
-		<div class="col-md-6 d-flex">
-			<div class="img d-flex align-self-stretch align-items-center justify-content-center justify-content-md-end  popup-vimeo" style="background-image:url(images/about.jpg);">
-				<!-- <a href="https://vimeo.com/45830194" class="icon-video popup-vimeo d-flex justify-content-center align-items-center">
-               </a> -->
-			</div>
-		</div>
+	<div class="col-md-6 d-flex">
+					<img class="img-fluid d-flex align-items-center justify-content-center justify-content-md-end 70vh" src="<?php echo BASE_URL; ?>/images/service/bdmntn1.jpg" alt="">
+    		</div>
 		<div class="col-md-6 pl-md-5">
 			<div class="row justify-content-start py-5">
 				<div class="col-md-12 heading-section ftco-animate">
-					<span class="subheading">Who are we</span>
-					<h2 class="mb-4">We are the best solution to your problem</h2>
-					<p>Far far away, behind the word mountains, far from the countries Vokalia and Consonantia</p>
-					<p><a href="#" class="btn btn-primary mr-md-4 py-2 px-4">Learn more <span class="ion-ios-arrow-forward"></span></a></p>
+				<div class="text-left p-3 py-lg-0">				
+					<span class="subheading">Who are we</span>										
+					<h2 class="mb-4">Innovators in Sustainable and High-Performance Turf Solutions</h2>
+					<p>Turfelo is recognized as one of the top producers and distributors of synthetic turf grass in India. We are committed to delivering top-quality synthetic turf grass suitable for athletic and landscaping purposes.With an internal engineering and project team consisting of industry professionals in sports construction and management.</p>
+					<p><a href="<?php echo BASE_URL; ?>/about.php" class="btn btn-primary mr-md-4 py-2 px-4">Get in touch</a></p>
+				</div>
 				</div>
 			</div>
 		</div>
@@ -172,7 +176,7 @@
 					<div class="col-md-12 heading-section ftco-animate text-center">
 						<span class="subheading">Why Us</span>
 						<h2 class="mb-4">We are the best solution to your problem</h2>
-						<p>Far far away, behind the word mountains, far from the countries Vokalia and Consonantia</p>
+						<p class="text-left p-3 py-lg-0">We provide top-notch, highly effective sports systems that are customised to meet your needs in the market. Envision a painstakingly crafted, scientifically supported exhibit that aims to avoid cartilage injuries—a ground-breaking solution that puts the health of athletes and sports fans first.</p>
 					</div>
 				</div>
 			</div>
@@ -180,39 +184,72 @@
 		<div class="row pt-md-3">
 			<div class="col-md-4 d-flex align-items-stretch">
 				<div class="services text-center">
-					<div class="icon d-flex justify-content-center align-items-center">
+					<!-- <div class="icon d-flex justify-content-center align-items-center">
 						<span class="flaticon-fence"></span>
-					</div>
-					<div class="text">
-						<h3>Garden Care</h3>
-					</div>
+					</div> -->
+						<h3>Premium Quality Artificial Turf</h3>
+						<p class="text-left p-3 py-lg-0">We provide a diverse selection of premium-quality artificial turf that closely replicates the appearance and texture of natural grass. Our turf options are highly durable, UV resistant, and designed for long-lasting performance in all weather conditions. Whether for residential landscapes, commercial properties, or sports fields, our artificial turf offers a lush, green look year-round with minimal maintenance.</p>
 					<a href="#" class="btn-custom d-flex align-items-center justify-content-center"><span class="ion-ios-arrow-round-forward"></span></a>
 				</div>
 			</div>
 			<div class="col-md-4 d-flex align-items-stretch">
 				<div class="services text-center">
-					<div class="icon d-flex justify-content-center align-items-center">
+					<!-- <div class="icon d-flex justify-content-center align-items-center">
 						<span class="flaticon-lawn-mower"></span>
-					</div>
-					<div class="text">
-						<h3>Lawn mowing</h3>
-					</div>
+					</div> -->
+						<h3>Custom Turf Installation Solutions</h3>
+						<p class="text-left p-3 py-lg-0">Our custom turf installation services are tailored to fit the unique needs of every client. Whether you're looking to enhance your backyard, create a safe play area for kids, or install a professional-grade sports field, we provide personalized solutions that align with your space and vision. We take care of everything from design to installation, ensuring a seamless process and a perfect fit for both indoor and outdoor applications.</p>
 					<a href="#" class="btn-custom d-flex align-items-center justify-content-center"><span class="ion-ios-arrow-round-forward"></span></a>
 				</div>
 			</div>
 			<div class="col-md-4 d-flex align-items-stretch">
 				<div class="services text-center">
-					<div class="icon d-flex justify-content-center align-items-center">
+					<!-- <div class="icon d-flex justify-content-center align-items-center">
 						<span class="flaticon-natural-resources"></span>
-					</div>
-					<div class="text">
-						<h3>Lawn care</h3>
-					</div>
+					</div> -->					
+						<h3>Multi-Sport Turf Grounds</h3>
+						<p class="text-left p-3 py-lg-0">Our multi-sport turf grounds are built to support various sports activities, offering a durable and versatile surface for games like football, tennis, cricket, and more. Designed to endure heavy foot traffic and withstand different weather conditions, our turf provides excellent performance, all-weather usability, and safety features. Plus, we offer customizable options for line markings and field sizes to meet specific sporting requirements.</p>		
+					<a href="#" class="btn-custom d-flex align-items-center justify-content-center"><span class="ion-ios-arrow-round-forward"></span></a>
+				</div>
+			</div>
+			<!-- <div class="col-lg-12 col-md-12 col-sm-12 d-flex justify-content-center mt-2 mt-lg-5">
+				<p><a href="#" class="btn btn-primary mr-md-4 py-2 px-4">Learn more</a></p>
+			</div> -->
+		</div>
+		<!-- 2nd copy -->
+		<div class="row pt-md-4 mt-lg-4">
+			<div class="col-md-4 d-flex align-items-stretch">
+				<div class="services text-center">
+					<!-- <div class="icon d-flex justify-content-center align-items-center">
+						<span class="flaticon-fence"></span>
+					</div> -->					
+						<h3>Eco-Friendly & Pet-Friendly Turf</h3>
+						<p class="text-left p-3 py-lg-0">Our eco-friendly and pet-friendly turf solutions are designed to conserve water, reduce the need for harmful chemicals, and create a safe environment for pets. This turf is made from non-toxic materials and is resistant to pet wear and tear, making it a sustainable and hassle-free choice for environmentally conscious homeowners. It's the perfect option for those who want a beautiful lawn while reducing their carbon footprint.</p>					
+					<a href="#" class="btn-custom d-flex align-items-center justify-content-center"><span class="ion-ios-arrow-round-forward"></span></a>
+				</div>
+			</div>
+			<div class="col-md-4 d-flex align-items-stretch">
+				<div class="services text-center">
+					<!-- <div class="icon d-flex justify-content-center align-items-center">
+						<span class="flaticon-lawn-mower"></span>
+					</div> -->					
+						<h3>Playground & Recreational Turf</h3>
+						<p class="text-left p-3 py-lg-0">Our playground and recreational turf offers added safety and durability for spaces used by children. Engineered with extra cushioning, this turf reduces the risk of injury from falls and is highly durable to withstand the wear and tear of active play. It's the ideal solution for schools, parks, and residential play areas, providing a soft, comfortable surface that's safe for children to enjoy.</p>					
+					<a href="#" class="btn-custom d-flex align-items-center justify-content-center"><span class="ion-ios-arrow-round-forward"></span></a>
+				</div>
+			</div>
+			<div class="col-md-4 d-flex align-items-stretch">
+				<div class="services text-center">
+					<!-- <div class="icon d-flex justify-content-center align-items-center">
+						<span class="flaticon-natural-resources"></span>
+					</div> -->					
+						<h3>Turf Repair & Maintenance Services</h3>
+						<p class="text-left p-3 py-lg-0">Our post-installation turf repair and maintenance services help extend the lifespan of your artificial turf. From minor repairs and seam corrections to thorough cleaning and rejuvenation, we ensure your turf remains in pristine condition. Regular maintenance can significantly improve the appearance and performance of your turf, making it look as good as new for years to come.</p>
 					<a href="#" class="btn-custom d-flex align-items-center justify-content-center"><span class="ion-ios-arrow-round-forward"></span></a>
 				</div>
 			</div>
 			<div class="col-lg-12 col-md-12 col-sm-12 d-flex justify-content-center mt-2 mt-lg-5">
-				<p><a href="#" class="btn btn-primary mr-md-4 py-2 px-4">Learn more <span class="ion-ios-arrow-forward"></span></a></p>
+				<p><a href="#" class="btn btn-primary mr-md-4 py-2 px-4">Learn more</a></p>
 			</div>
 		</div>
 	</div>
@@ -240,7 +277,7 @@
 				<!-- <div class="ftco-owl"> -->
 					<div class="col-lg-6 col-md-12 col-sm-12">
 						<div class="wrap">
-							<div class="seasonal img d-flex align-items-center justify-content-center" style="background-image: url(images/seasonal-1.jpg);">
+							<div class="seasonal img d-flex align-items-center justify-content-center hoverEffect" style="background-image: url(images/seasonal-1.jpg);">
 							</div>
 							<div class="text text-center px-4">
 								<h3><a href="#">Spring</a></h3>
@@ -250,7 +287,7 @@
 					</div>
 					<div class="col-lg-6 col-md-12 col-sm-12">
 						<div class="wrap">
-							<div class="seasonal img d-flex align-items-center justify-content-center" style="background-image: url(images/seasonal-2.jpg);">
+							<div class="seasonal img d-flex align-items-center justify-content-center hoverEffect" style="background-image: url(images/seasonal-2.jpg);">
 							</div>
 							<div class="text text-center px-4">
 								<h3><a href="#">Summer</a></h3>
@@ -260,7 +297,7 @@
 					</div>
 					<div class="col-lg-6 col-md-12 col-sm-12">
 						<div class="wrap">
-							<div class="seasonal img d-flex align-items-center justify-content-center" style="background-image: url(images/seasonal-3.jpg);">
+							<div class="seasonal img d-flex align-items-center justify-content-center hoverEffect" style="background-image: url(images/seasonal-3.jpg);">
 							</div>
 							<div class="text text-center px-4">
 								<h3><a href="#">Winter</a></h3>
@@ -270,7 +307,7 @@
 					</div>
 					<div class="col-lg-6 col-md-12 col-sm-12">
 						<div class="wrap">
-							<div class="seasonal img d-flex align-items-center justify-content-center" style="background-image: url(images/seasonal-4.jpg);">
+							<div class="seasonal img d-flex align-items-center justify-content-center hoverEffect" style="background-image: url(images/seasonal-4.jpg);">
 							</div>
 							<div class="text text-center px-4">
 								<h3><a href="#">Fall</a></h3>
@@ -301,7 +338,7 @@
                <div id="form-message-success" class="mb-4">
                    Your message was sent, thank you!
                </div> -->
-				<h3 class="mb-2 mb-lg-5">
+				<h3 class="mb-2 mb-lg-2">
 					FAQ's
 				</h3>
 				<div id="accordion" class="myaccordion mb-4 mb-lg-0"> 
@@ -316,7 +353,7 @@
 						</div>
 						<div id="collapseOne" class="collapse" aria-labelledby="headingOne" data-parent="#accordion">
 							<div class="card-body">
-								<p>At Trufello, we offer a variety of sports facilities including football turf, badminton court, swimming pool, volleyball court, basketball turf, tennis court, and multisport turf. Whether you are looking for a place to play with friends or host a tournament, our premium turfs are designed to cater to all your needs.</p>
+								<p>At Turfelo, we offer a variety of sports facilities including football turf, badminton court, swimming pool, volleyball court, basketball turf, tennis court, and multisport turf. Whether you are looking for a place to play with friends or host a tournament, our premium turfs are designed to cater to all your needs.</p>
 							</div>
 						</div>
 					</div>
@@ -390,40 +427,47 @@
                <div id="form-message-success" class="mb-4">
                    Your message was sent, thank you!
                </div> -->
-				<form method="POST" id="contactForm" name="contactForm" class="contactForm ">
-					<div class="row">
-						<div class="col-md-6">
-							<div class="form-group">
-								<label class="label" for="name">Full Name</label>
-								<input type="text" class="form-control" name="name" id="name" placeholder="Name">
-							</div>
-						</div>
-						<div class="col-md-6">
-							<div class="form-group">
-								<label class="label" for="email">Email Address</label>
-								<input type="email" class="form-control" name="email" id="email" placeholder="Email">
-							</div>
-						</div>
-						<div class="col-md-12">
-							<div class="form-group">
-								<label class="label" for="subject">Subject</label>
-								<input type="text" class="form-control" name="subject" id="subject" placeholder="Subject">
-							</div>
-						</div>
-						<div class="col-md-12">
-							<div class="form-group">
-								<label class="label" for="#">Message</label>
-								<textarea name="message" class="form-control" id="message" cols="30" rows="4" placeholder="Message"></textarea>
-							</div>
-						</div>
-						<div class="col-md-12">
-							<div class="form-group">
-								<input type="submit" value="Send Message" class="btn btn-primary">
-								<div class="submitting"></div>
-							</div>
-						</div>
-					</div>
-				</form>
+			   <form method="POST" id="contactForm" name="contactForm" class="contactForm">
+											<div class="row">
+												<div class="col-md-6">
+													<div class="form-group">
+														<label class="label" for="name">Full Name</label>
+														<input type="text" class="form-control" name="name" id="name" placeholder="Name" oninput="removeNumbers(this)">
+													</div>
+												</div>
+												<div class="col-md-6">
+													<div class="form-group">
+														<label class="label" for="phone">Phone Number</label>
+														<input type="tel" class="form-control" id="phone" name="phone" placeholder="Phone" maxlength="10" onkeyup="numberOnly(this)">
+													</div>
+												</div>
+												<div class="col-md-12"> 
+													<div class="form-group">
+														<label class="label" for="email">Email Address</label>
+														<input type="email" class="form-control" name="email" id="email" placeholder="Email">
+														<span id="emailError" style="color: red; display: none;">Please enter a valid email address.</span>
+													</div>
+												</div>
+												<div class="col-md-12">
+													<div class="form-group">
+														<label class="label" for="subject">Subject</label>
+														<input type="text" class="form-control" name="subject" id="subject" placeholder="Subject">
+													</div>
+												</div>
+												<div class="col-md-12">
+													<div class="form-group">
+														<label class="label" for="#">Message</label>
+														<textarea name="message" class="form-control" id="message" cols="30" rows="4" placeholder="Message" maxlength="300"></textarea>
+													</div>
+												</div>
+												<div class="col-md-12">
+													<div class="form-group">
+														<input type="submit" value="Send Message" class="btn btn-primary">
+														<div class="submitting"></div>
+													</div>
+												</div>
+											</div>
+										</form>
 			</div>
 		</div>
 	</div>

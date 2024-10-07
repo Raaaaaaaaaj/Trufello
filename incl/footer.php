@@ -3,10 +3,10 @@
       <div class="container">
         <div class="row mb-5">
           <div class="col-md-6 col-lg">
-            <div class="ftco-footer-widget mb-4">
+            <div class="ftco-footer-widget mb-4 ml-3">
               <h2 class="logo"><a href="#">Turf <span>Elo</span></a></h2>
-              <p>Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts.</p>
-              <ul class="ftco-footer-social list-unstyled float-md-left float-lft mt-5">
+              <p class="p-3 py-lg-0">Turfelo is a leading provider of premium artificial turf solutions across India With years of experience and deliver tailored products and services to meet your unique outdoor needs.</p>
+              <ul class="ftco-footer-social list-unstyled float-md-left float-lft mt-2 ml-3 ml-lg-0">
                 <li class="ftco-animate"><a href="#"><span class="icon-twitter"></span></a></li>
                 <li class="ftco-animate"><a href="#"><span class="icon-facebook"></span></a></li>
                 <li class="ftco-animate"><a href="#"><span class="icon-instagram"></span></a></li>
@@ -14,21 +14,38 @@
             </div>
           </div>
           <div class="col-md-6 col-lg">
-            <div class="ftco-footer-widget mb-4 ml-md-5">
-              <h2 class="ftco-heading-2">Services</h2>
-              <ul class="list-unstyled">
-                <li><a href="#" class="py-1 d-block"><span class="ion-ios-arrow-forward mr-3"></span>Football Turf</a></li>
-                <li><a href="#" class="py-1 d-block"><span class="ion-ios-arrow-forward mr-3"></span>Swimmng Pool</a></li>
-                <li><a href="#" class="py-1 d-block"><span class="ion-ios-arrow-forward mr-3"></span>Cricket Truf</a></li>
-                <li><a href="#" class="py-1 d-block"><span class="ion-ios-arrow-forward mr-3"></span>Volleyball</a></li>
-                <li><a href="#" class="py-1 d-block"><span class="ion-ios-arrow-forward mr-3"></span>Multi Sport Turf</a></li>
+            <div class="ftco-footer-widget mb-3 ml-md-5">
+              <h2 class="ftco-heading-2 ml-4 ml-lg-0">Info</h2>
+              <ul class="list-unstyled ml-5 ml-lg-0">                
+                <li><a href="<?php echo BASE_URL; ?>/index.php" class="py-1 d-block"><span class="ion-ios-arrow-forward mr-3"></span>Home</a></li>
+                <li><a href="<?php echo BASE_URL; ?>/about.php" class="py-1 d-block"><span class="ion-ios-arrow-forward mr-3"></span>About</a></li>
+                <li><a href="<?php echo BASE_URL; ?>/project.php" class="py-1 d-block"><span class="ion-ios-arrow-forward mr-3"></span>Projects</a></li>
+                <li><a href="<?php echo BASE_URL; ?>/gallery.php" class="py-1 d-block"><span class="ion-ios-arrow-forward mr-3"></span>Gallery</a></li>
+                <li><a href="<?php echo BASE_URL; ?>/contact.php" class="py-1 d-block"><span class="ion-ios-arrow-forward mr-3"></span>Contact us</a></li>
+              </ul>
+            </div>
+          </div>
+          <!-- services pages-->
+          <div class="col-md-6 col-lg">
+            <div class="ftco-footer-widget mb-3 ml-md-5">
+              <h2 class="ftco-heading-3 ml-4 ml-lg-0">Services</h2>
+              <ul class="list-unstyled ml-5 ml-lg-0">
+                <li><a href="<?php echo BASE_URL; ?>/service_pages/football_turf.php" class="py-1 d-block"><span class="ion-ios-arrow-forward mr-3"></span>Football Turf</a></li>
+                <li><a href="<?php echo BASE_URL; ?>/service_pages/swimming_pool.php" class="py-1 d-block"><span class="ion-ios-arrow-forward mr-3"></span>Swimmng Pool</a></li>
+                <li><a href="<?php echo BASE_URL; ?>/service_pages/cricket_turf.php" class="py-1 d-block"><span class="ion-ios-arrow-forward mr-3"></span>Cricket Truf</a></li>
+                <li><a href="<?php echo BASE_URL; ?>/service_pages/volleyball.php" class="py-1 d-block"><span class="ion-ios-arrow-forward mr-3"></span>Volleyball</a></li>
+                <li><a href="<?php echo BASE_URL; ?>/service_pages/multisport.php" class="py-1 d-block"><span class="ion-ios-arrow-forward mr-3"></span>Multi Sport Turf</a></li>
+                <li><a href="<?php echo BASE_URL; ?>/service_pages/badminton.php" class="py-1 d-block"><span class="ion-ios-arrow-forward mr-3"></span>Badminton Court</a></li>
+                <li><a href="<?php echo BASE_URL; ?>/service_pages/land_grass.php" class="py-1 d-block"><span class="ion-ios-arrow-forward mr-3"></span>Landscape Grass</a></li>
+                <li><a href="<?php echo BASE_URL; ?>/service_pages/proj_consul.php" class="py-1 d-block"><span class="ion-ios-arrow-forward mr-3"></span>Project Consultancy</a></li>
+                <li><a href="<?php echo BASE_URL; ?>/service_pages/basketball.php" class="py-1 d-block"><span class="ion-ios-arrow-forward mr-3"></span>Basketball Court</a></li>
               </ul>
             </div>
           </div>
           <div class="col-md-6 col-lg">
-            <div class="ftco-footer-widget mb-4">
-            	<h2 class="ftco-heading-2">Contact information</h2>
-            	<div class="block-23 mb-3">
+            <div class="ftco-footer-widget mb-3">
+            	<h2 class="ftco-heading-4 ml-4 ml-lg-0">Contact information</h2>
+            	<div class="block-23 mb-3 ml-5 ml-lg-0">
 	              <ul>
 	                <li><span class="icon icon-map-marker"></span><span class="text">Barrackpore, Kolkata-121</span></li>
 	                <li><a href="#"><span class="icon icon-phone"></span><span class="text">+91 1234567890</span></a></li>
@@ -37,19 +54,18 @@
 	            </div>
             </div>
           </div>
-          <div class="col-md-6 col-lg">
+          <!-- <div class="col-md-6 col-lg">
              <div class="ftco-footer-widget mb-4">
               <h2 class="ftco-heading-2">Business Hours</h2>
               <div class="opening-hours">
-              	<h4>Opening Days:</h4>
+              	<h4 class="pl-3">Opening Days:</h4>
               	<p class="pl-3">
               		<span>Monday – Friday : 9am to 20 pm</span>
               		<span>Saturday : 9am to 17 pm</span>
-              	</p>
-              	
+              	</p>              	
               </div>
             </div>
-          </div>
+          </div> -->
         </div>
         <div class="row">
           <div class="col-md-12 text-center">
