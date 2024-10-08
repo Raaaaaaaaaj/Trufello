@@ -224,7 +224,7 @@
 				</div>
 			</div>
 			<div class="col-lg-12 col-md-12 col-sm-12 d-flex justify-content-center mt-2 mt-lg-5">
-				<p><a href="#" class="btn btn-primary mr-md-4 py-2 px-4">Learn more</a></p>
+				<p><a href="<?php echo BASE_URL; ?>/about.php" class="btn btn-primary mr-md-4 py-2 px-4">Learn more</a></p>
 			</div>
 		</div>
 	</div>

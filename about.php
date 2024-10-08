@@ -57,6 +57,8 @@
         </div>
     	</div>
 </section>
+<?php include 'incl/best_offerings.php' ?>
+
 <section class="ftco-section testimony-section">
       <div class="container">
         <div class="row justify-content-center mb-2">
@@ -143,7 +145,6 @@
         </div>
       </div>
 </section>
-<?php include 'incl/best_offerings.php' ?>
 <?php include 'incl/cta.php' ?>
 <?php include 'incl/footer.php'?>
     

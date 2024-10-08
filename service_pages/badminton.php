@@ -33,11 +33,7 @@
         </div>
     	</div>
 </section>
-<<<<<<< HEAD
-
-=======
 <?php include '../incl/best_offerings.php' ?>
->>>>>>> 1b0926517d07bffe229a9d833a34a53ad7009e85
 <?php include '../incl/recent_projects.php' ?>
 <?php include '../incl/cta.php'; ?>
 <?php include '../incl/footer.php' ?>
