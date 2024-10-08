@@ -1,7 +1,7 @@
 <?php include 'config.php'; ?>
 <body>
 	<nav class="container navbar navbar-expand-lg ftco_navbar ftco-navbar-light fixed-top" id="navbar">
-	    <div class="container-fluid">
+	    <div class="container-fluid px-5">
 		<a class="navbar-brand" href="index.php">
       		<img src="<?php echo BASE_URL; ?>logo.png" alt="Logo" height="40"> <!-- Adjust path and height as needed -->
     	</a>

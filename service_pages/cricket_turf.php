@@ -34,6 +34,56 @@
 		</div>
 	</div>
 </section>
+
+
+<section class="ftco-section ftco-no-pt ftco-no-pb bg-light">
+	<div class="container">
+		<div class="row d-flex pt-5">
+		<div class="col-md-6 d-flex">
+					<img class="img-fluid d-flex align-items-center justify-content-center justify-content-md-end 70vh" src="<?php echo BASE_URL; ?>/images/service/swm_const2.jpg" alt="">
+    		</div>
+			<div class="col-md-6 pl-md-5">
+				<div class="row justify-content-start py-5">
+					<div class="col-md-12 heading-section ftco-animate">
+						<h2 class="mb-4">Minimum Requirement To Build A Cricket Net:</h2>
+						<p> A standard cricket net should be at least 15 meters (50 feet) long, 3 meters (10 feet) wide, and 3 meters (10 feet) high. The netting should be durable and made from high-quality materials, with a mesh size of 1.5-3 inches to prevent cricket balls from passing through. Sturdy posts, typically steel or aluminum, should be securely anchored into the ground. The net is supported by strong guy ropes to ensure stability under tension.
+
+						The pitch surface within the net should be made from concrete, asphalt, or artificial turf, providing a smooth, obstacle-free playing area. Adequate lighting is essential to enable play during low-light conditions, while safety remains a top priority, with all equipment meeting high safety standards.
+
+						Optional features like batting screens can enhance safety by protecting bowlers and other players from hard-hit balls. Advanced cricket nets may also include automated ball machines or other training aids to help players refine their skills. Additional elements such as scoreboards, seating, and boundary ropes can be added depending on the level of play and the net's intended use.
+
+						Overall, these components ensure that the cricket net is functional, durable, and suitable for both casual and competitive use.</p>
+
+					</div>
+				</div>
+			</div>
+		</div>
+	</div>
+</section>
+<section class="ftco-section ftco-no-pt ftco-no-pb bg-light">
+	<div class="container">
+		<div class="row d-flex pt-5">
+			<div class="col-md-6 pl-md-5">
+				<div class="row justify-content-start py-5">
+					<div class="col-md-12 heading-section ftco-animate">
+						<h2 class="mb-4">How to Make a Long-lasting Cricket Turf:
+						</h2>
+						<p>To ensure a long-lasting cricket net, it's crucial to use high-quality materials like polyethylene or nylon for the netting, and rust-resistant galvanized steel for the poles and frames. Proper installation is key, with poles set deeply into the ground and netting tightly secured to prevent sagging or tearing.
+
+						Regular maintenance, such as cleaning the net, repairing any damage promptly, and replacing worn-out parts, is essential for longevity. The net should be large enough to accommodate various cricket shots and player movement, as a small net may lead to damage from the ball hitting the frame.
+
+						Proper usage also plays a role in extending the life of the net. Avoid hitting the ball too hard and use the net solely for cricket practice. By focusing on quality materials, correct installation, regular maintenance, and appropriate usage, you can ensure the net lasts longer and provides good value for your investment.</p>
+					</div>
+				</div>
+			</div>
+			<div class="col-md-6 d-flex">
+					<img class="img-fluid d-flex align-items-center justify-content-center justify-content-md-end 70vh" src="<?php echo BASE_URL; ?>/images/service/swm_repair.webp" alt="">
+    		</div>
+		</div>
+	</div>
+</section>
+
+
 <?php include '../incl/best_offerings.php' ?>
 <?php include '../incl/recent_projects.php' ?>
 <?php include '../incl/cta.php' ?>

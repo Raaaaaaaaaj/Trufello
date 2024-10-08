@@ -17,7 +17,7 @@
 </div> 
 <section class="ftco-section ftco-no-pt ftco-no-pb bg-light">
     	<div class="container">
-    		<div class="row d-flex py-5">
+    		<div class="row d-flex pt-5">
 			<div class="col-md-6 d-flex">
 					<img class="img-fluid d-flex align-items-center justify-content-center justify-content-md-end 70vh" src="<?php echo BASE_URL; ?>/images/service/bdmntn1.jpg" alt="">
     		</div>
@@ -40,7 +40,7 @@
 	<div class="container">
 		<div class="row d-flex">
 			<div class="col-lg-12 col-md-12 col-sm-12 pl-md-5">
-				<div class="row justify-content-start py-5">
+				<div class="row justify-content-start pb-5">
 					<div class="col-md-12 heading-section ftco-animate text-center">
 					<span class="subheading">The ideal turf size</span>
 						<h2 class="mb-4">DIMENSIONS OF FOOTBALL TURF BY FIFA</h2>
@@ -52,6 +52,46 @@
 	</div>
 	</div>
 </section>
+
+<section class="ftco-section ftco-no-pt ftco-no-pb bg-light">
+	<div class="container">
+		<div class="row d-flex pt-5">
+		<div class="col-md-6 d-flex">
+					<img class="img-fluid d-flex align-items-center justify-content-center justify-content-md-end 70vh" src="<?php echo BASE_URL; ?>/images/service/swm_const2.jpg" alt="">
+    		</div>
+			<div class="col-md-6 pl-md-5">
+				<div class="row justify-content-start py-5">
+					<div class="col-md-12 heading-section ftco-animate">
+						<h2 class="mb-4">Football Turf Construction:</h2>
+						<p> Football turf construction involves base preparation with soil compaction, followed by adding three layers of aggregates. A drainage system is installed, and an industrial framework supports the turf. The surface is graded to ensure proper water flow, and if required, electrical cabling and lighting are installed. Fencing is placed around the pitch, and goal posts are secured. The turf is laid, then filled with silica sand and rubber granules to ensure stability and cushioning. Finally, lines and markings are added to meet FIFA standards. These steps ensure a durable and professional football turf.</p>
+
+					</div>
+				</div>
+			</div>
+		</div>
+	</div>
+</section>
+<section class="ftco-section ftco-no-pt ftco-no-pb bg-light">
+	<div class="container">
+		<div class="row d-flex pt-5">
+			<div class="col-md-6 pl-md-5">
+				<div class="row justify-content-start py-5">
+					<div class="col-md-12 heading-section ftco-animate">
+						<h2 class="mb-4">How to Maintain a Football Turf:
+						</h2>
+						<p>To maintain artificial football turf, regular cleaning is essential to remove dirt and debris using a leaf blower or soft brush, followed by pressure washing. Grooming the turf fibers helps improve ball roll and player traction. Regularly replenish sand and rubber infill to maintain cushioning and shock absorption. Promptly repair any tears or uneven areas to prevent further damage. Routine inspections help detect early signs of wear. Avoid using metal studs or heavy equipment on the turf to prevent excessive damage. Following these tips will keep the turf in good condition, ensuring longevity, safety, and optimal performance.</p>
+					</div>
+				</div>
+			</div>
+			<div class="col-md-6 d-flex">
+					<img class="img-fluid d-flex align-items-center justify-content-center justify-content-md-end 70vh" src="<?php echo BASE_URL; ?>/images/service/swm_repair.webp" alt="">
+    		</div>
+		</div>
+	</div>
+</section>
+
+
+
 <?php include '../incl/best_offerings.php' ?>
 <?php include '../incl/recent_projects.php' ?>
 <?php include '../incl/cta.php' ?>
