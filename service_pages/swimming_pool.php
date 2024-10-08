@@ -126,7 +126,7 @@
 			<div class="col-md-6 pl-md-5">
 				<div class="row justify-content-start py-5">
 					<div class="col-md-12 heading-section ftco-animate">
-						<h2 class="mb-4">Types of Pool:
+						<h2 class="mb-4 mb-sm-2">Types of Pool:
 						</h2>
 						<p>Our types of pool page serves as a resource for understanding the different varieties of swimming pools, including concrete, fiberglass, and vinyl liner models.We examine the advantages and disadvantages of each type, along with their maintenance demands and cost factors. This information is intended to empower you to make an educated decision regarding the best pool choice for your home and lifestyle.</p>
 						<p class="mt-4 "><a href="#" class="btn btn-primary mr-md-4 py-2 px-4">Contact Us</a></p>

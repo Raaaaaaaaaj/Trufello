@@ -157,6 +157,7 @@
 	</div>
 </div>
 </section>
+<!--antara card section changed-->
 <section class="ftco-section ftco-no-pt ftco-no-pb bg-light mt-2 mt-lg-4">
 	<div class="container">
 		<div class="row d-flex">
@@ -173,32 +174,21 @@
 		<div class="row pt-md-3">
 			<div class="col-md-4 d-flex align-items-stretch">
 				<div class="services text-center">
-					<!-- <div class="icon d-flex justify-content-center align-items-center">
-						<span class="flaticon-fence"></span>
-					</div> -->
 						<h3>Premium Quality Artificial Turf</h3>
-						<p class="text-left p-3 py-lg-0">We provide a diverse selection of premium-quality artificial turf that closely replicates the appearance and texture of natural grass. Our turf options are highly durable, UV resistant, and designed for long-lasting performance in all weather conditions. Whether for residential landscapes, commercial properties, or sports fields, our artificial turf offers a lush, green look year-round with minimal maintenance.</p>
-					<a href="#" class="btn-custom d-flex align-items-center justify-content-center"><span class="ion-ios-arrow-round-forward"></span></a>
+						<p class="text-left p-3 py-lg-0">We offer a wide range of high-quality artificial turf options that mimic the look and feel of natural grass, ensuring durability, UV resistance, and low maintenance for both residential and commercial applications.</p>
+					<!-- <a href="#" class="btn-custom d-flex align-items-center justify-content-center"><span class="ion-ios-arrow-round-forward"></span></a> -->
 				</div>
 			</div>
 			<div class="col-md-4 d-flex align-items-stretch">
 				<div class="services text-center">
-					<!-- <div class="icon d-flex justify-content-center align-items-center">
-						<span class="flaticon-lawn-mower"></span>
-					</div> -->
 						<h3>Custom Turf Installation Solutions</h3>
-						<p class="text-left p-3 py-lg-0">Our custom turf installation services are tailored to fit the unique needs of every client. Whether you're looking to enhance your backyard, create a safe play area for kids, or install a professional-grade sports field, we provide personalized solutions that align with your space and vision. We take care of everything from design to installation, ensuring a seamless process and a perfect fit for both indoor and outdoor applications.</p>
-					<a href="#" class="btn-custom d-flex align-items-center justify-content-center"><span class="ion-ios-arrow-round-forward"></span></a>
+						<p class="text-left p-3 py-lg-0">We provide tailored turf installation services, catering to different needs such as sports fields, playgrounds, rooftops, and landscaping. Offer flexible options for indoor and outdoor spaces with personalized designs and layouts.</p>					
 				</div>
 			</div>
 			<div class="col-md-4 d-flex align-items-stretch">
-				<div class="services text-center">
-					<!-- <div class="icon d-flex justify-content-center align-items-center">
-						<span class="flaticon-natural-resources"></span>
-					</div> -->					
+				<div class="services text-center">				
 						<h3>Multi-Sport Turf Grounds</h3>
-						<p class="text-left p-3 py-lg-0">Our multi-sport turf grounds are built to support various sports activities, offering a durable and versatile surface for games like football, tennis, cricket, and more. Designed to endure heavy foot traffic and withstand different weather conditions, our turf provides excellent performance, all-weather usability, and safety features. Plus, we offer customizable options for line markings and field sizes to meet specific sporting requirements.</p>		
-					<a href="#" class="btn-custom d-flex align-items-center justify-content-center"><span class="ion-ios-arrow-round-forward"></span></a>
+						<p class="text-left p-3 py-lg-0">Highlight specialized turf for multi-sport facilities, ensuring durability, all-weather performance, and safety features for sports like football, cricket, tennis, and more. Include customizable options for line markings and field dimensions.</p>				
 				</div>
 			</div>
 			<!-- <div class="col-lg-12 col-md-12 col-sm-12 d-flex justify-content-center mt-2 mt-lg-5">
@@ -208,13 +198,9 @@
 		<!-- 2nd copy -->
 		<div class="row pt-md-4 mt-lg-4">
 			<div class="col-md-4 d-flex align-items-stretch">
-				<div class="services text-center">
-					<!-- <div class="icon d-flex justify-content-center align-items-center">
-						<span class="flaticon-fence"></span>
-					</div> -->					
+				<div class="services text-center">		
 						<h3>Eco-Friendly & Pet-Friendly Turf</h3>
-						<p class="text-left p-3 py-lg-0">Our eco-friendly and pet-friendly turf solutions are designed to conserve water, reduce the need for harmful chemicals, and create a safe environment for pets. This turf is made from non-toxic materials and is resistant to pet wear and tear, making it a sustainable and hassle-free choice for environmentally conscious homeowners. It's the perfect option for those who want a beautiful lawn while reducing their carbon footprint.</p>					
-					<a href="#" class="btn-custom d-flex align-items-center justify-content-center"><span class="ion-ios-arrow-round-forward"></span></a>
+						<p class="text-left p-3 py-lg-0">We promote eco-friendly artificial turf that conserves water, reduces the need for chemical treatments, and is safe for pets. This option appeals to environmentally conscious customers and pet owners alike.</p>
 				</div>
 			</div>
 			<div class="col-md-4 d-flex align-items-stretch">
@@ -223,8 +209,8 @@
 						<span class="flaticon-lawn-mower"></span>
 					</div> -->					
 						<h3>Playground & Recreational Turf</h3>
-						<p class="text-left p-3 py-lg-0">Our playground and recreational turf offers added safety and durability for spaces used by children. Engineered with extra cushioning, this turf reduces the risk of injury from falls and is highly durable to withstand the wear and tear of active play. It's the ideal solution for schools, parks, and residential play areas, providing a soft, comfortable surface that's safe for children to enjoy.</p>					
-					<a href="#" class="btn-custom d-flex align-items-center justify-content-center"><span class="ion-ios-arrow-round-forward"></span></a>
+						<p class="text-left p-3 py-lg-0">Our playground and recreational turf offers added safety and durability for spaces used by children. Engineered with extra cushioning, this turf reduces the risk of injury from falls and is highly durable to withstand the wear and tear of active play.</p>					
+					
 				</div>
 			</div>
 			<div class="col-md-4 d-flex align-items-stretch">
@@ -233,8 +219,8 @@
 						<span class="flaticon-natural-resources"></span>
 					</div> -->					
 						<h3>Turf Repair & Maintenance Services</h3>
-						<p class="text-left p-3 py-lg-0">Our post-installation turf repair and maintenance services help extend the lifespan of your artificial turf. From minor repairs and seam corrections to thorough cleaning and rejuvenation, we ensure your turf remains in pristine condition. Regular maintenance can significantly improve the appearance and performance of your turf, making it look as good as new for years to come.</p>
-					<a href="#" class="btn-custom d-flex align-items-center justify-content-center"><span class="ion-ios-arrow-round-forward"></span></a>
+						<p class="text-left p-3 py-lg-0">Our post-installation turf repair and maintenance services help extend the lifespan of your artificial turf.From minor repairs and seam corrections to thorough cleaning and rejuvenation, we ensure your turf remains in pristine condition.</p>
+					<!--  -->
 				</div>
 			</div>
 			<div class="col-lg-12 col-md-12 col-sm-12 d-flex justify-content-center mt-2 mt-lg-5">
@@ -309,15 +295,9 @@
 		</div>
 	</div>
 </section>
-<section class="container pt-5">
-	<div class="row bg-light d-flex align-items-center justify-content-around p-5 icon-section">
-		<img src="images/vector_images/fifa.png" alt="">
-		<img src="images/vector_images/maintanance.png" alt="">
-		<img src="images/vector_images/experience.png" alt="">
-		<img src="images/vector_images/field.png" alt="">
-		<img src="images/vector_images/trophy.png" alt="">
-	</div>
-</section>
+
+<!--icon section deleted-->
+
 <section class="ftco-section bg-light mt-5">
 	<div class="container">
 		<div class="row justify-content-center">
@@ -462,15 +442,7 @@
 	</div>
 </section>
 
+<!--icon section deleted-->
 
-<section class="container pt-5 pb-5">
-	<div class="row bg-light d-flex align-items-center justify-content-around p-5 icon-section">
-		<img src="images/vector_images/fifa.png" alt="">
-		<img src="images/vector_images/maintanance.png" alt="">
-		<img src="images/vector_images/experience.png" alt="">
-		<img src="images/vector_images/field.png" alt="">
-		<img src="images/vector_images/trophy.png" alt="">
-	</div>
-</section>
 <?php include 'incl/cta.php'; ?>
 <?php include 'incl/footer.php' ?>

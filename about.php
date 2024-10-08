@@ -42,7 +42,7 @@
 					<img class="img-fluid d-flex align-items-center justify-content-center justify-content-md-end 70vh" src="<?php echo BASE_URL; ?>/images/service/bdmntn1.jpg" alt="">
     		</div>
     			<div class="col-md-6 pl-md-5">
-    				<div class="row justify-content-start p-3 py-lg-0 mt-2">
+    				<div class="row justify-content-start p-3 py-lg-0 mt-3">
 		          <div class="col-md-12 heading-section ftco-animate">
 		            <p>We aim to develop sports of the highest quality that every player can enjoy. As part of our vision to improve the nation's fitness by enhancing sports infrastructure, we are placing our focus on the northern Indian regions including Delhi, Punjab, Haryana, Rajasthan, Uttar Pradesh, Bihar, and others. Additionally, we will prioritize the northeastern states such as Manipur, Assam, Nagaland, Arunachal Pradesh, Meghalaya, Sikkim, and Tripura, as well as Kolkata.</p>
 		            <p>
