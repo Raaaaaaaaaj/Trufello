@@ -1,6 +1,20 @@
 <?php include '../incl/config.php' ?>
 <?php include '../incl/header.php' ?>
+<head>
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Basketball</title>
+<meta name="description" content="" />
+
+<meta property="og:locale" content="en_US" />
+<meta property="og:type" content="article" />
+<meta property="og:title" content="Basketball" />
+<meta property="og:image" content="" />
+<meta property="og:description" content="" />
+<meta property="og:url" content="https://www.turfelo.com/basketball" />
+<link rel="canonical" href="https://www.turfelo.com/basketball" />
+</head>
 <?php include '../incl/nav.php' ?>
+
 <div class="banner">
 	<img src="<?php echo BASE_URL; ?>/images/banners/basketball_banner1.jpg" alt="Banner Image" class="img-fluid">
 	<div class="overlay"></div>
@@ -32,7 +46,7 @@
 
 							In summary, Trufello Sports' basketball court construction services deliver a tailored, high-quality sports facility designed to fulfill the specific needs and preferences of their clients.
 						</div>
-						<p class="mt-4 "><a href="#" class="btn btn-primary mr-md-4 py-2 px-4">Contact Us</a></p>
+						<p class="mt-4 "><a href="<?php echo BASE_URL; ?>/contact.php" class="btn btn-primary mr-md-4 py-2 px-4">Contact Us</a></p>
 					</div>
 				</div>
 			</div>

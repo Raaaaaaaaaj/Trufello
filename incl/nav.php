@@ -2,7 +2,7 @@
 <body>
 	<nav class="container navbar navbar-expand-lg ftco_navbar ftco-navbar-light fixed-top" id="navbar">
 	    <div class="container-fluid px-5">
-		<a class="navbar-brand" href="index.php">
+		<a class="navbar-brand" href="<?php echo BASE_URL; ?>/index.php">
       		<img src="<?php echo BASE_URL; ?>logo.png" alt="Logo" height="40"> <!-- Adjust path and height as needed -->
     	</a>
 	      <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#ftco-nav" aria-controls="ftco-nav" aria-expanded="false" aria-label="Toggle navigation">
@@ -36,7 +36,7 @@
 
 			<!-- Button on the right side -->
 			<!-- <a href="your-button-link.php" class="btn btn-primary ">Your Button</a> -->
-			<button class="btn btn-warning px-4 py-2 text-white con-btn"><a href="<?php echo BASE_URL; ?>/contact.php">Contact Us</a></button>
+			<button class="btn btn-warning px-4 py-2 con-btn"><a class="text-white" href="<?php echo BASE_URL; ?>/contact.php">Contact Us</a></button>
 
 
 	      </div>

@@ -1,7 +1,20 @@
 <?php include 'incl/config.php'; ?>
 <?php include 'incl/header.php'?>
+<head>
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Gallery</title>
+<meta name="description" content="" />
+
+<meta property="og:locale" content="en_US" />
+<meta property="og:type" content="article" />
+<meta property="og:title" content="Gallery" />
+<meta property="og:image" content="" />
+<meta property="og:description" content="" />
+<meta property="og:url" content="https://www.turfelo.com/gallery" />
+<link rel="canonical" href="https://www.turfelo.com/gallery" />
+</head>
 <?php include 'incl/nav.php'?>
-    
+
 <div class="banner">
         <img src="<?php echo BASE_URL; ?>/images/banners/football_banner4.jpg" alt="Banner Image" class="img-fluid">
         <div class="overlay"></div>
@@ -22,8 +35,8 @@
 	    				</a>
             	<div class="desc w-100 px-4">
 	              <div class="text w-100 mb-3">
-	              	<span>Nature</span>
-	              	<h2><a href="work-single.html">Beautiful Work</a></h2>
+	              	<span>Turfelo</span>
+	              	<h2><a href="work-single.html">Our Works</a></h2>
 	              </div>
               </div>
             </div>
@@ -35,8 +48,8 @@
 	    				</a>
             	<div class="desc w-100 px-4">
 	              <div class="text w-100 mb-3">
-	              	<span>Nature</span>
-	              	<h2><a href="work-single.html">Beautiful Work</a></h2>
+	              	<span>Turfelo</span>
+	              	<h2><a href="work-single.html">Our Works</a></h2>
 	              </div>
               </div>
             </div>
@@ -48,8 +61,8 @@
 	    				</a>
             	<div class="desc w-100 px-4">
 	              <div class="text w-100 mb-3">
-	              	<span>Nature</span>
-	              	<h2><a href="work-single.html">Beautiful Work</a></h2>
+	              	<span>Turfelo</span>
+	              	<h2><a href="work-single.html">Our Works</a></h2>
 	              </div>
               </div>
             </div>
@@ -62,8 +75,8 @@
 	    				</a>
             	<div class="desc w-100 px-4">
 	              <div class="text w-100 mb-3">
-	              	<span>Nature</span>
-	              	<h2><a href="work-single.html">Beautiful Work</a></h2>
+	              	<span>Turfelo</span>
+	              	<h2><a href="work-single.html">Our Works</a></h2>
 	              </div>
               </div>
             </div>
@@ -75,8 +88,8 @@
 	    				</a>
             	<div class="desc w-100 px-4">
 	              <div class="text w-100 mb-3">
-	              	<span>Nature</span>
-	              	<h2><a href="work-single.html">Beautiful Work</a></h2>
+	              	<span>Turfelo</span>
+	              	<h2><a href="work-single.html">Our Works</a></h2>
 	              </div>
               </div>
             </div>
@@ -88,8 +101,8 @@
 	    				</a>
             	<div class="desc w-100 px-4">
 	              <div class="text w-100 mb-3">
-	              	<span>Nature</span>
-	              	<h2><a href="work-single.html">Beautiful Work</a></h2>
+	              	<span>Turfelo</span>
+	              	<h2><a href="work-single.html">Our Works</a></h2>
 	              </div>
               </div>
             </div>
@@ -102,8 +115,8 @@
 	    				</a>
             	<div class="desc w-100 px-4">
 	              <div class="text w-100 mb-3">
-	              	<span>Nature</span>
-	              	<h2><a href="work-single.html">Beautiful Work</a></h2>
+	              	<span>Turfelo</span>
+	              	<h2><a href="work-single.html">Our Works</a></h2>
 	              </div>
               </div>
             </div>
@@ -115,8 +128,8 @@
 	    				</a>
             	<div class="desc w-100 px-4">
 	              <div class="text w-100 mb-3">
-	              	<span>Nature</span>
-	              	<h2><a href="work-single.html">Beautiful Work</a></h2>
+	              	<span>Turfelo</span>
+	              	<h2><a href="work-single.html">Our Works</a></h2>
 	              </div>
               </div>
             </div>
@@ -128,8 +141,8 @@
 	    				</a>
             	<div class="desc w-100 px-4">
 	              <div class="text w-100 mb-3">
-	              	<span>Nature</span>
-	              	<h2><a href="work-single.html">Beautiful Work</a></h2>
+	              	<span>Turfelo</span>
+	              	<h2><a href="work-single.html">Our Works</a></h2>
 	              </div>
               </div>
             </div>

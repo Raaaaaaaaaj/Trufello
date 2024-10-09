@@ -1,5 +1,18 @@
 <?php include '../incl/config.php' ?>
 <?php include '../incl/header.php' ?>
+<head>
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Swimming Pool</title>
+<meta name="description" content="" />
+
+<meta property="og:locale" content="en_US" />
+<meta property="og:type" content="article" />
+<meta property="og:title" content="Swimming Pool" />
+<meta property="og:image" content="" />
+<meta property="og:description" content="" />
+<meta property="og:url" content="https://www.turfelo.com/swimming_pool" />
+<link rel="canonical" href="https://www.turfelo.com/swimming_pool" />
+</head>
 <?php include '../incl/nav.php' ?>
 <div class="banner">
         <img src="<?php echo BASE_URL; ?>/images/banners/swm_pool_banner3.jpg" alt="Banner Image" class="img-fluid">
@@ -85,7 +98,7 @@
 	<div class="container">
 		<div class="row d-flex py-5">
 		<div class="col-md-6 d-flex">
-					<img class="img-fluid d-flex align-items-center justify-content-center justify-content-md-end 70vh" src="<?php echo BASE_URL; ?>/images/service/bdmntn1.jpg" alt="">
+					<img class="img-fluid d-flex align-items-center justify-content-center justify-content-md-end 70vh" src="<?php echo BASE_URL; ?>/images/service/pool_tile_instal.jpg" alt="">
     		</div>
 			<div class="col-md-6 pl-md-5">
 				<div class="row justify-content-start py-5">
@@ -112,7 +125,7 @@
 				</div>
 			</div>
 			<div class="col-md-6 d-flex">
-					<img class="img-fluid d-flex align-items-center justify-content-center justify-content-md-end 70vh" src="<?php echo BASE_URL; ?>/images/service/bdmntn1.jpg" alt="">
+					<img class="img-fluid d-flex align-items-center justify-content-center justify-content-md-end 70vh" src="<?php echo BASE_URL; ?>/images/service/pool_repair.jpg" alt="">
     		</div>
 		</div>
 	</div>
@@ -129,7 +142,15 @@
 						<h2 class="mb-4 mb-sm-2">Types of Pool:
 						</h2>
 						<p>Our types of pool page serves as a resource for understanding the different varieties of swimming pools, including concrete, fiberglass, and vinyl liner models.We examine the advantages and disadvantages of each type, along with their maintenance demands and cost factors. This information is intended to empower you to make an educated decision regarding the best pool choice for your home and lifestyle.</p>
-						<p class="mt-4 "><a href="#" class="btn btn-primary mr-md-4 py-2 px-4">Contact Us</a></p>
+						<ul>
+							<li>Fiberglass pools</li>
+							<li>Above ground pools</li>
+							<li>Vinyl liner pools</li>
+							<li>Indoor pool</li>
+							<li>Inground pools</li>
+						</ul>
+						<p class="mt-4 "><a href="<?php echo BASE_URL; ?>/contact.php" class="btn btn-primary mr-md-4 py-2 px-4">Contact Us</a></p>
+
 					</div>
 				</div>
 			</div>

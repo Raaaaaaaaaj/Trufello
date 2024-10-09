@@ -1,6 +1,20 @@
 <?php include '../incl/config.php' ?>
 <?php include '../incl/header.php' ?>
+<head>
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Cricket</title>
+<meta name="description" content="" />
+
+<meta property="og:locale" content="en_US" />
+<meta property="og:type" content="article" />
+<meta property="og:title" content="Cricket" />
+<meta property="og:image" content="" />
+<meta property="og:description" content="" />
+<meta property="og:url" content="https://www.turfelo.com/cricket_turf" />
+<link rel="canonical" href="https://www.turfelo.com/cricket_turf" />
+</head>
 <?php include '../incl/nav.php' ?>
+
 <div class="banner">
 	<img src="<?php echo BASE_URL; ?>/images/banners/cricket_banner2.jpg" alt="Banner Image" class="img-fluid">
 	<div class="overlay"></div>
@@ -27,8 +41,8 @@
 					</div>
 				</div>
 			</div>
-			<div class="col-lg-12 col-md-12 col-sm-12 d-flex">
-				<img class="img-fluid d-flex align-items-center justify-content-center justify-content-md-end 70vh" src="<?php echo BASE_URL; ?>/images/service/cricket1.webp" alt="">
+			<div class="col-lg-12 col-md-12 col-sm-12 d-flex justify-content-center">
+				<img class="img-fluid d-flex align-items-center justify-content-center justify-content-md-end 70vh" src="<?php echo BASE_URL; ?>/images/service/box_cricket.webp" alt="">
 			</div>
 
 		</div>
@@ -40,7 +54,7 @@
 	<div class="container">
 		<div class="row d-flex pt-5">
 		<div class="col-md-6 d-flex">
-					<img class="img-fluid d-flex align-items-center justify-content-center justify-content-md-end 70vh" src="<?php echo BASE_URL; ?>/images/service/swm_const2.jpg" alt="">
+					<img class="img-fluid d-flex align-items-center justify-content-center justify-content-md-end 70vh" src="<?php echo BASE_URL; ?>/images/service/cricket_net.jpg" alt="">
     		</div>
 			<div class="col-md-6 pl-md-5">
 				<div class="row justify-content-start py-5">
@@ -77,7 +91,7 @@
 				</div>
 			</div>
 			<div class="col-md-6 d-flex">
-					<img class="img-fluid d-flex align-items-center justify-content-center justify-content-md-end 70vh" src="<?php echo BASE_URL; ?>/images/service/swm_repair.webp" alt="">
+					<img class="img-fluid d-flex align-items-center justify-content-center justify-content-md-end 70vh" src="<?php echo BASE_URL; ?>/images/service/cricket2.jpg" alt="">
     		</div>
 		</div>
 	</div>

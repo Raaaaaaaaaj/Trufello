@@ -1,13 +1,26 @@
 <?php include '../incl/config.php' ?>
 <?php include '../incl/header.php' ?>
+<head>
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Project Consultancy</title>
+<meta name="description" content="" />
+
+<meta property="og:locale" content="en_US" />
+<meta property="og:type" content="article" />
+<meta property="og:title" content="Project Consultancy" />
+<meta property="og:image" content="" />
+<meta property="og:description" content="" />
+<meta property="og:url" content="https://www.turfelo.com/proj_consul" />
+<link rel="canonical" href="https://www.turfelo.com/proj_consul" />
+</head>
 <?php include '../incl/nav.php' ?>
+
 <div class="banner">
         <img src="<?php echo BASE_URL; ?>/images/banners/proj_consul1.jpg" alt="Banner Image" class="img-fluid">
         <div class="overlay"></div>
         <div class="banner-text">
         <h1 class="mb-3 bread">Project Consultancy</h1>
 		<p>Services >> Project Consultancy</p>
-
         </div>
 </div> 
 <section class="ftco-section ftco-no-pt ftco-no-pb bg-light">
@@ -40,6 +53,8 @@
 			</div>
 			<div class="col-md-5 text-md-right">
 				<span class="contact-number">+91 9831335842</span>
+				<br>
+				<span class="contact-number">turfelosupport@gmail.com</span>
 			</div>
 		</div>
 	</div>

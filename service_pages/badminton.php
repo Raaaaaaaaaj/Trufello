@@ -1,6 +1,20 @@
 <?php include '../incl/config.php' ?>
 <?php include '../incl/header.php' ?>
+<head>
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Badminton</title>
+<meta name="description" content="" />
+
+<meta property="og:locale" content="en_US" />
+<meta property="og:type" content="article" />
+<meta property="og:title" content="Badminton" />
+<meta property="og:image" content="" />
+<meta property="og:description" content="" />
+<meta property="og:url" content="https://www.turfelo.com/badminton" />
+<link rel="canonical" href="https://www.turfelo.com/badminton" />
+</head>
 <?php include '../incl/nav.php' ?>
+
 <div class="banner">
         <img src="<?php echo BASE_URL; ?>/images/service/bdmntn2.jpg" alt="Banner Image" class="img-fluid">
         <div class="overlay"></div>
@@ -25,7 +39,7 @@
 						<br>
 						At Turfelo Sports, our team comprises a wide range of engineers and project managers dedicated to creating innovative and durable designs. We are committed to comprehending the distinct requirements and goals of our clients, allowing us to offer tailored solutions that reflect our expertise in design and detailing. Our badminton court installations feature the latest flooring materials, guaranteeing an optimal playing surface to meet your specifications.
 					</p>
-					<p class="mt-4 "><a href="#" class="btn btn-primary mr-md-4 py-2 px-4">Contact Us</a></p>
+					<p class="mt-4 "><a href="<?php echo BASE_URL; ?>/contact.php" class="btn btn-primary mr-md-4 py-2 px-4">Contact Us</a></p>
 
 		          </div>
 		        </div>

@@ -1,6 +1,20 @@
 <?php include 'incl/config.php'; ?>
 <?php include 'incl/header.php'?>
+<head>
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>About us</title>
+<meta name="description" content="" />
+
+<meta property="og:locale" content="en_US" />
+<meta property="og:type" content="article" />
+<meta property="og:title" content="About us" />
+<meta property="og:image" content="" />
+<meta property="og:description" content="" />
+<meta property="og:url" content="https://www.turfelo.com/about" />
+<link rel="canonical" href="https://www.turfelo.com/about" />
+</head>
 <?php include 'incl/nav.php'?>
+
 <div class="banner">
         <img src="<?php echo BASE_URL; ?>/images/banners/football_banner4.jpg" alt="Banner Image" class="img-fluid">
         <div class="overlay"></div>
@@ -10,10 +24,11 @@
 
         </div>
 </div>  
+<?php include 'incl/fifa_section.php' ?>
 
 <section class="ftco-section ftco-no-pt ftco-no-pb bg-light">
     	<div class="container">
-    		<div class="row d-flex py-5">
+    		<div class="row d-flex py-5 py-lg-2">
     			<div class="col-md-6 pl-md-5">
     				<div class="row justify-content-start p-3 py-lg-0 mt-2 ">
 		          <div class="col-md-12 heading-section ftco-animate">
@@ -35,6 +50,9 @@
         </div>
     	</div>
 </section>
+
+<?php include 'incl/certifications.php' ?>
+
 <section class="ftco-section ftco-no-pt ftco-no-pb bg-light">
     	<div class="container">
     		<div class="row d-flex py-5">
@@ -57,9 +75,9 @@
         </div>
     	</div>
 </section>
-<?php include 'incl/best_offerings.php' ?>
 
-<section class="ftco-section testimony-section">
+<?php include 'incl/best_offerings.php' ?>
+<section class="testimony-section">
       <div class="container">
         <div class="row justify-content-center mb-2">
           <div class="col-md-7 text-center heading-section ftco-animate">

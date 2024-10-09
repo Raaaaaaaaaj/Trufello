@@ -1,6 +1,20 @@
 <?php include 'incl/config.php'; ?>
 <?php include 'incl/header.php'?>
+<head>
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Contact-Us</title>
+<meta name="description" content="" />
+
+<meta property="og:locale" content="en_US" />
+<meta property="og:type" content="article" />
+<meta property="og:title" content="Contact-Us" />
+<meta property="og:image" content="" />
+<meta property="og:description" content="" />
+<meta property="og:url" content="https://www.turfelo.com/contact" />
+<link rel="canonical" href="https://www.turfelo.com/contact" />
+</head>
 <?php include 'incl/nav.php'?>
+
 <div class="banner">
         <img src="<?php echo BASE_URL; ?>/images/banners/football_banner4.jpg" alt="Banner Image" class="img-fluid">
         <div class="overlay"></div>
@@ -41,7 +55,7 @@
 				        			<span class="fa fa-paper-plane"></span>
 				        		</div>
 				        		<div class="text">
-					            <p><span>Email:</span> <a href="mailto:info@yoursite.com">info@turfelo.com</a></p>
+					            <p><span>Email:</span> <a href="mailto:info@turfelo.com">info@turfelo.com</a></p>
 					          </div>
 				          </div>
 								</div>
@@ -51,7 +65,7 @@
 				        			<span class="fa fa-globe"></span>
 				        		</div>
 				        		<div class="text">
-					            <p><span>Website</span> <a href="#">turfelo.com</a></p>
+					            <p><span>Website</span> <a href="index.php">turfelo.com</a></p>
 					          </div>
 				          </div>
 								</div>

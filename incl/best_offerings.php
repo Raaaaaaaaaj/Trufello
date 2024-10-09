@@ -1,7 +1,7 @@
 <?php include 'config.php'; ?>
 
 <!--card section changed antara-->
-<section class="mt-5 mb-5">
+<section class="mt-5 mb-0 mb-lg-5">
 	<div class="container">
 		<div class="row">
 					<div class="col-lg-12 col-md-12 col-sm-12 text-center">

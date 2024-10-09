@@ -1,6 +1,20 @@
 <?php include '../incl/config.php' ?>
 <?php include '../incl/header.php' ?>
+<head>
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Football Turf</title>
+<meta name="description" content="" />
+
+<meta property="og:locale" content="en_US" />
+<meta property="og:type" content="article" />
+<meta property="og:title" content="Football Turf" />
+<meta property="og:image" content="" />
+<meta property="og:description" content="" />
+<meta property="og:url" content="https://www.turfelo.com/football_turf" />
+<link rel="canonical" href="https://www.turfelo.com/football_turf" />
+</head>
 <?php include '../incl/nav.php' ?>
+
 <style>
 	.text-success{
 		color: #4e9525 !important;
@@ -24,8 +38,7 @@
     			<div class="col-md-6 pl-md-5">
     				<div class="row justify-content-start py-5">
 		          <div class="col-md-12 heading-section ftco-animate">
-		          	<span class="subheading">About Our Company</span>
-		            <h2 class="mb-4">Welcome to Turfello</h2>
+		            <h2 class="mb-4">Football Turf</h2>
 		            <div class="about-text">
 					Turfello is a leading expert in constructing FIFA-standard artificial football grounds. As authorized importers and distributors of top-quality synthetic turf from renowned brands Bellinturf and CC Grass, we provide the best materials for sports fields. Our comprehensive services include manufacturing, supplying, building, and wholesaling artificial grass across India, with a particular focus on sports flooring materials and futsal ground construction. <br>
 

@@ -1,5 +1,18 @@
 <?php include '../incl/config.php' ?>
 <?php include '../incl/header.php' ?>
+<head>
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Volleyball</title>
+<meta name="description" content="" />
+
+<meta property="og:locale" content="en_US" />
+<meta property="og:type" content="article" />
+<meta property="og:title" content="Volleyball" />
+<meta property="og:image" content="" />
+<meta property="og:description" content="" />
+<meta property="og:url" content="https://www.turfelo.com/volleyball" />
+<link rel="canonical" href="https://www.turfelo.com/volleyball" />
+</head>
 <?php include '../incl/nav.php' ?>
 <div class="banner">
         <img src="<?php echo BASE_URL; ?>/images/banners/volleyball_banner.jpg" alt="Banner Image" class="img-fluid">
@@ -24,7 +37,7 @@
 						<div class="about-text">
 						Our volleyball court turf systems cater to a diverse range of applications, making them suitable for users at both global and national levels. We are committed to providing superior volleyball court turf solutions that enhance the playing experience. Our dedicated in-house engineering and project team consists of professionals with specialized knowledge in the construction and management of volleyball courts. We offer a full suite of services, including detailed consultation, expert construction, precise installation, and comprehensive maintenance of various volleyball court turf sports fields across India, ensuring that every aspect of your court is expertly handled.
 						</div>
-					<p class="mt-4 "><a href="#" class="btn btn-primary mr-md-4 py-2 px-4">Contact Us</a></p>
+					<p class="mt-4 "><a href="<?php echo BASE_URL; ?>/contact.php" class="btn btn-primary mr-md-4 py-2 px-4">Contact Us</a></p>
 					</div>
 				</div>
 			</div>
