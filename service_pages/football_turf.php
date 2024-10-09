@@ -19,16 +19,19 @@
     	<div class="container">
     		<div class="row d-flex pt-5">
 			<div class="col-md-6 d-flex">
-					<img class="img-fluid d-flex align-items-center justify-content-center justify-content-md-end 70vh" src="<?php echo BASE_URL; ?>/images/service/bdmntn1.jpg" alt="">
+					<img class="img-fluid d-flex align-items-center justify-content-center justify-content-md-end 70vh" src="<?php echo BASE_URL; ?>/images/service/football_1.jpg" alt="">
     		</div>
     			<div class="col-md-6 pl-md-5">
     				<div class="row justify-content-start py-5">
 		          <div class="col-md-12 heading-section ftco-animate">
 		          	<span class="subheading">About Our Company</span>
 		            <h2 class="mb-4">Welcome to Turfello</h2>
-		            <p>Far far away, behind the word mountains, far from the countries Vokalia and Consonantia</p>
 		            <div class="about-text">
-		            	Lorem ipsum, dolor sit amet consectetur adipisicing elit. Mollitia perferendis dignissimos eaque accusantium, ad fuga nemo ducimus reprehenderit voluptatum enim ut quia aliquid illo officia aliquam amet temporibus. Saepe esse accusantium architecto, doloribus soluta doloremque assumenda. Dignissimos hic corporis eius laudantium provident, aperiam, cupiditate, odio quibusdam quo culpa commodi. Eaque quisquam fugiat harum eligendi fuga. Ipsum sapiente mollitia incidunt excepturi.
+					Turfello is a leading expert in constructing FIFA-standard artificial football grounds. As authorized importers and distributors of top-quality synthetic turf from renowned brands Bellinturf and CC Grass, we provide the best materials for sports fields. Our comprehensive services include manufacturing, supplying, building, and wholesaling artificial grass across India, with a particular focus on sports flooring materials and futsal ground construction. <br>
+
+					Following FIFA-approved installation methodologies, we ensure every project meets the highest standards of quality and performance. Our extensive product range includes artificial football grass, cricket grass, and various sports flooring solutions. <br>
+
+					With unmatched expertise in football turf construction, Turfello guarantees exceptional results for every project, offering high-quality products and services that meet international standards. Trust us for all your sports field construction needs in India.
 		            </div>
 		          </div>
 		        </div>
@@ -46,6 +49,25 @@
 						<h2 class="mb-4">DIMENSIONS OF FOOTBALL TURF BY FIFA</h2>
 						<p class="text-center p-3 py-lg-0">The size of a football pitch should be determined by the game's laws. The playing field needs to be rectangular. The touchline's length needs to be longer than the goal line's. The FIFA recommends that professional football fields be <span class="text-success">100-130 yards (90-120 meters)</span> long and <span class="text-success">50-100 yards (45-90 meters)</span> wide for 11-a-side game. Regardless of the overall field size, the penalty area should be <span class="text-success">18 yards (16.45m)</span> from the centre of the goal line, and the penalty spot should be <span class="text-success">12 yards (10.9m)</span> from the goal.</p>
 					</div>
+					<div class="col-md-12 heading-section ftco-animate text-center">
+						<div class="row pt-4">
+							<div class="col-md-6 col-sm-12">
+								<img src="<?php echo BASE_URL; ?>/images/service/9-9.png" alt="" class="img-fluid">
+							</div>
+							<div class="col-md-6 col-sm-12">
+							<img src="<?php echo BASE_URL; ?>/images/service/7-7.png" alt="" class="img-fluid">
+
+							</div>
+							<div class="col-md-6 col-sm-12">
+							<img src="<?php echo BASE_URL; ?>/images/service/5-5.png" alt="" class="img-fluid">
+
+							</div>
+							<div class="col-md-6 col-sm-12">
+							<img src="<?php echo BASE_URL; ?>/images/service/4-4.png" alt="" class="img-fluid">
+
+							</div>
+						</div>
+					</div>
 				</div>
 			</div>
 		</div>
@@ -57,7 +79,7 @@
 	<div class="container">
 		<div class="row d-flex pt-5">
 		<div class="col-md-6 d-flex">
-					<img class="img-fluid d-flex align-items-center justify-content-center justify-content-md-end 70vh" src="<?php echo BASE_URL; ?>/images/service/swm_const2.jpg" alt="">
+					<img class="img-fluid d-flex align-items-center justify-content-center justify-content-md-end 70vh" src="<?php echo BASE_URL; ?>/images/service/football_b2.jpg" alt="">
     		</div>
 			<div class="col-md-6 pl-md-5">
 				<div class="row justify-content-start py-5">
@@ -84,7 +106,7 @@
 				</div>
 			</div>
 			<div class="col-md-6 d-flex">
-					<img class="img-fluid d-flex align-items-center justify-content-center justify-content-md-end 70vh" src="<?php echo BASE_URL; ?>/images/service/swm_repair.webp" alt="">
+					<img class="img-fluid d-flex align-items-center justify-content-center justify-content-md-end 70vh" src="<?php echo BASE_URL; ?>/images/service/football_b4.jpg" alt="">
     		</div>
 		</div>
 	</div>

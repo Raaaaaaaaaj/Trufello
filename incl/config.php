@@ -1,5 +1,5 @@
 <?php
 if (!defined('BASE_URL')) {
-    define('BASE_URL', 'http://localhost/turfelo');  // Replace with your actual base URL
+    define('BASE_URL', 'http://localhost/new_proj/trufello');  // Replace with your actual base URL
 }
 ?>
