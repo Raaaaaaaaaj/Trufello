@@ -6,7 +6,7 @@
  */
 
  /* Manually coded Avijit */
-body, html{
+ body, html{
   overflow-x: hidden;
 }
  /* Manually coded Avijit */
@@ -8665,10 +8665,11 @@ h1, h2, h3, h4, h5,
         display: none; } }
 
 .form-control {
-  height: 52px !important;
+  height: 40px !important;
   background: #fff !important;
   color: #000000 !important;
   font-size: 18px;
+  padding: 10px !important;
   border-radius: 5px;
   -webkit-box-shadow: none !important;
   box-shadow: none !important; }
@@ -9165,7 +9166,7 @@ textarea.form-control {
 .contactForm .form-control {
   border: none;
   border-bottom: 1px solid rgba(0, 0, 0, 0.1);
-  padding: 0; }
+  }
 
 .block-9 .form-control {
   outline: none !important;

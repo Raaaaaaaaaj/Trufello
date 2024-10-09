@@ -33,16 +33,21 @@
 		left: 0;
 		right: 0;
 		bottom: 0;
-		background: rgba(255, 255, 255, 0.5);
-		/* Iske saath background opacity control hoti hai */
+		background: rgb(12 12 12 / 50%);
+		
 		z-index: 1;
 	}
-
+	.contact-bg h3{
+		z-index: 2 !important;
+		position: relative;
+		color: #4e9525;
+	}
 	.contact-bg form {
 		position: relative;
 		z-index: 2;
-		/* Form content ko image ke upar rakhne ke liye */
-		padding: 20px;
+		
+		padding-left: 20px;
+		padding-right: 20px;
 		border-radius: 10px;
 	}
 
@@ -434,52 +439,56 @@
 			</div>
 
 			<div class="col-lg-6 col-md-6 col-sm-12 contact-bg">
-				<h3 class="mb-4">Contact Us</h3>
+				<h3 class="mb-2 pt-2">Contact Us</h3>
 				<!-- <div id="form-message-warning" class="mb-4"></div> 
                <div id="form-message-success" class="mb-4">
                    Your message was sent, thank you!
                </div> -->
-				<form method="POST" id="contactForm" name="contactForm" class="contactForm">
-					<div class="row">
-						<div class="col-md-6">
-							<div class="form-group">
-								<label class="label" for="name">Full Name</label>
-								<input type="text" class="form-control" name="name" id="name" placeholder="Name" oninput="removeNumbers(this)">
-							</div>
-						</div>
-						<div class="col-md-6">
-							<div class="form-group">
-								<label class="label" for="phone">Phone Number</label>
-								<input type="tel" class="form-control" id="phone" name="phone" placeholder="Phone" maxlength="10" onkeyup="numberOnly(this)">
-							</div>
-						</div>
-						<div class="col-md-12">
-							<div class="form-group">
-								<label class="label" for="email">Email Address</label>
-								<input type="email" class="form-control" name="email" id="email" placeholder="Email">
-								<span id="emailError" style="color: red; display: none;">Please enter a valid email address.</span>
-							</div>
-						</div>
-						<div class="col-md-12">
-							<div class="form-group">
-								<label class="label" for="subject">Subject</label>
-								<input type="text" class="form-control" name="subject" id="subject" placeholder="Subject">
-							</div>
-						</div>
-						<div class="col-md-12">
-							<div class="form-group">
-								<label class="label" for="#">Message</label>
-								<textarea name="message" class="form-control" id="message" cols="30" rows="4" placeholder="Message" maxlength="300"></textarea>
-							</div>
-						</div>
-						<div class="col-md-12">
-							<div class="form-group">
-								<input type="submit" value="Send Message" class="btn btn-primary">
-								<div class="submitting"></div>
-							</div>
-						</div>
-					</div>
-				</form>
+			   <form method="POST" id="contactForm" name="contactForm" class="contactForm" action="contact_db.php">
+									<div class="row">
+										<div class="col-md-6">
+											<div class="form-group">
+												<label class="label" for="name">Full Name</label>
+												<input type="text" class="form-control" name="name" id="name" placeholder="Name" onblur="validateName()">
+												<span id="nameError" style="color: red; display: none; font-size: 12px;">Name is not valid.</span>
+											</div>
+										</div>
+										<div class="col-md-6">
+											<div class="form-group">
+												<label class="label" for="phone">Phone Number</label>
+												<input type="tel" class="form-control" id="phone" name="phone" placeholder="Phone" maxlength="10" onblur="validatePhone()">
+												<span id="phoneError" style="color: red; display: none; font-size: 12px;">Please enter a valid 10-digit phone number.</span>
+											</div>
+										</div>
+										<div class="col-md-12">
+											<div class="form-group">
+												<label class="label" for="email">Email Address</label>
+												<input type="email" class="form-control" name="email" id="email" placeholder="Email" onblur="validateEmail()">
+												<span id="emailError" style="color: red; display: none; font-size: 12px;">Please enter a valid email address.</span>
+											</div>
+										</div>
+										<div class="col-md-12">
+											<div class="form-group">
+												<label class="label" for="subject">Subject</label>
+												<input type="text" class="form-control" name="subject" id="subject" placeholder="Subject" onblur="validateSubject()" maxlength="100">
+												<span id="subjectError" style="color: red; display: none; font-size: 12px;">Subject must not exceed 100 characters.</span>
+											</div>
+										</div>
+										<div class="col-md-12">
+											<div class="form-group">
+												<label class="label" for="#">Message</label>
+												<textarea name="message" class="form-control" id="message" cols="30" rows="4" placeholder="Message" maxlength="350" onblur="validateMessage()"></textarea>
+												<span id="messageError" style="color: red; display: none; font-size: 12px;">Message must not exceed 350 characters.</span>
+											</div>
+										</div>
+										<div class="col-md-12">
+											<div class="form-group">
+												<input type="submit" value="Send Message" name="submit" class="btn btn-primary" onclick="return validateForm()">
+												<div class="submitting"></div>
+											</div>
+										</div>
+									</div>
+								</form>
 			</div>
 		</div>
 	</div>
