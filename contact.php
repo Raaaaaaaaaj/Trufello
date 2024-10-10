@@ -102,7 +102,7 @@
 										<div class="col-md-12">
 											<div class="form-group">
 												<label class="label" for="subject">Subject</label>
-												<input type="text" class="form-control" name="subject" id="subject" placeholder="Subject" onblur="validateSubject()" maxlength="100">
+												<input type="text" class="form-control" name="subject" id="subject" placeholder="Subject" onblur="validateSubject()" maxlength="100" required>
 												<span id="subjectError" style="color: red; display: none; font-size: 12px;">Subject must not exceed 100 characters.</span>
 											</div>
 										</div>

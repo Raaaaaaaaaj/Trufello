@@ -210,11 +210,16 @@ window.addEventListener('scroll', function() {
         navbar.classList.add('container'); // Add container class
         navbar.classList.remove('full-width'); // Remove full-width class when at the top
 
-    }
+}
 });
   
 
-// Function to validate name (only letters and spaces)
+
+
+
+
+
+// Validation of contact form
 function validateName() {
     const nameField = document.getElementById('name');
     const nameError = document.getElementById('nameError');
@@ -222,7 +227,7 @@ function validateName() {
 
     if (!nameRegex.test(nameField.value)) {
         nameError.style.display = 'inline';
-        nameError.textContent = 'Name should contain only letters and spaces.';
+        nameError.textContent = 'Enter valid name';
         return false;
     } else {
         nameError.style.display = 'none';
@@ -244,7 +249,7 @@ function validatePhone() {
 
     if (!phoneRegex.test(phoneValue)) {
         phoneError.style.display = 'inline';
-        phoneError.textContent = 'Phone number must start with 6, 7, 8, or 9 and have exactly 10 digits.';
+        phoneError.textContent = 'Enter valid phone number';
         return false;
     } else {
         phoneError.style.display = 'none';
@@ -320,62 +325,48 @@ function validateForm() {
         return false;
     }
 }
-
-// Attach the validation function to form submit event
-document.getElementById('contactForm').addEventListener('submit', function(e) {
-    e.preventDefault(); // Prevent the default form submission
-
-    // Perform form validation
+$("#contactForm").on("submit", function(event) {
+    event.preventDefault();
     if (validateForm()) {
-        // Serialize form data
-        const formData = new FormData(this);
+        $.ajax({
+            type: "POST",
+            url: "contact_db.php",
+            dataType: 'json', // Expecting a JSON response
+            data: $(this).serialize(),
+            success: function(response) {
+                // Log the response to see if it's coming through as expected
+                console.log(response);
 
-        // Send the form data via AJAX
-        fetch('contact_db.php', {
-            method: 'POST',
-            body: formData,
-        })
-        .then(response => response.json()) // Expecting a JSON response
-        .then(data => {
-            if (data.success) {
-                // Show success SweetAlert
+                // Check if response.success exists and is properly set
+                if (response.success !== undefined && response.message !== undefined) {
+                    Swal.fire({
+                        title: response.success ? "Message Sent Successfully" : "Can't Send Message",
+                        html: response.message,
+                        icon: response.success ? "success" : "error"
+                    }).then((result) => {
+                        if (result.isConfirmed && response.success) {
+                            $("#contactForm")[0].reset();
+                        }
+                    });
+                } else {
+                    // Handle case where the response is not what was expected
+                    Swal.fire({
+                        title: "Error",
+                        text: "Unexpected response format",
+                        icon: "error"
+                    });
+                }
+            },
+            error: function(jqXHR, textStatus, errorThrown) {
+                console.log(jqXHR, textStatus, errorThrown);
                 Swal.fire({
-                    icon: 'success',
-                    title: 'Success!',
-                    text: 'Your message has been sent successfully!',
-                    confirmButtonText: 'OK'
-                }).then(() => {
-                    // Optionally reset the form after success
-                    document.getElementById('contactForm').reset();
-                });
-            } else {
-                // Show error SweetAlert if something went wrong
-                Swal.fire({
-                    icon: 'error',
-                    title: 'Error',
-                    text: 'There was an error submitting your message. Please try again.',
-                    confirmButtonText: 'OK'
+                    title: "Error",
+                    text: "An error occurred while processing your request.",
+                    icon: "error"
                 });
             }
-        })
-        .catch(error => {
-            // Handle any errors from the AJAX request
-            Swal.fire({
-                icon: 'error',
-                title: 'Error',
-                text: 'There was a problem connecting to the server. Please try again later.',
-                confirmButtonText: 'OK'
-            });
-            console.error('Error:', error);
-        });
-    } else {
-        // If validation fails, show an error alert or let individual field error messages show
-        Swal.fire({
-            icon: 'warning',
-            title: 'Validation Error',
-            text: 'Please fill out all fields correctly before submitting.',
-            confirmButtonText: 'OK'
         });
     }
 });
+
 

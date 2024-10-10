@@ -1,16 +1,13 @@
 <?php
 include "incl/database.php";
 
-
-<?php
 // Enable error reporting
 error_reporting(E_ALL);
 ini_set('display_errors', 1);
 
-// Include your database connection
-include 'db_connection.php'; // Make sure the connection is established correctly
 
-if (isset($_POST['submit'])) {
+// Check if the POST request contains required data
+if (isset($_POST['name'], $_POST['phone'], $_POST['email'], $_POST['subject'], $_POST['message'])) {
     // Escape input to prevent SQL Injection
     $name = mysqli_real_escape_string($conn, $_POST['name']);
     $phone = mysqli_real_escape_string($conn, $_POST['phone']);
@@ -26,26 +23,26 @@ if (isset($_POST['submit'])) {
     if ($stmt->execute() === false) {
         // Log SQL error
         file_put_contents('debug.log', "SQL Error: " . $stmt->error . "\n", FILE_APPEND);
-        $response = array('success' => false);
+        $response = array('success' => false, 'message' => 'SQL error occurred.');
     } else {
         // Create a response array
-        $response = array('success' => true);
+        $response = array('success' => true, 'message' => 'Data inserted successfully.');
     }
 
     // Close the statement
     $stmt->close();
-
-    // Set header for JSON response
-    header('Content-Type: application/json');
-    
-    // Send JSON response back to the frontend
-    echo json_encode($response);
+} else {
+    // If required fields are not present, return an error response
+    $response = array('success' => false, 'message' => 'Invalid form data.');
 }
+
+// Set header for JSON response
+header('Content-Type: application/json');
+
+// Send JSON response back to the frontend
+echo json_encode($response);
 
 // Close database connection
 $conn->close();
-?>
-
-
 
 ?>
