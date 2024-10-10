@@ -3,7 +3,7 @@
 	<nav class="container navbar navbar-expand-lg ftco_navbar ftco-navbar-light fixed-top" id="navbar">
 	    <div class="container-fluid px-5">
 		<a class="navbar-brand" href="<?php echo BASE_URL; ?>/index.php">
-      		<img src="<?php echo BASE_URL; ?>logo.png" alt="Logo" height="40"> <!-- Adjust path and height as needed -->
+      		<img src="<?php echo BASE_URL; ?>/images/vector_images/turfello.png" alt="Logo" height="30"> <!-- Adjust path and height as needed -->
     	</a>
 	      <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#ftco-nav" aria-controls="ftco-nav" aria-expanded="false" aria-label="Toggle navigation">
 	        <span class="fa fa-bars"></span>

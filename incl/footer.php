@@ -4,8 +4,10 @@
         <div class="row mb-5">
           <div class="col-md-6 col-lg">
             <div class="ftco-footer-widget mb-4 ml-3">
-              <h2 class="logo"><a href="#">Turf <span>Ello</span></a></h2>
-              <p class="p-3 py-lg-0">Turfello is a leading provider of premium artificial turf solutions across India With years of experience and deliver tailored products and services to meet your unique outdoor needs.</p>
+            <a class="navbar-brand mb-4" href="<?php echo BASE_URL; ?>/index.php">
+      		<img src="<?php echo BASE_URL; ?>/images/vector_images/turfello.png" alt="Logo" height="30"> <!-- Adjust path and height as needed -->
+    	    </a>
+              <p class="py-lg-0">Turfello is a leading provider of premium artificial turf solutions across India With years of experience and deliver tailored products and services to meet your unique outdoor needs.</p>
               <ul class="ftco-footer-social list-unstyled float-md-left float-lft mt-2 ml-3 ml-lg-0">
                 <li class="ftco-animate"><a href="#"><span class="icon-twitter"></span></a></li>
                 <li class="ftco-animate"><a href="#"><span class="icon-facebook"></span></a></li>
@@ -49,7 +51,7 @@
 	              <ul>
 	                <li><span class="icon icon-map-marker"></span><span class="text">Barrackpore, Kolkata-121</span></li>
 	                <li><a href="#"><span class="icon icon-phone"></span><span class="text">+91 1234567890</span></a></li>
-	                <li><a href="#"><span class="icon icon-envelope"></span><span class="text">info@turfello.com</span></a></li>
+	                <li><a href="#"><span class="icon icon-envelope"></span><span class="text">info@turfelo.com</span></a></li>
 	              </ul>
 	            </div>
             </div>
