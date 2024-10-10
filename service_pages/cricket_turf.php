@@ -10,8 +10,8 @@
 <meta property="og:title" content="Cricket" />
 <meta property="og:image" content="" />
 <meta property="og:description" content="" />
-<meta property="og:url" content="https://www.turfelo.com/cricket_turf" />
-<link rel="canonical" href="https://www.turfelo.com/cricket_turf" />
+<meta property="og:url" content="https://www.turfello.com/cricket_turf" />
+<link rel="canonical" href="https://www.turfello.com/cricket_turf" />
 </head>
 <?php include '../incl/nav.php' ?>
 

@@ -2,22 +2,22 @@
 <?php include 'incl/header.php' ?>
 <head>
 <meta name="viewport" content="width=device-width, initial-scale=1">
-<title>Turfelo | Your one stop solution for any turf needs</title>
+<title>Turfello | Your one stop solution for any turf needs</title>
 <meta name="description" content="" />
 
 <meta property="og:locale" content="en_US" />
 <meta property="og:type" content="article" />
-<meta property="og:title" content="Turfelo | Your one stop solution for any turf needs" />
+<meta property="og:title" content="Turfello | Your one stop solution for any turf needs" />
 <meta property="og:image" content="" />
 <meta property="og:description" content="" />
-<meta property="og:url" content="https://www.turfelo.com" />
-<link rel="canonical" href="https://www.turfelo.com" />
+<meta property="og:url" content="https://www.turfello.com" />
+<link rel="canonical" href="https://www.turfello.com" />
 </head>
 <?php include 'incl/nav.php' ?>
 
 <style>
 	.contact-bg {
-		background-image: url('https://images.pexels.com/photos/6078298/pexels-photo-6078298.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1');
+		background-image: url('images/banners/contact.jpeg');
 		/* Image URL yahan lagayein */
 		background-size: cover;
 		background-position: center;
@@ -74,7 +74,7 @@
 			<div class="container">
 				<div class="row no-gutters slider-text js-fullheight align-items-center justify-content-start" data-scrollax-parent="true">
 					<div class="col-md-12 col-lg-12 ftco-animate">
-						<h2 class="subheading">Welcome to Turfelo</h2>
+						<h2 class="subheading">Welcome to Turfello</h2>
 						<h1>Changing the Definition of Sports Infrastructure</h1>
 						<p class="mb-4">Let us work on your yard</p>
 						<p><a href="about.php" class="btn btn-primary mr-md-4 py-2 px-4">Learn more</a></p>
@@ -134,7 +134,7 @@
 					<div class="text-left p-3 py-lg-0">
 						<span class="subheading">Who are we</span>
 						<h2 class="mb-4">Innovators in Sustainable and High-Performance Turf Solutions</h2>
-						<p>Turfelo is recognized as one of the top producers and distributors of synthetic turf grass in India. We are committed to delivering top-quality synthetic turf grass suitable for athletic and landscaping purposes.With an internal engineering and project team consisting of industry professionals in sports construction and management.</p>
+						<p>Turfello is recognized as one of the top producers and distributors of synthetic turf grass in India. We are committed to delivering top-quality synthetic turf grass suitable for athletic and landscaping purposes.With an internal engineering and project team consisting of industry professionals in sports construction and management.</p>
 						<p><a href="<?php echo BASE_URL; ?>/about.php" class="btn btn-primary mr-md-4 py-2 px-4">Get in touch</a></p>
 					</div>
 				</div>
@@ -370,7 +370,7 @@
 						</div>
 						<div id="collapseOne" class="collapse" aria-labelledby="headingOne" data-parent="#accordion">
 							<div class="card-body">
-								<p>At Turfelo, we offer a variety of sports facilities including football turf, badminton court, swimming pool, volleyball court, basketball turf, tennis court, and multisport turf. Whether you are looking for a place to play with friends or host a tournament, our premium turfs are designed to cater to all your needs.</p>
+								<p>At Turfello, we offer a variety of sports facilities including football turf, badminton court, swimming pool, volleyball court, basketball turf, tennis court, and multisport turf. Whether you are looking for a place to play with friends or host a tournament, our premium turfs are designed to cater to all your needs.</p>
 							</div>
 						</div>
 					</div>

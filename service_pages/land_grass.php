@@ -10,8 +10,8 @@
 <meta property="og:title" content="Landscape Grass" />
 <meta property="og:image" content="" />
 <meta property="og:description" content="" />
-<meta property="og:url" content="https://www.turfelo.com/land_grass" />
-<link rel="canonical" href="https://www.turfelo.com/land_grass" />
+<meta property="og:url" content="https://www.turfello.com/land_grass" />
+<link rel="canonical" href="https://www.turfello.com/land_grass" />
 </head>
 <?php include '../incl/nav.php' ?>
 
@@ -52,15 +52,15 @@
 				<div class="row justify-content-start pb-5">
 					<div class="col-md-12 heading-section ftco-animate text-center">
 						<h2 class="mb-4">Why choose our artificial landscape grass</h2>
-						<p>At Turfelo, we understand the value of creating a beautiful, functional landscape that enhances the appeal of your space. With years of experience in artificial grass installation, our skilled team delivers flawless results that seamlessly integrate with your existing surroundings. We source top-quality artificial grass known for its durability and ability to withstand India’s varied climate, ensuring that your investment remains long-lasting and vibrant.
+						<p>At Turfello, we understand the value of creating a beautiful, functional landscape that enhances the appeal of your space. With years of experience in artificial grass installation, our skilled team delivers flawless results that seamlessly integrate with your existing surroundings. We source top-quality artificial grass known for its durability and ability to withstand India’s varied climate, ensuring that your investment remains long-lasting and vibrant.
 
 We specialize in providing customized solutions tailored to your unique requirements—whether for a residential garden, a commercial property, or a recreational area. Our artificial grass is designed to be virtually maintenance-free, saving you the time and effort typically spent on mowing, watering, and fertilizing. With Turfelo, you can enjoy a pristine, green landscape without the usual upkeep.
 
-Our artificial grass is also eco-friendly, reducing water consumption and eliminating the need for harmful pesticides and fertilizers. By choosing Turfelo, you’re not just investing in a beautiful outdoor space—you’re contributing to a greener, more sustainable environment.
+Our artificial grass is also eco-friendly, reducing water consumption and eliminating the need for harmful pesticides and fertilizers. By choosing Turfello, you’re not just investing in a beautiful outdoor space—you’re contributing to a greener, more sustainable environment.
 
-At Turfelo, we pride ourselves on offering competitive pricing while maintaining the highest quality in both products and services. Your satisfaction is our top priority, and we stand behind every installation, ensuring you are thrilled with the transformation of your space.
+At Turfello, we pride ourselves on offering competitive pricing while maintaining the highest quality in both products and services. Your satisfaction is our top priority, and we stand behind every installation, ensuring you are thrilled with the transformation of your space.
 
-Let Turfelo turn your outdoor area into a lush, low-maintenance oasis. Serving clients across India, we deliver premium artificial grass installations that make a lasting impact. Contact us today for a free consultation, and let’s create the perfect green space for your property!</p>
+Let Turfello turn your outdoor area into a lush, low-maintenance oasis. Serving clients across India, we deliver premium artificial grass installations that make a lasting impact. Contact us today for a free consultation, and let’s create the perfect green space for your property!</p>
 					</div>
 				</div>
 			</div>

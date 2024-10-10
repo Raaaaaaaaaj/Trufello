@@ -11,8 +11,8 @@
 	<meta property="og:title" content="Contact-Us" />
 	<meta property="og:image" content="" />
 	<meta property="og:description" content="" />
-	<meta property="og:url" content="https://www.turfelo.com/contact" />
-	<link rel="canonical" href="https://www.turfelo.com/contact" />
+	<meta property="og:url" content="https://www.turfello.com/contact" />
+	<link rel="canonical" href="https://www.turfello.com/contact" />
 </head>
 <?php include 'incl/nav.php' ?>
 
@@ -56,7 +56,7 @@
 									<span class="fa fa-paper-plane"></span>
 								</div>
 								<div class="text">
-									<p><span>Email:</span> <a href="mailto:info@turfelo.com">info@turfelo.com</a></p>
+									<p><span>Email:</span> <a href="mailto:info@turfello.com">info@turfello.com</a></p>
 								</div>
 							</div>
 						</div>
@@ -66,7 +66,7 @@
 									<span class="fa fa-globe"></span>
 								</div>
 								<div class="text">
-									<p><span>Website</span> <a href="index.php">turfelo.com</a></p>
+									<p><span>Website</span> <a href="index.php">turfello.com</a></p>
 								</div>
 							</div>
 						</div>

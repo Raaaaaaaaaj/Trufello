@@ -10,8 +10,8 @@
 <meta property="og:title" content="Tennis" />
 <meta property="og:image" content="" />
 <meta property="og:description" content="" />
-<meta property="og:url" content="https://www.turfelo.com/tennis" />
-<link rel="canonical" href="https://www.turfelo.com/tennis" />
+<meta property="og:url" content="https://www.turfello.com/tennis" />
+<link rel="canonical" href="https://www.turfello.com/tennis" />
 </head>
 <?php include '../incl/nav.php' ?>
 <div class="banner">
@@ -34,7 +34,7 @@
 		          <div class="col-md-12 heading-section ftco-animate">
 		            <h2 class="mb-4">
 					TENNIS</h2>
-		            <p>Turfelo stands out as a leading supplier of artificial turf for tennis court construction in India. Our commitment lies in delivering high-quality artificial grass suitable for both athletic and landscaping applications. Our in-house engineering and project team consists of specialists in sports construction and management, with a particular focus on tennis court development. We provide comprehensive services, including consultation, construction, installation, and maintenance of various types of artificial grass for tennis courts.</p>
+		            <p>Turfello stands out as a leading supplier of artificial turf for tennis court construction in India. Our commitment lies in delivering high-quality artificial grass suitable for both athletic and landscaping applications. Our in-house engineering and project team consists of specialists in sports construction and management, with a particular focus on tennis court development. We provide comprehensive services, including consultation, construction, installation, and maintenance of various types of artificial grass for tennis courts.</p>
 		            <ul>
 						<li>Versatile surface designed for year-round application</li>
 						<li>Minimal maintenance required</li>

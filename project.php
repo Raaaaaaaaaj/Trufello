@@ -10,8 +10,8 @@
 <meta property="og:title" content="Projects" />
 <meta property="og:image" content="" />
 <meta property="og:description" content="" />
-<meta property="og:url" content="https://www.turfelo.com/project" />
-<link rel="canonical" href="https://www.turfelo.com/project" />
+<meta property="og:url" content="https://www.turfello.com/project" />
+<link rel="canonical" href="https://www.turfello.com/project" />
 </head>
 <?php include 'incl/nav.php'?>
 
@@ -33,7 +33,7 @@
               <a href="blog-single.html" class="block-20" style="background-image: url('images/image_1.jpg');">
               </a>
               <div class="text p-4 float-right d-block">
-              	<h3 class="heading mb-0"><a href="#">All you want to know about Turfelo</a></h3>
+              	<h3 class="heading mb-0"><a href="#">All you want to know about Turfello</a></h3>
                 <p><a href="#" class="btn btn-primary d-none">Read more</a></p>
               </div>
             </div>
@@ -43,7 +43,7 @@
               <a href="blog-single.html" class="block-20" style="background-image: url('images/image_2.jpg');">
               </a>
               <div class="text p-4 float-right d-block">            
-              	<h3 class="heading mb-0"><a href="#">All you want to know about Turfelo</a></h3>
+              	<h3 class="heading mb-0"><a href="#">All you want to know about Turfello</a></h3>
                 <p><a href="#" class="btn btn-primary d-none">Read more</a></p>
               </div>
             </div>
@@ -53,7 +53,7 @@
               <a href="blog-single.html" class="block-20" style="background-image: url('images/image_3.jpg');">
               </a>
               <div class="text p-4 float-right d-block">
-              	<h3 class="heading mb-0"><a href="#">All you want to know about Turfelo</a></h3>                
+              	<h3 class="heading mb-0"><a href="#">All you want to know about Turfello</a></h3>                
                 <p><a href="#" class="btn btn-primary d-none">Read more</a></p>
               </div>
             </div>
@@ -63,7 +63,7 @@
               <a href="blog-single.html" class="block-20" style="background-image: url('images/image_4.jpg');">
               </a>
               <div class="text p-4 float-right d-block">
-              	<h3 class="heading mb-0"><a href="#">All you want to know about Turfelo</a></h3>                
+              	<h3 class="heading mb-0"><a href="#">All you want to know about Turfello</a></h3>                
                 <p><a href="#" class="btn btn-primary d-none">Read more</a></p>
               </div>
             </div>
@@ -73,7 +73,7 @@
               <a href="blog-single.html" class="block-20" style="background-image: url('images/image_5.jpg');">
               </a>
               <div class="text p-4 float-right d-block">              	
-              	<h3 class="heading mb-0"><a href="#">All you want to know about Turfelo</a></h3>
+              	<h3 class="heading mb-0"><a href="#">All you want to know about Turfello</a></h3>
                 <p><a href="#" class="btn btn-primary d-none">Read more</a></p>
               </div>
             </div>
@@ -83,7 +83,7 @@
               <a href="blog-single.html" class="block-20" style="background-image: url('images/image_6.jpg');">
               </a>
               <div class="text p-4 float-right d-block">              
-              	<h3 class="heading mb-0"><a href="#">All you want to know about Turfelo</a></h3>                
+              	<h3 class="heading mb-0"><a href="#">All you want to know about Turfello</a></h3>                
                 <p><a href="#" class="btn btn-primary d-none">Read more</a></p>
               </div>
             </div>

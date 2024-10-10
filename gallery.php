@@ -10,8 +10,8 @@
 <meta property="og:title" content="Gallery" />
 <meta property="og:image" content="" />
 <meta property="og:description" content="" />
-<meta property="og:url" content="https://www.turfelo.com/gallery" />
-<link rel="canonical" href="https://www.turfelo.com/gallery" />
+<meta property="og:url" content="https://www.turfello.com/gallery" />
+<link rel="canonical" href="https://www.turfello.com/gallery" />
 </head>
 <?php include 'incl/nav.php'?>
 
@@ -35,7 +35,7 @@
 	    				</a>
             	<div class="desc w-100 px-4">
 	              <div class="text w-100 mb-3">
-	              	<span>Turfelo</span>
+	              	<span>Turfello</span>
 	              	<h2><a href="work-single.html">Our Works</a></h2>
 	              </div>
               </div>
@@ -48,7 +48,7 @@
 	    				</a>
             	<div class="desc w-100 px-4">
 	              <div class="text w-100 mb-3">
-	              	<span>Turfelo</span>
+	              	<span>Turfello</span>
 	              	<h2><a href="work-single.html">Our Works</a></h2>
 	              </div>
               </div>
@@ -61,7 +61,7 @@
 	    				</a>
             	<div class="desc w-100 px-4">
 	              <div class="text w-100 mb-3">
-	              	<span>Turfelo</span>
+	              	<span>Turfello</span>
 	              	<h2><a href="work-single.html">Our Works</a></h2>
 	              </div>
               </div>
@@ -75,7 +75,7 @@
 	    				</a>
             	<div class="desc w-100 px-4">
 	              <div class="text w-100 mb-3">
-	              	<span>Turfelo</span>
+	              	<span>Turfello</span>
 	              	<h2><a href="work-single.html">Our Works</a></h2>
 	              </div>
               </div>
@@ -88,7 +88,7 @@
 	    				</a>
             	<div class="desc w-100 px-4">
 	              <div class="text w-100 mb-3">
-	              	<span>Turfelo</span>
+	              	<span>Turfello</span>
 	              	<h2><a href="work-single.html">Our Works</a></h2>
 	              </div>
               </div>
@@ -101,7 +101,7 @@
 	    				</a>
             	<div class="desc w-100 px-4">
 	              <div class="text w-100 mb-3">
-	              	<span>Turfelo</span>
+	              	<span>Turfello</span>
 	              	<h2><a href="work-single.html">Our Works</a></h2>
 	              </div>
               </div>
@@ -115,7 +115,7 @@
 	    				</a>
             	<div class="desc w-100 px-4">
 	              <div class="text w-100 mb-3">
-	              	<span>Turfelo</span>
+	              	<span>Turfello</span>
 	              	<h2><a href="work-single.html">Our Works</a></h2>
 	              </div>
               </div>
@@ -128,7 +128,7 @@
 	    				</a>
             	<div class="desc w-100 px-4">
 	              <div class="text w-100 mb-3">
-	              	<span>Turfelo</span>
+	              	<span>Turfello</span>
 	              	<h2><a href="work-single.html">Our Works</a></h2>
 	              </div>
               </div>
@@ -141,7 +141,7 @@
 	    				</a>
             	<div class="desc w-100 px-4">
 	              <div class="text w-100 mb-3">
-	              	<span>Turfelo</span>
+	              	<span>Turfello</span>
 	              	<h2><a href="work-single.html">Our Works</a></h2>
 	              </div>
               </div>

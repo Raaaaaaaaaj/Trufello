@@ -10,8 +10,8 @@
 <meta property="og:title" content="Basketball" />
 <meta property="og:image" content="" />
 <meta property="og:description" content="" />
-<meta property="og:url" content="https://www.turfelo.com/basketball" />
-<link rel="canonical" href="https://www.turfelo.com/basketball" />
+<meta property="og:url" content="https://www.turfello.com/basketball" />
+<link rel="canonical" href="https://www.turfello.com/basketball" />
 </head>
 <?php include '../incl/nav.php' ?>
 
@@ -34,7 +34,7 @@
 				<div class="row justify-content-start py-5">
 					<div class="col-md-12 heading-section ftco-animate">
 						<h2 class="mb-4">Basketball Court</h2>
-						<p>Turfelo Sports is a company dedicated to the development of premium sports facilities, with a particular focus on basketball courts. They provide a comprehensive suite of services aimed at assisting clients in the design and construction of bespoke basketball courts tailored to their unique requirements and tastes.</p>
+						<p>Turfello Sports is a company dedicated to the development of premium sports facilities, with a particular focus on basketball courts. They provide a comprehensive suite of services aimed at assisting clients in the design and construction of bespoke basketball courts tailored to their unique requirements and tastes.</p>
 						<div class="about-text">
 							The construction process for a basketball court at Trufello Sports typically commences with an initial consultation to explore the client's vision. During this phase, they consider various elements such as the available space, the court's intended use, and the client's budget to create a personalized design that aligns with their objectives.
 

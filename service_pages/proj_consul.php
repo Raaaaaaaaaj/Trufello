@@ -10,8 +10,8 @@
 <meta property="og:title" content="Project Consultancy" />
 <meta property="og:image" content="" />
 <meta property="og:description" content="" />
-<meta property="og:url" content="https://www.turfelo.com/proj_consul" />
-<link rel="canonical" href="https://www.turfelo.com/proj_consul" />
+<meta property="og:url" content="https://www.turfello.com/proj_consul" />
+<link rel="canonical" href="https://www.turfello.com/proj_consul" />
 </head>
 <?php include '../incl/nav.php' ?>
 
@@ -33,7 +33,7 @@
     				<div class="row justify-content-start py-5">
 		          <div class="col-md-12 heading-section ftco-animate">
 		            <h2 class="mb-4">PROJECT CONSULTANCY</h2>
-		            <p>Turfelo Sports stands as a premier provider of high-quality Artificial Turf Grass throughout India.With a significant presence nationwide, we take pride in offering thorough consultation services for all forms of artificial turf installations.</p>
+		            <p>Turfello Sports stands as a premier provider of high-quality Artificial Turf Grass throughout India.With a significant presence nationwide, we take pride in offering thorough consultation services for all forms of artificial turf installations.</p>
 		            <div class="about-text">
 					 Our experienced team is equipped to assist clients with residential, commercial, or sports facility needs, guiding them through every step of the artificial turf process. We emphasize personalized consultations, engaging in detailed discussions to fully understand the specific requirements of each project. Our commitment to quality means that clients benefit from superior products and exceptional support, from the initial selection through installation and beyond.Trufello Sports is committed to delivering reliable and customized solutions that cater to the diverse requirements of our clientele nationwide.
 		            </div>
@@ -54,7 +54,7 @@
 			<div class="col-md-5 text-md-right">
 				<span class="contact-number">+91 9831335842</span>
 				<br>
-				<span class="contact-number">turfelosupport@gmail.com</span>
+				<span class="contact-number">turfellosupport@gmail.com</span>
 			</div>
 		</div>
 	</div>

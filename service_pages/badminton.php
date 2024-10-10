@@ -10,8 +10,8 @@
 <meta property="og:title" content="Badminton" />
 <meta property="og:image" content="" />
 <meta property="og:description" content="" />
-<meta property="og:url" content="https://www.turfelo.com/badminton" />
-<link rel="canonical" href="https://www.turfelo.com/badminton" />
+<meta property="og:url" content="https://www.turfello.com/badminton" />
+<link rel="canonical" href="https://www.turfello.com/badminton" />
 </head>
 <?php include '../incl/nav.php' ?>
 
@@ -33,11 +33,11 @@
     				<div class="row justify-content-start py-5">
 		          <div class="col-md-12 heading-section ftco-animate">
 		            <h2 class="mb-4">BADMINTON COURT</h2>
-		            <p>Turfelo Sports is a top provider of high-quality badminton court flooring materials. Our dedication to perfection is evident in the high quality of our indoor and outdoor badminton courts, which provide an unparalleled playing experience and good grip for players. Our all-weather surfaces are intended for year-round use and need no maintenance, making them a dependable option for badminton players.</p>
+		            <p>Turfello Sports is a top provider of high-quality badminton court flooring materials. Our dedication to perfection is evident in the high quality of our indoor and outdoor badminton courts, which provide an unparalleled playing experience and good grip for players. Our all-weather surfaces are intended for year-round use and need no maintenance, making them a dependable option for badminton players.</p>
 		            
 		            <p><span style="color: #75ac56; font-weight: 700;">What we do?</span>
 						<br>
-						At Turfelo Sports, our team comprises a wide range of engineers and project managers dedicated to creating innovative and durable designs. We are committed to comprehending the distinct requirements and goals of our clients, allowing us to offer tailored solutions that reflect our expertise in design and detailing. Our badminton court installations feature the latest flooring materials, guaranteeing an optimal playing surface to meet your specifications.
+						At Turfello Sports, our team comprises a wide range of engineers and project managers dedicated to creating innovative and durable designs. We are committed to comprehending the distinct requirements and goals of our clients, allowing us to offer tailored solutions that reflect our expertise in design and detailing. Our badminton court installations feature the latest flooring materials, guaranteeing an optimal playing surface to meet your specifications.
 					</p>
 					<p class="mt-4 "><a href="<?php echo BASE_URL; ?>/contact.php" class="btn btn-primary mr-md-4 py-2 px-4">Contact Us</a></p>
 

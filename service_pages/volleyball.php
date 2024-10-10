@@ -10,8 +10,8 @@
 <meta property="og:title" content="Volleyball" />
 <meta property="og:image" content="" />
 <meta property="og:description" content="" />
-<meta property="og:url" content="https://www.turfelo.com/volleyball" />
-<link rel="canonical" href="https://www.turfelo.com/volleyball" />
+<meta property="og:url" content="https://www.turfello.com/volleyball" />
+<link rel="canonical" href="https://www.turfello.com/volleyball" />
 </head>
 <?php include '../incl/nav.php' ?>
 <div class="banner">
@@ -33,7 +33,7 @@
 				<div class="row justify-content-start py-5">
 					<div class="col-md-12 heading-section ftco-animate">
 						<h2 class="mb-4">VOLLEY BALL</h2>
-						<p>Turfelo is a leading provider of synthetic grass specifically engineered for volleyball courts, designed to deliver consistent performance regardless of environmental conditions. Our products are suitable for a variety of settings, including international and national volleyball competitions, as well as for clubs, schools, and residential courts.</p>
+						<p>Turfello is a leading provider of synthetic grass specifically engineered for volleyball courts, designed to deliver consistent performance regardless of environmental conditions. Our products are suitable for a variety of settings, including international and national volleyball competitions, as well as for clubs, schools, and residential courts.</p>
 						<div class="about-text">
 						Our volleyball court turf systems cater to a diverse range of applications, making them suitable for users at both global and national levels. We are committed to providing superior volleyball court turf solutions that enhance the playing experience. Our dedicated in-house engineering and project team consists of professionals with specialized knowledge in the construction and management of volleyball courts. We offer a full suite of services, including detailed consultation, expert construction, precise installation, and comprehensive maintenance of various volleyball court turf sports fields across India, ensuring that every aspect of your court is expertly handled.
 						</div>

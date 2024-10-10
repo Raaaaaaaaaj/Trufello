@@ -10,8 +10,8 @@
 <meta property="og:title" content="About us" />
 <meta property="og:image" content="" />
 <meta property="og:description" content="" />
-<meta property="og:url" content="https://www.turfelo.com/about" />
-<link rel="canonical" href="https://www.turfelo.com/about" />
+<meta property="og:url" content="https://www.turfello.com/about" />
+<link rel="canonical" href="https://www.turfello.com/about" />
 </head>
 <?php include 'incl/nav.php'?>
 
@@ -34,7 +34,7 @@
 		          <div class="col-md-12 heading-section ftco-animate">
 		          	<span class="subheading">Who are we</span>
 		            <h2 class="mb-4">Welcome to Turfello</h2>
-		            <p>Trufello Sports Infrastructure is recognized as one of the top producers and distributors of synthetic turf grass in India. We are committed to delivering top-quality synthetic turf grass suitable for athletic and landscaping purposes. With an internal engineering and project team consisting of industry professionals in sports construction and management, we have a extensive list of satisfied customers.</p>
+		            <p>Turfello Sports Infrastructure is recognized as one of the top producers and distributors of synthetic turf grass in India. We are committed to delivering top-quality synthetic turf grass suitable for athletic and landscaping purposes. With an internal engineering and project team consisting of industry professionals in sports construction and management, we have a extensive list of satisfied customers.</p>
 		            <p>
                 We specialize in building both indoor and outdoor facilities for all types of conditions, regardless of land terrain, soil condition, or project location. Our services encompass consultation, construction, installation, and maintenance of various types of artificial turf sports fields across India..
 		            </p>
@@ -91,7 +91,7 @@
               <div class="item">
                 <div class="testimony-wrap py-4">
                   <div class="text">
-                    <p class="mb-4">Meckavo Sports & Infra exceeded our expectations! The artificial turf they installed in our backyard looks fantastic, and their team was professional and efficient throughout the entire process. Highly recommend!</p>
+                    <p class="mb-4">Turfello exceeded our expectations! The artificial turf they installed in our backyard looks fantastic, and their team was professional and efficient throughout the entire process. Highly recommend!</p>
                     <div class="d-flex align-items-center">
                     	<div class="user-img" style="background-image: url(images/person_1.jpg)"></div>
                     	<div class="pl-3">

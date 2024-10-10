@@ -10,8 +10,8 @@
 <meta property="og:title" content="Football Turf" />
 <meta property="og:image" content="" />
 <meta property="og:description" content="" />
-<meta property="og:url" content="https://www.turfelo.com/football_turf" />
-<link rel="canonical" href="https://www.turfelo.com/football_turf" />
+<meta property="og:url" content="https://www.turfello.com/football_turf" />
+<link rel="canonical" href="https://www.turfello.com/football_turf" />
 </head>
 <?php include '../incl/nav.php' ?>
 

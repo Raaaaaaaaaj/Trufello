@@ -10,8 +10,8 @@
 <meta property="og:title" content="Swimming Pool" />
 <meta property="og:image" content="" />
 <meta property="og:description" content="" />
-<meta property="og:url" content="https://www.turfelo.com/swimming_pool" />
-<link rel="canonical" href="https://www.turfelo.com/swimming_pool" />
+<meta property="og:url" content="https://www.turfello.com/swimming_pool" />
+<link rel="canonical" href="https://www.turfello.com/swimming_pool" />
 </head>
 <?php include '../incl/nav.php' ?>
 <div class="banner">
@@ -120,7 +120,7 @@
 					<div class="col-md-12 heading-section ftco-animate">
 						<h2 class="mb-4">Swimming Pool Repair:
 						</h2>
-						<p>Turfelo provides exceptional repair services for your swimming pool. Our skilled technicians are equipped to identify and resolve a wide range of issues, including leaks, cracks, and equipment failures.We exclusively use high-quality replacement parts and materials, ensuring that every repair is performed to the highest standards. Our team is dedicated to working closely with clients to ensure their pools are restored to peak condition promptly.</p>
+						<p>Turfello provides exceptional repair services for your swimming pool. Our skilled technicians are equipped to identify and resolve a wide range of issues, including leaks, cracks, and equipment failures.We exclusively use high-quality replacement parts and materials, ensuring that every repair is performed to the highest standards. Our team is dedicated to working closely with clients to ensure their pools are restored to peak condition promptly.</p>
 					</div>
 				</div>
 			</div>

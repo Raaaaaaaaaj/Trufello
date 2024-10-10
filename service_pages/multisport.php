@@ -10,8 +10,8 @@
 <meta property="og:title" content="Multisport Turf" />
 <meta property="og:image" content="" />
 <meta property="og:description" content="" />
-<meta property="og:url" content="https://www.turfelo.com/multisport" />
-<link rel="canonical" href="https://www.turfelo.com/multisport" />
+<meta property="og:url" content="https://www.turfello.com/multisport" />
+<link rel="canonical" href="https://www.turfello.com/multisport" />
 </head>
 <?php include '../incl/nav.php' ?>
 
@@ -34,7 +34,7 @@
 				<div class="row justify-content-start">
 					<div class="col-md-12 heading-section ftco-animate">
 					<h2 class="mb-4">Multisport Turf</h2>
-						<p>At Turfelo, we are dedicated to delivering top-notch sports infrastructure solutions to our clients. With extensive experience in the industry, we have positioned ourselves as a premier provider of sports turf products and a leading construction company in India.</p>
+						<p>At Turfello, we are dedicated to delivering top-notch sports infrastructure solutions to our clients. With extensive experience in the industry, we have positioned ourselves as a premier provider of sports turf products and a leading construction company in India.</p>
 						<div class="about-text">
 						Our multi-sport turf ground stands out as one of our most sought-after offerings. We recognize that each client has distinct needs, which is why we provide fully customizable solutions. By collaborating closely with our clients, we gain a comprehensive understanding of their requirements and limitations, allowing us to tailor our offerings accordingly. Whether you are working with a tight budget or limited space, we can design a multi-sport turf ground that fulfills your needs for both indoor and outdoor use.
 						<br>
@@ -72,7 +72,7 @@
 				<div class="row justify-content-start py-5">
 					<div class="col-md-12 heading-section ftco-animate">
 					<h2 class="mb-4"> We specialize in two different forms of multi-sport turf construction</h2>
-					<p> At Turfelo, our mission is to provide clients with superior sports infrastructure solutions. With a wealth of experience in the field, we have established ourselves as a leading supplier of sports turf products and a top construction firm in India.
+					<p> At Turfello, our mission is to provide clients with superior sports infrastructure solutions. With a wealth of experience in the field, we have established ourselves as a leading supplier of sports turf products and a top construction firm in India.
 					</p>
 					<div class="about-text">
 						Among our flagship offerings is the multi-sport turf ground, which has gained immense popularity due to its versatility and adaptability. We recognize that each client has unique specifications and requirements, prompting us to provide entirely customizable solutions that align with their vision. By engaging closely with our clients throughout the process, we are able to identify their specific needs and constraints, enabling us to adapt our solutions accordingly. Regardless of budget limitations or spatial constraints, we have the capability to develop a multi-sport turf ground that caters to your requirements for both indoor and outdoor use. Our focus on delivering high-quality products and services ensures that our clients receive the best possible outcomes for their sports infrastructure projects.

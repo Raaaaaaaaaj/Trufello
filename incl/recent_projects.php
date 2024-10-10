@@ -13,7 +13,7 @@
               <a href="<?php echo BASE_URL; ?>/project.php" class="block-20" style="background-image: url('<?php echo BASE_URL; ?>/images/image_4.jpg');">
               </a>
               <div class="text p-4 float-right d-block">
-              	<h3 class="heading mb-0">All you want to know about Turfelo</h3> 
+              	<h3 class="heading mb-0">All you want to know about Turfello</h3> 
               </div>
             </div>
           </div>
@@ -22,7 +22,7 @@
               <a href="<?php echo BASE_URL; ?>/project.php" class="block-20" style="background-image: url('<?php echo BASE_URL; ?>/images/image_5.jpg');">
               </a>
               <div class="text p-4 float-right d-block">              	
-              	<h3 class="heading mb-0">All you want to know about Turfelo</h3>
+              	<h3 class="heading mb-0">All you want to know about Turfello</h3>
               </div>
             </div>
           </div>
@@ -31,7 +31,7 @@
               <a href="<?php echo BASE_URL; ?>/project.php" class="block-20" style="background-image: url('<?php echo BASE_URL; ?>/images/image_6.jpg');">
               </a>
               <div class="text p-4 float-right d-block">              
-              	<h3 class="heading mb-0">All you want to know about Turfelo</h3>
+              	<h3 class="heading mb-0">All you want to know about Turfello</h3>
               </div>
             </div>
           </div>
